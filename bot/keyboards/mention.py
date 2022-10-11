@@ -5,6 +5,7 @@ from bot import messages
 
 
 def keyboard() -> types.InlineKeyboardMarkup:
+    return None  # was annoying
 
     button = types.InlineKeyboardButton(
         **messages.common.mention_button()

@@ -1,2 +1,2 @@
 # GIDataBot
- Klee's Notes 🍀 — t.me/GIDataBot
+ Klee's Notes 🍀 — https://t.me/GIDataBot
