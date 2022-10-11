@@ -1,0 +1,1 @@
+from bot.messages.menu import index, characters, character_view

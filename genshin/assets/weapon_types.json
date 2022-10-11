@@ -1,0 +1,87 @@
+{
+    "sword": {
+        "name": {
+            "en": "Sword",
+            "zh_Hans": "单手剑",
+            "zh_Hant": "單手劍",
+            "ja": "片手剣",
+            "ko": "한손검",
+            "id": "Sword",
+            "th": "ดาบ",
+            "vi": "Kiếm Đơn",
+            "de": "Einhänder",
+            "fr": "Épée à une main",
+            "pt": "Espada",
+            "es": "Espada ligera",
+            "ru": "Одноручное"
+        }
+    },
+    "claymore": {
+        "name": {
+            "en": "Claymore",
+            "zh_Hans": "双手剑",
+            "zh_Hant": "雙手劍",
+            "ja": "両手剣",
+            "ko": "양손검",
+            "id": "Claymore",
+            "th": "ดาบใหญ่",
+            "vi": "Trọng Kiếm",
+            "de": "Zweihänder",
+            "fr": "Épée à deux mains",
+            "pt": "Espadão",
+            "es": "Mandoble",
+            "ru": "Двуручное"
+        }
+    },
+    "polearm": {
+        "name": {
+            "en": "Polearm",
+            "zh_Hans": "长柄武器",
+            "zh_Hant": "長柄武器",
+            "ja": "長柄武器",
+            "ko": "장병기",
+            "id": "Polearm",
+            "th": "หอก",
+            "vi": "Vũ Khí Cán Dài",
+            "de": "Stangenwaffe",
+            "fr": "Arme d'hast",
+            "pt": "Lança",
+            "es": "Lanza",
+            "ru": "Древковое"
+        }
+    },
+    "catalyst": {
+        "name": {
+            "en": "Catalyst",
+            "zh_Hans": "法器",
+            "zh_Hant": "法器",
+            "ja": "法器",
+            "ko": "법구",
+            "id": "Catalyst",
+            "th": "สื่อเวท",
+            "vi": "Pháp Khí",
+            "de": "Katalysator",
+            "fr": "Catalyseur",
+            "pt": "Catalisador",
+            "es": "Catalizador",
+            "ru": "Катализатор"
+        }
+    },
+    "bow": {
+        "name": {
+            "en": "Bow",
+            "zh_Hans": "弓",
+            "zh_Hant": "弓",
+            "ja": "弓",
+            "ko": "활",
+            "id": "Bow",
+            "th": "ธนู",
+            "vi": "Cung",
+            "de": "Bogen",
+            "fr": "Arc",
+            "pt": "Arco",
+            "es": "Arco",
+            "ru": "Стрелковое"
+        }
+    }
+}

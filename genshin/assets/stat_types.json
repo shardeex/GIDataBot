@@ -1,0 +1,376 @@
+{
+    "base_hp": {
+        "name": {
+            "en": "Base HP",
+            "zh_Hans": "基础生命值",
+            "zh_Hant": "基礎生命值",
+            "ja": "基礎HP",
+            "ko": "기초 HP",
+            "id": "Base HP",
+            "th": "พลังชีวิตพื้นฐาน",
+            "vi": "HP Căn Bản",
+            "de": "Basis-LP",
+            "fr": "PV de base",
+            "pt": "Vida Básica",
+            "es": "Vida Base",
+            "ru": "Базовое HP"
+        }
+    },
+    "hp": {
+        "name": {
+            "en": "HP",
+            "zh_Hans": "生命值",
+            "zh_Hant": "生命值",
+            "ja": "HP",
+            "ko": "HP",
+            "id": "HP",
+            "th": "พลังชีวิต",
+            "vi": "HP",
+            "de": "LP",
+            "fr": "PV",
+            "pt": "Vida",
+            "es": "Vida",
+            "ru": "HP"
+        }
+    },
+    "hp_percent": {
+        "name": {
+            "en": "HP",
+            "zh_Hans": "生命值",
+            "zh_Hant": "生命值",
+            "ja": "HP",
+            "ko": "HP",
+            "id": "HP",
+            "th": "พลังชีวิต",
+            "vi": "HP",
+            "de": "LP",
+            "fr": "PV",
+            "pt": "Vida",
+            "es": "Vida",
+            "ru": "HP"
+        }
+    },
+    "base_attack": {
+        "name": {
+            "en": "Base ATK",
+            "zh_Hans": "基础攻击力",
+            "zh_Hant": "基礎攻擊力",
+            "ja": "基礎攻撃力",
+            "ko": "기초 공격력",
+            "id": "Base ATK",
+            "th": "พลังโจมตีพื้นฐาน",
+            "vi": "Tấn Công Căn Bản",
+            "de": "Basis-ANG",
+            "fr": "ATQ de base",
+            "pt": "ATQ Básico",
+            "es": "ATQ Básico",
+            "ru": "Базовая атака"
+        }
+    },
+    "attack": {
+        "name": {
+            "en": "ATK",
+            "zh_Hans": "攻击力",
+            "zh_Hant": "攻擊力",
+            "ja": "攻撃力",
+            "ko": "공격력",
+            "id": "ATK",
+            "th": "พลังโจมตี",
+            "vi": "Tấn Công",
+            "de": "ANG",
+            "fr": "ATQ",
+            "pt": "ATQ",
+            "es": "ATQ",
+            "ru": "Сила атаки"
+        }
+    },
+    "attack_percent": {
+        "name": {
+            "en": "ATK",
+            "zh_Hans": "攻击力",
+            "zh_Hant": "攻擊力",
+            "ja": "攻撃力",
+            "ko": "공격력",
+            "id": "ATK",
+            "th": "พลังโจมตี",
+            "vi": "Tấn Công",
+            "de": "ANG",
+            "fr": "ATQ",
+            "pt": "ATQ",
+            "es": "ATQ",
+            "ru": "Сила атаки"
+        }
+    },
+    "base_defense": {
+        "name": {
+            "en": "Base DEF",
+            "zh_Hans": "基础防御力",
+            "zh_Hant": "基礎防禦力",
+            "ja": "基礎防御力",
+            "ko": "기초 방어력",
+            "id": "Base DEF",
+            "th": "ป้องกันพื้นฐาน",
+            "vi": "P.Ngự Căn Bản",
+            "de": "Basis-VTD",
+            "fr": "DÉF de base",
+            "pt": "DEF Básica",
+            "es": "DEF Base",
+            "ru": "Базовая защита"
+        }
+    },
+    "defense": {
+        "name": {
+            "en": "DEF",
+            "zh_Hans": "防御力",
+            "zh_Hant": "防禦力",
+            "ja": "防御力",
+            "ko": "방어력",
+            "id": "DEF",
+            "th": "พลังป้องกัน",
+            "vi": "Phòng Ngự",
+            "de": "VTD",
+            "fr": "DÉF",
+            "pt": "DEF",
+            "es": "DEF",
+            "ru": "Защита"
+        }
+    },
+    "defense_percent": {
+        "name": {
+            "en": "DEF",
+            "zh_Hans": "防御力",
+            "zh_Hant": "防禦力",
+            "ja": "防御力",
+            "ko": "방어력",
+            "id": "DEF",
+            "th": "พลังป้องกัน",
+            "vi": "Phòng Ngự",
+            "de": "VTD",
+            "fr": "DÉF",
+            "pt": "DEF",
+            "es": "DEF",
+            "ru": "Защита"
+        }
+    },
+    "crit_rate": {
+        "name": {
+            "en": "CRIT Rate",
+            "zh_Hans": "暴击率",
+            "zh_Hant": "暴擊率",
+            "ja": "会心率",
+            "ko": "치명타 확률",
+            "id": "CRIT Rate",
+            "th": "อัตราคริ",
+            "vi": "Tỷ Lệ Bạo Kích",
+            "de": "KT",
+            "fr": "Taux CRIT",
+            "pt": "Taxa Crítica",
+            "es": "Prob. CRIT",
+            "ru": "Шанс крит. попадания"
+        }
+    },
+    "crit_dmg": {
+        "name": {
+            "en": "CRIT DMG",
+            "zh_Hans": "暴击伤害",
+            "zh_Hant": "暴擊傷害",
+            "ja": "会心ダメージ",
+            "ko": "치명타 피해",
+            "id": "CRIT DMG",
+            "th": "ความแรงคริ",
+            "vi": "ST Bạo Kích",
+            "de": "KSCH",
+            "fr": "DGT CRIT",
+            "pt": "Dano Crítico",
+            "es": "Daño CRIT",
+            "ru": "Крит. урон"
+        }
+    },
+    "elemental_mastery": {
+        "name": {
+            "en": "Elemental Mastery",
+            "zh_Hans": "元素精通",
+            "zh_Hant": "元素精通",
+            "ja": "元素熟知",
+            "ko": "원소 마스터리",
+            "id": "Elemental Mastery",
+            "th": "ความชำนาญธาตุ",
+            "vi": "Tinh Thông Nguyên Tố",
+            "de": "Elementarkunde",
+            "fr": "Maîtrise élémentaire",
+            "pt": "Proficiência Elemental",
+            "es": "Maestría Elemental",
+            "ru": "Мастерство стихий"
+        }
+    },
+    "energy_recharge": {
+        "name": {
+            "en": "Energy Recharge",
+            "zh_Hans": "元素充能效率",
+            "zh_Hant": "元素充能效率",
+            "ja": "元素チャージ効率",
+            "ko": "원소 충전 효율",
+            "id": "Energy Recharge",
+            "th": "การฟื้นฟูพลังงาน",
+            "vi": "Hiệu Quả Nạp Nguyên Tố",
+            "de": "Aufladerate",
+            "fr": "Recharge d'énergie",
+            "pt": "Recarga de Energia",
+            "es": "Recarga de Energía",
+            "ru": "Восст. энергии"
+        }
+    },
+    "healing_bonus": {
+        "name": {
+            "en": "Healing Bonus",
+            "zh_Hans": "治疗加成",
+            "zh_Hant": "治療加成",
+            "ja": "与える治療効果",
+            "ko": "치유 보너스",
+            "id": "Healing Bonus",
+            "th": "โบนัสการรักษา",
+            "vi": "Tăng Trị Liệu",
+            "de": "Heilungsbonus",
+            "fr": "Bonus de soins",
+            "pt": "Bônus de Cura",
+            "es": "Bono de Curación",
+            "ru": "Бонус лечения"
+        }
+    },
+    "pyro_dmg_bonus": {
+        "name": {
+            "en": "Pyro DMG Bonus",
+            "zh_Hans": "火元素伤害加成",
+            "zh_Hant": "火元素傷害加成",
+            "ja": "炎元素ダメージ",
+            "ko": "불 원소 피해 보너스",
+            "id": "Pyro DMG Bonus",
+            "th": "โบนัสความเสียหายไฟ",
+            "vi": "Tăng ST Nguyên Tố Hỏa",
+            "de": "Pyro-SCH-Bonus",
+            "fr": "Bonus de DGT Pyro",
+            "pt": "Bônus de Dano Pyro",
+            "es": "Bono de Daño Pyro",
+            "ru": "Бонус Пиро урона"
+        }
+    },
+    "hydro_dmg_bonus": {
+        "name": {
+            "en": "Hydro DMG Bonus",
+            "zh_Hans": "水元素伤害加成",
+            "zh_Hant": "水元素傷害加成",
+            "ja": "水元素ダメージ",
+            "ko": "물 원소 피해 보너스",
+            "id": "Hydro DMG Bonus",
+            "th": "โบนัสความเสียหายน้ำ",
+            "vi": "Tăng ST Nguyên Tố Thủy",
+            "de": "Hydro-SCH-Bonus",
+            "fr": "Bonus de DGT Hydro",
+            "pt": "Bônus de Dano Hydro",
+            "es": "Bono de Daño Hydro",
+            "ru": "Бонус Гидро урона"
+        }
+    },
+    "dendro_dmg_bonus": {
+        "name": {
+            "en": "Dendro DMG Bonus",
+            "zh_Hans": "草元素伤害加成",
+            "zh_Hant": "草元素傷害加成",
+            "ja": "草元素ダメージ",
+            "ko": "풀 원소 피해 보너스",
+            "id": "Dendro DMG Bonus",
+            "th": "โบนัสความเสียหายไม้",
+            "vi": "Tăng ST Nguyên Tố Thảo",
+            "de": "Dendro-SCH-Bonus",
+            "fr": "Bonus de DGT Dendro",
+            "pt": "Bônus de Dano Dendro",
+            "es": "Bono de Daño Dendro",
+            "ru": "Бонус Дендро урона"
+        }
+    },
+    "electro_dmg_bonus": {
+        "name": {
+            "en": "Electro DMG Bonus",
+            "zh_Hans": "雷元素伤害加成",
+            "zh_Hant": "雷元素傷害加成",
+            "ja": "雷元素ダメージ",
+            "ko": "번개 원소 피해 보너스",
+            "id": "Electro DMG Bonus",
+            "th": "โบนัสความเสียหายไฟฟ้า",
+            "vi": "Tăng ST Nguyên Tố Lôi",
+            "de": "Elektro-SCH-Bonus",
+            "fr": "Bonus de DGT Électro",
+            "pt": "Bônus de Dano Electro",
+            "es": "Bono de Daño Electro",
+            "ru": "Бонус Электро урона"
+        }
+    },
+    "cryo_dmg_bonus": {
+        "name": {
+            "en": "Cryo DMG Bonus",
+            "zh_Hans": "冰元素伤害加成",
+            "zh_Hant": "冰元素傷害加成",
+            "ja": "氷元素ダメージ",
+            "ko": "얼음 원소 피해 보너스",
+            "id": "Cryo DMG Bonus",
+            "th": "โบนัสความเสียหายน้ำแข็ง",
+            "vi": "Tăng ST Nguyên Tố Băng",
+            "de": "Kryo-SCH-Bonus",
+            "fr": "Bonus de DGT Cryo",
+            "pt": "Bônus de Dano Cryo",
+            "es": "Bono de Daño Cryo",
+            "ru": "Бонус Крио урона"
+        }
+    },
+    "anemo_dmg_bonus": {
+        "name": {
+            "en": "Anemo DMG Bonus",
+            "zh_Hans": "风元素伤害加成",
+            "zh_Hant": "風元素傷害加成",
+            "ja": "風元素ダメージ",
+            "ko": "바람 원소 피해 보너스",
+            "id": "Anemo DMG Bonus",
+            "th": "โบนัสความเสียหายลม",
+            "vi": "Tăng ST Nguyên Tố Phong",
+            "de": "Anemo-SCH-Bonus",
+            "fr": "Bonus de DGT Anémo",
+            "pt": "Bônus de Dano Anemo",
+            "es": "Bono de Daño Anemo",
+            "ru": "Бонус Анемо урона"
+        }
+    },
+    "physical_dmg_bonus": {
+        "name": {
+            "en": "Physical DMG Bonus",
+            "zh_Hans": "物理伤害加成",
+            "zh_Hant": "物理傷害加成",
+            "ja": "物理ダメージ",
+            "ko": "물리 피해 보너스",
+            "id": "Physical DMG Bonus",
+            "th": "โบนัสความเสียหายกายภาพ",
+            "vi": "Tăng Sát Thương Vật Lý",
+            "de": "Physischer SCH-Bonus",
+            "fr": "Bonus de DGT physiques",
+            "pt": "Bônus de Dano Físico",
+            "es": "Bono de Daño Físico",
+            "ru": "Бонус физ. урона"
+        }
+    },
+    "geo_dmg_bonus": {
+        "name": {
+            "en": "Geo DMG Bonus",
+            "zh_Hans": "岩元素伤害加成",
+            "zh_Hant": "岩元素傷害加成",
+            "ja": "岩元素ダメージ",
+            "ko": "바위 원소 피해 보너스",
+            "id": "Geo DMG Bonus",
+            "th": "โบนัสความเสียหายหิน",
+            "vi": "Tăng ST Nguyên Tố Nham",
+            "de": "Geo-SCH-Bonus",
+            "fr": "Bonus de DGT Géo",
+            "pt": "Bônus de Dano Geo",
+            "es": "Bono de Daño Geo",
+            "ru": "Бонус Гео урона"
+        }
+    }
+}

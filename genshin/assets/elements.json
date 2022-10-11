@@ -1,0 +1,121 @@
+{
+    "anemo": {
+        "name": {
+            "en": "Anemo",
+            "zh_Hans": "风",
+            "zh_Hant": "風",
+            "ja": "風",
+            "ko": "바람",
+            "id": "Anemo",
+            "th": "ลม",
+            "vi": "Phong",
+            "de": "Anemo",
+            "fr": "Anémo",
+            "pt": "Anemo",
+            "es": "Anemo",
+            "ru": "Анемо"
+        }
+    },
+    "geo": {
+        "name": {
+            "en": "Geo",
+            "zh_Hans": "岩",
+            "zh_Hant": "岩",
+            "ja": "岩",
+            "ko": "바위",
+            "id": "Geo",
+            "th": "หิน",
+            "vi": "Nham",
+            "de": "Geo",
+            "fr": "Géo",
+            "pt": "Geo",
+            "es": "Geo",
+            "ru": "Гео"
+        }
+    },
+    "electro": {
+        "name": {
+            "en": "Electro",
+            "zh_Hans": "雷",
+            "zh_Hant": "雷",
+            "ja": "雷",
+            "ko": "번개",
+            "id": "Electro",
+            "th": "ไฟฟ้า",
+            "vi": "Lôi",
+            "de": "Elektro",
+            "fr": "Électro",
+            "pt": "Electro",
+            "es": "Electro",
+            "ru": "Электро"
+        }
+    },
+    "dendro": {
+        "name": {
+            "en": "Dendro",
+            "zh_Hans": "草",
+            "zh_Hant": "草",
+            "ja": "草",
+            "ko": "풀",
+            "id": "Dendro",
+            "th": "ไม้",
+            "vi": "Thảo",
+            "de": "Dendro",
+            "fr": "Dendro",
+            "pt": "Dendro",
+            "es": "Dendro",
+            "ru": "Дендро"
+        }
+    },
+    "hydro": {
+        "name": {
+            "en": "Hydro",
+            "zh_Hans": "水",
+            "zh_Hant": "水",
+            "ja": "水",
+            "ko": "물",
+            "id": "Hydro",
+            "th": "น้ำ",
+            "vi": "Thủy",
+            "de": "Hydro",
+            "fr": "Hydro",
+            "pt": "Hydro",
+            "es": "Hydro",
+            "ru": "Гидро"
+        }
+    },
+    "pyro": {
+        "name": {
+            "en": "Pyro",
+            "zh_Hans": "火",
+            "zh_Hant": "火",
+            "ja": "炎",
+            "ko": "불",
+            "id": "Pyro",
+            "th": "ไฟ",
+            "vi": "Hỏa",
+            "de": "Pyro",
+            "fr": "Pyro",
+            "pt": "Pyro",
+            "es": "Pyro",
+            "ru": "Пиро"
+        }
+    },
+    "cryo": {
+        "name": {
+            "en": "Cryo",
+            "zh_Hans": "冰",
+            "zh_Hant": "冰",
+            "ja": "氷",
+            "ko": "얼음",
+            "id": "Cryo",
+            "th": "น้ำแข็ง",
+            "vi": "Băng",
+            "de": "Kryo",
+            "fr": "Cryo",
+            "pt": "Cryo",
+            "es": "Cryo",
+            "ru": "Крио"
+        }
+    }
+}

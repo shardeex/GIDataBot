@@ -1,0 +1,121 @@
+{
+    "normal_attack": {
+        "name": {
+            "en": "Normal Attack",
+            "zh_Hans": "普通攻击",
+            "zh_Hant": "普通攻擊",
+            "ja": "通常攻撃",
+            "ko": "일반 공격",
+            "id": "Normal Attack",
+            "th": "โจมตีปกติ",
+            "vi": "Đánh Thường",
+            "de": "Standardangriff",
+            "fr": "Attaque normale",
+            "pt": "Ataque Normal",
+            "es": "Ataque Normal",
+            "ru": "Обычная атака"
+        }
+    },
+    "elemental_skill": {
+        "name": {
+            "en": "Elemental Skill",
+            "zh_Hans": "元素战技",
+            "zh_Hant": "元素戰技",
+            "ja": "元素スキル",
+            "ko": "원소전투 스킬",
+            "id": "Elemental Skill",
+            "th": "สกิลธาตุ",
+            "vi": "Kỹ Năng Nguyên Tố",
+            "de": "Elementarfähigkeit",
+            "fr": "Compétence élémentaire",
+            "pt": "Habilidade Elemental",
+            "es": "Habilidad Elemental",
+            "ru": "Элементальный навык"
+        }
+    },
+    "alternate_sprint": {
+        "name": {
+            "en": "Alternate Sprint",
+            "zh_Hans": "",
+            "zh_Hant": "",
+            "ja": "ダッシュの代わり",
+            "ko": "",
+            "id": "",
+            "th": "",
+            "vi": "Thay Thế Xung Kích",
+            "de": "Spezialfähigkeit",
+            "fr": "",
+            "pt": "Habilidade de Corrida",
+            "es": "Esprintar alternativo",
+            "ru": "Альтернативный спринт"
+        }
+    },
+    "elemental_burst": {
+        "name": {
+            "en": "Elemental Burst",
+            "zh_Hans": "元素爆发",
+            "zh_Hant": "元素爆發",
+            "ja": "元素爆発",
+            "ko": "원소폭발",
+            "id": "Elemental Burst",
+            "th": "ท่าไม้ตาย",
+            "vi": "Kỹ Năng Nộ",
+            "de": "Spezialfähigkeit",
+            "fr": "Déchaînement élémentaire",
+            "pt": "Supremo",
+            "es": "Habilidad Definitiva",
+            "ru": "Взрыв стихии"
+        }
+    },
+    "first_ascension_passive": {
+        "name": {
+            "en": "1st Ascension Passive",
+            "zh_Hans": "",
+            "zh_Hant": "",
+            "ja": "",
+            "ko": "",
+            "id": "",
+            "th": "",
+            "vi": "Nội Tại Đột Phá Bậc 1",
+            "de": "Passives Talent (1. Aufstieg)",
+            "fr": "",
+            "pt": "Talento Passivo de 1a Ascensão",
+            "es": "",
+            "ru": "Пассивный талант (первое возвышение)"
+        }
+    },
+    "fourth_ascension_passive": {
+        "name": {
+            "en": "4th Ascension Passive",
+            "zh_Hans": "",
+            "zh_Hant": "",
+            "ja": "",
+            "ko": "",
+            "id": "",
+            "th": "",
+            "vi": "Nội Tại Đột Phá Bậc 4",
+            "de": "Passives Talent (4. Aufstieg)",
+            "fr": "",
+            "pt": "Talento Passivo de 4a Ascensão",
+            "es": "",
+            "ru": "Пассивный талант (четвёртое возвышение)"
+        }
+    },
+    "utility_passive": {
+        "name": {
+            "en": "Utility Passive",
+            "zh_Hans": "",
+            "zh_Hant": "",
+            "ja": "",
+            "ko": "",
+            "id": "",
+            "th": "",
+            "vi": "Nội Tại Cố Định",
+            "de": "Handliches passives Talent",
+            "fr": "",
+            "pt": "Talento Passivo Utilitário",
+            "es": "",
+            "ru": "Пассивный талант (базовый)"
+        }
+    }
+}

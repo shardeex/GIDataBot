@@ -1,0 +1,871 @@
+# Vietnamese translations for PROJECT.
+# Copyright (C) 2022 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2022-10-11 16:15+0300\n"
+"PO-Revision-Date: 2022-10-01 17:58+0300\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: vi\n"
+"Language-Team: vi <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.10.3\n"
+
+#: bot/messages/common.py:11
+msgid "Your best Teyvat guide, not emergency food."
+msgstr ""
+
+#: bot/messages/common.py:14
+msgid "Don't forget to check out other characters!"
+msgstr ""
+
+#: bot/messages/common.py:17
+msgid "Random ad string #3"
+msgstr ""
+
+#: bot/messages/common.py:20
+msgid "Just click it, please."
+msgstr ""
+
+#: bot/messages/common.py:23
+msgid "Check out updates and other bots! And subscribe, please."
+msgstr ""
+
+#: bot/messages/common.py:26
+msgid "Check out my Wish Simulator! Outdated, but still nice."
+msgstr ""
+
+#: bot/messages/common.py:32
+msgid "[RU] Personal author Genshin Impact channel!"
+msgstr ""
+
+#: bot/messages/common.py:35
+msgid "[RU] Personal author channel!"
+msgstr ""
+
+#: bot/messages/common.py:38
+msgid "[RU] Get your Blessing of the Welkin Moon for pleasant price."
+msgstr ""
+
+#: bot/messages/common.py:41
+msgid "[RU] Get your BP: Gnostic Hymn only for pleasant price!"
+msgstr ""
+
+#: bot/messages/common.py:48
+msgid "{emoji.NEXT} Next"
+msgstr ""
+
+#: bot/messages/common.py:55
+msgid "{emoji.PREVIOUS} Previous"
+msgstr ""
+
+#: bot/messages/common.py:62
+msgid "Help, how do I use this bot?"
+msgstr ""
+
+#: bot/messages/common.py:67
+msgid "Type \"@GIDataBot {identifier}\" for more options"
+msgstr ""
+
+#: bot/messages/base/help.py:7
+msgid ""
+"<a href=\"github.com/shardeex/GIDataBot\">⁠</a><a "
+"href=\"t.me/GIDataBot\">Klee's Notes 🍀</a> | Genshin Impact Data Bot | "
+"@GIDataBot\n"
+"\n"
+"/settings — change your bot language and traveler gender\n"
+"/help — show this message :D\n"
+"\n"
+"This bot wouldn't exist if it wasn't for <a href=\"ambr.top\">Project "
+"Amber</a>. Many thanks for the files and images provided. Don't forget to"
+" visit the site!\n"
+"\n"
+"<a href=\"github.com/shardeex/GIDataBot\">GitHub</a> | <a "
+"href=\"t.me/shardeex\">Author</a> | <a "
+"href=\"t.me/GIBotsChannel\">Channel</a> | v{version}"
+msgstr ""
+
+#: bot/messages/base/start.py:7
+msgid "{name}, tell others about this bot."
+msgstr ""
+
+#: bot/messages/base/start.py:14
+msgid "Tap to send information about this bot."
+msgstr ""
+
+#: bot/messages/base/start.py:19
+msgid ""
+"<i>🎁 It seems that Klee left a small gift for you in the Golden Apple "
+"Archipelago, <b>{name}</b>...</i>\n"
+"\n"
+"📜 These are <b>Klee's Notes</b> about Teyvat! For now it's only about "
+"characters, but stay tuned. A small gift from a little elf girl who looks"
+" so much like her mother.\n"
+"\n"
+"<i>🍀 Klee is still small and does not know many languages, so she uses "
+"Google translator sometimes. She is very worried about mistakes, so she "
+"asks her to help correct them. Thank you very much for your "
+"understanding!</i>"
+msgstr ""
+
+#: bot/messages/base/start.py:34
+msgid "🪟 Create new window"
+msgstr ""
+
+#: bot/messages/character/about.py:13
+msgid ""
+"<b>{emoji.ABOUT} About — {character.name} ({character.vision.name})</b>\n"
+"\n"
+"Here you can read (and listen: coming soon!) character story and quotes.\n"
+msgstr ""
+
+#: bot/messages/character/about.py:19
+msgid "<i>{emoji.INFO} Select category using buttons below.</i>"
+msgstr ""
+
+#: bot/messages/character/about.py:29
+msgid "{emoji.ABOUT} About"
+msgstr ""
+
+#: bot/messages/character/constellation.py:10
+msgid ""
+"{emoji.CONSTELLATION} Constellation \"{character.info.constellation}\" — "
+"{character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/constellation.py:20
+msgid ""
+"Tap to send constellation overview.\n"
+"Type \"@GIDataBot {character.identifier} constellation\" for more options."
+msgstr ""
+
+#: bot/messages/character/constellation.py:32
+msgid ""
+"<b>{emoji.CONSTELLATION} Constellation \"{character.info.constellation}\""
+" — {character.name} ({character.vision.name})</b>\n"
+msgstr ""
+
+#: bot/messages/character/constellation.py:38
+#: bot/messages/character/constellation_view.py:10
+msgid "C{constellation.index}: {constellation.name}"
+msgstr ""
+
+#: bot/messages/character/constellation.py:45
+msgid ""
+"\n"
+"<i>{emoji.INFO} Select constellation using buttons below.</i>"
+msgstr ""
+
+#: bot/messages/character/constellation.py:55
+msgid "{emoji.CONSTELLATION} Constellation"
+msgstr ""
+
+#: bot/messages/character/constellation_view.py:20
+msgid "Tap to send constellation \"{constellation.name}\" overview."
+msgstr ""
+
+#: bot/messages/character/constellation_view.py:32
+msgid ""
+"<b>{emoji.CONSTELLATION} C{constellation.index} \"{constellation.name}\" "
+"— {character.name} ({character.vision.name})</b>\n"
+"\n"
+"{constellation.description}"
+msgstr ""
+
+#: bot/messages/character/constellation_view.py:45
+msgid "C{constellation.index}"
+msgstr ""
+
+#: bot/messages/character/index.py:10
+msgid "{character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/index.py:17
+msgid "Tap to send character profile."
+msgstr ""
+
+#: bot/messages/character/index.py:26
+msgid ""
+"<b>{character.stars} \"{character.info.title}\" {character.name} "
+"({character.vision.name})</b>\n"
+"\n"
+"<b>{emoji.VISION} Vision:</b> {character.vision.name}\n"
+"<b>{emoji.WEAPON} Weapon:</b> {character.weapon_type.name}\n"
+"<b>{emoji.CONSTELLATION} Constellation:</b> "
+"{character.info.constellation}\n"
+"<b>{emoji.AFFILATION} Affilation:</b> {character.info.affilation}"
+msgstr ""
+
+#: bot/messages/character/index.py:35
+msgid "<b>{emoji.BIRTHDAY} Birthday:</b> set by the player.\n"
+msgstr ""
+
+#: bot/messages/character/index.py:39
+msgid ""
+"<b>{emoji.BIRTHDAY} Birthday:</b> {character.info.birthday} "
+"({character.info.birthday.days_left} days left)\n"
+msgstr ""
+
+#: bot/messages/character/index.py:44
+msgid ""
+"<i>{emoji.INFO} {character.description}</i><a "
+"href=\"{character.artwork_url}\">⁠</a>"
+msgstr ""
+
+#: bot/messages/character/index.py:54
+msgid "{emoji.CHARACTER} Character"
+msgstr ""
+
+#: bot/messages/character/quote_view.py:11
+msgid "{emoji.QUOTE} {quote.title} — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/quote_view.py:22
+msgid "\"{quote.text}\""
+msgstr ""
+
+#: bot/messages/character/quote_view.py:34
+msgid ""
+"<b>{emoji.QUOTE} {quote.title} — {character.name} "
+"({character.vision.name})</b>\n"
+"\n"
+"{quote.text}\n"
+"\n"
+"<i>{emoji.INFO} Condition: {quote.condition}</i>"
+msgstr ""
+
+#: bot/messages/character/quotes.py:10
+msgid "{emoji.QUOTE} Quotes — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/quotes.py:20
+msgid ""
+"Tap to send quotes overview.\n"
+"Type \"@GIDataBot {character.identifier} quote\" for more options."
+msgstr ""
+
+#: bot/messages/character/quotes.py:32
+msgid ""
+"<b>{emoji.QUOTE} Quotes — {character.name} ({character.vision.name})</b>\n"
+"\n"
+"Here you can read character voice lines. <b>Avoid spoilers!</b>\n"
+"\n"
+msgstr ""
+
+#: bot/messages/character/quotes.py:38
+msgid ""
+"<i>{emoji.INFO} Select quote using buttons below. Also, you should "
+"probably consider using inline mode.</i>"
+msgstr ""
+
+#: bot/messages/character/quotes.py:48
+msgid "{emoji.QUOTE} Quotes"
+msgstr ""
+
+#: bot/messages/character/quotes.py:55
+msgid "{emoji.MANUAL_SEARCH} Browse quotes manually (slow)"
+msgstr ""
+
+#: bot/messages/character/quotes.py:62
+msgid "{emoji.INLINE_SEARCH} Select quote via advanced mode"
+msgstr ""
+
+#: bot/messages/character/stats.py:10
+msgid "{emoji.STATS} Stats — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/stats.py:18
+msgid "Tap to send character stats."
+msgstr ""
+
+#: bot/messages/character/stats.py:28
+msgid ""
+"<b>{emoji.STATS} Stats — {character.name} ({character.vision.name})</b>\n"
+"\n"
+"<b>{emoji.HP} {character.stats.max.hp.type.name}:</b> "
+"{character.stats.max.hp.value:.0f}\n"
+"<b>{emoji.ATTACK} {character.stats.max.attack.type.name}:</b> "
+"{character.stats.max.attack.value:.0f}\n"
+"<b>{emoji.DEFENSE} {character.stats.max.defense.type.name}:</b> "
+"{character.stats.max.defense.value:.0f}"
+msgstr ""
+
+#: bot/messages/character/stats.py:36
+msgid ""
+"<b>{emoji.SECONDARY_STAT} {character.stats.max.secondary.type.name}:</b> "
+"{character.stats.max.secondary.value:.0f}"
+msgstr ""
+
+#: bot/messages/character/stats.py:40
+msgid ""
+"<b>{emoji.SECONDARY_STAT} {character.stats.max.secondary.type.name}:</b> "
+"{character.stats.max.secondary.value:.1%}"
+msgstr ""
+
+#: bot/messages/character/stats.py:45
+msgid ""
+"\n"
+"<i>{emoji.INFO} Shown character stats for level 90. More levels coming "
+"soon!</i>"
+msgstr ""
+
+#: bot/messages/character/stats.py:55
+msgid "{emoji.STATS} Stats"
+msgstr ""
+
+#: bot/messages/character/story.py:10
+msgid "{emoji.STORY} Story — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/story.py:20
+msgid ""
+"Tap to send story overview.\n"
+"Type \"@GIDataBot {character.identifier} story\" for more options."
+msgstr ""
+
+#: bot/messages/character/story.py:32
+msgid ""
+"<b>{emoji.STORY} Story — {character.name} ({character.vision.name})</b>\n"
+"\n"
+"Here you can read character story lines. <b>Avoid spoilers!</b>"
+msgstr ""
+
+#: bot/messages/character/story.py:38
+msgid ""
+"<i>\n"
+"{emoji.INFO} Select story using buttons below. Also, you should probably "
+"consider using inline mode.</i>"
+msgstr ""
+
+#: bot/messages/character/story.py:48
+msgid "{emoji.STORY} Story"
+msgstr ""
+
+#: bot/messages/character/story.py:55
+msgid "{emoji.MANUAL_SEARCH} Browse story manually (slow)"
+msgstr ""
+
+#: bot/messages/character/story.py:62
+msgid "{emoji.INLINE_SEARCH} Select story via advanced mode"
+msgstr ""
+
+#: bot/messages/character/story_view.py:11
+msgid "{emoji.STORY} {story.title} — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/story_view.py:22
+msgid "\"{story.text}\""
+msgstr ""
+
+#: bot/messages/character/story_view.py:34
+msgid ""
+"<b>{emoji.STORY} {story.title} — {character.name} "
+"({character.vision.name})</b>\n"
+"\n"
+"{story.text}\n"
+"\n"
+"<i>{emoji.INFO} Condition: {story.condition}</i>"
+msgstr ""
+
+#: bot/messages/character/talent_view.py:10
+msgid "{talent.type.name}: {talent.name}"
+msgstr ""
+
+#: bot/messages/character/talent_view.py:20
+msgid "Tap to send talent \"{talent.name}\" overview."
+msgstr ""
+
+#: bot/messages/character/talent_view.py:32
+msgid ""
+"<b>{emoji.TALENT} {talent.type.name} \"{talent.name}\" — {character.name}"
+" ({character.vision.name})</b>\n"
+"\n"
+"{talent.description}"
+msgstr ""
+
+#: bot/messages/character/talent_view.py:45
+msgid "{talent.type.name}"
+msgstr ""
+
+#: bot/messages/character/talents.py:10
+msgid "{emoji.TALENT} Talents — {character.name} ({character.vision.name})"
+msgstr ""
+
+#: bot/messages/character/talents.py:20
+msgid ""
+"Tap to send talents overview.\n"
+"Type \"@GIDataBot {character.identifier} talent\" for more options."
+msgstr ""
+
+#: bot/messages/character/talents.py:32
+msgid ""
+"<b>{emoji.TALENT} Talents \"{character.info.title}\" — {character.name} "
+"({character.vision.name})</b>\n"
+msgstr ""
+
+#: bot/messages/character/talents.py:38
+msgid "{talent.type.name} — {talent.name}"
+msgstr ""
+
+#: bot/messages/character/talents.py:45
+msgid ""
+"\n"
+"<i>{emoji.INFO} Select talent using buttons below.</i>"
+msgstr ""
+
+#: bot/messages/character/talents.py:55
+msgid "{emoji.TALENT} Talents"
+msgstr ""
+
+#: bot/messages/menu/character_view.py:10
+msgid ""
+"<b>{character.stars} \"{character.info.title}\" {character.name} "
+"({character.vision.name})</b>\n"
+"\n"
+"{character.description}\n"
+"\n"
+"<i>{emoji.INFO} Select character using buttons below.</i><a "
+"href=\"{character.artwork_url}\">⁠</a>"
+msgstr ""
+
+#: bot/messages/menu/character_view.py:21
+msgid "{emoji.CHARACTER} Learn more about {character.name}!"
+msgstr ""
+
+#: bot/messages/menu/characters.py:8
+msgid ""
+"<b>{emoji.CHARACTER} Characters — Klee's Notes! {emoji.DEFAULT}</b>\n"
+"\n"
+"Here you can search information about characters.\n"
+"\n"
+"<i>{emoji.INFO} Select character using buttons below. Also, you should "
+"probably consider using inline mode.</i>"
+msgstr ""
+
+#: bot/messages/menu/characters.py:18
+msgid "{emoji.CHARACTER} Characters"
+msgstr ""
+
+#: bot/messages/menu/characters.py:25
+msgid "{emoji.MANUAL_SEARCH} Browse characters manually (slow)"
+msgstr ""
+
+#: bot/messages/menu/index.py:7
+msgid ""
+"<b>{emoji.MENU} Menu — Klee's Notes! {emoji.DEFAULT}</b>\n"
+"\n"
+"{emoji.MANUAL_SEARCH} Search anything about characters. Weapons and more "
+"coming soon.\n"
+"\n"
+"<i>{emoji.INFO} Use buttons below.</i>"
+msgstr ""
+
+#: bot/messages/menu/index.py:16
+msgid "{emoji.MENU} Menu"
+msgstr ""
+
+#: bot/messages/menu/index.py:24
+msgid "{emoji.INLINE_SEARCH} Select characters via inline mode"
+msgstr ""
+
+#: bot/messages/settings/gender.py:7
+msgid ""
+"<b>{emoji.GENDER} Settings — Gender</b>\n"
+"\n"
+"{emoji.CURRENT} Current gender: <b>{gender}</b>\n"
+"\n"
+"<i>{emoji.INFO} Here you can easily switch your traveler gender.</i>"
+msgstr ""
+
+#: bot/messages/settings/gender.py:17
+msgid "{emoji.SUCCESS} Gender succesfully switched to \"{gender}\"."
+msgstr ""
+
+#: bot/messages/settings/gender.py:25
+msgid "{emoji.GENDER} Gender"
+msgstr ""
+
+#: bot/messages/settings/gender.py:32
+msgid "{emoji.GENDER} Switch gender"
+msgstr ""
+
+#: bot/messages/settings/index.py:7
+msgid ""
+"<b>{emoji.SETTINGS} Settings — Main menu</b>\n"
+"\n"
+"{emoji.LANGUAGE} Language: <b>{language}</b>\n"
+"{emoji.GENDER} Traveler: <b>{gender}</b>\n"
+"\n"
+"<i>{emoji.INFO} Here you can edit your settings to perform better bot "
+"using experience.</i>"
+msgstr ""
+
+#: bot/messages/settings/index.py:19
+msgid "{emoji.SETTINGS} Settings"
+msgstr ""
+
+#: bot/messages/settings/language.py:8
+msgid ""
+"<b>{emoji.LANGUAGE} Settings — Language</b>\n"
+"\n"
+"{emoji.CURRENT} Current language: <b>{language}</b>\n"
+"{emoji.DEFAULT} Klee's description for example: "
+"<b>\"{klee.description}\"</b>\n"
+"\n"
+"<i>Here you can easily change your bot language. Note: some languages can"
+" be translated not correctly.</i>"
+msgstr ""
+
+#: bot/messages/settings/language.py:21
+msgid "{emoji.SUCCESS} Language succesfully switched to \"{language}\"."
+msgstr ""
+
+#: bot/messages/settings/language.py:29
+msgid "{emoji.FAIL} You are already using \"{language}\" language!"
+msgstr ""
+
+#: bot/messages/settings/language.py:37
+msgid "{emoji.LANGUAGE} Language"
+msgstr ""
+
+#~ msgid "💬 Quotes"
+#~ msgstr ""
+
+#~ msgid "💠 Current element: {element}"
+#~ msgstr ""
+
+#~ msgid "📊 Stats"
+#~ msgstr ""
+
+#~ msgid "👊 Talents"
+#~ msgstr ""
+
+#~ msgid "{name}"
+#~ msgstr ""
+
+#~ msgid "💫 Constellation"
+#~ msgstr ""
+
+#~ msgid "C{index}"
+#~ msgstr ""
+
+#~ msgid "📚 About"
+#~ msgstr ""
+
+#~ msgid "📕 Story"
+#~ msgstr ""
+
+#~ msgid "🔎 Browse story manually (slow)"
+#~ msgstr ""
+
+#~ msgid "👉 Select story via advanced mode"
+#~ msgstr ""
+
+#~ msgid "💬 Voice-Over"
+#~ msgstr ""
+
+#~ msgid "🔎 Browse Voice-Overs manually (slow)"
+#~ msgstr ""
+
+#~ msgid "👉 Select voice-over via advanced mode"
+#~ msgstr ""
+
+#~ msgid "◀️ Previous"
+#~ msgstr ""
+
+#~ msgid "Next ▶️"
+#~ msgstr ""
+
+#~ msgid "😀 Character"
+#~ msgstr ""
+
+#~ msgid "💬 Language"
+#~ msgstr ""
+
+#~ msgid "🚁 Gender"
+#~ msgstr ""
+
+#~ msgid "📝 Switch gender"
+#~ msgstr ""
+
+#~ msgid "⚙️ Main menu"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>{character.stars} \"{character.info.title}\" "
+#~ "{character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "<b>✦ Vision:</b> {character.vision}\n"
+#~ "<b>✦ Weapon:</b> {character.weapon_type}\n"
+#~ "<b>✦ Constellation:</b> {character.info.constellation}\n"
+#~ "<b>✦ Affilation:</b> {character.info.affilation}"
+#~ msgstr ""
+
+#~ msgid "<b>✦ Birthday:</b> set by player.\n"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>✦ Birthday:</b> {character.info.birthday} "
+#~ "({character.info.birthday.days_left} days left)\n"
+#~ msgstr ""
+
+#~ msgid "<i>{character.description}</i><a href=\"{character.artwork_url}\">⁠</a>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>📊 Stats — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "<b>Health:</b> {character.stats.max.hp:.0f}\n"
+#~ "<b>Attack:</b> {character.stats.max.attack:.0f}\n"
+#~ "<b>Defense:</b> {character.stats.max.defense:.0f}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>Secondary stat:</b> {character.stats.max.secondary:.0f}"
+#~ " {character.stats.secondary}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>Secondary stat:</b> {character.stats.max.secondary:.1%}"
+#~ " {character.stats.secondary}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<i>Base stats for level 90. More levels coming soon.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>👊 Talents \"{character.info.title}\" — "
+#~ "{character.name} ({character.vision})</b>\n"
+#~ msgstr ""
+
+#~ msgid "{talent.type} — {talent.name}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<i>Press button below to get information about talent.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>👊 {talent.type} \"{talent.name}\" — "
+#~ "{character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "{talent.description}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>💫 Constellation \"{character.info.constellation}\" "
+#~ "— {character.name} ({character.vision})</b>\n"
+#~ msgstr ""
+
+#~ msgid "C{constellation.index} — {constellation.name}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "\n"
+#~ "<i>Press button below to get information about constellation.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>💫 C{constellation.index} \"{constellation.name}\" "
+#~ "— {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "{constellation.description}"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>📚 About — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "Here you can read character lore.\n"
+#~ msgstr ""
+
+#~ msgid "<i>Lore info.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>📕 Story — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "Here you can read all of character stories. Avoid spoilers!\n"
+#~ "\n"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<i>Select story using button below. "
+#~ "Also, you should probably consider using"
+#~ " advanced mode.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>📕 {story.title} — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "{story.text}\n"
+#~ "\n"
+#~ "<i>Condition: {story.condition}</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>💬 Voice-Over — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "Here you can read all of character voice-overs. Avoid spoilers!\n"
+#~ "\n"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<i>Select voice-over using button below."
+#~ " Also, you should probably consider "
+#~ "using advanced mode.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>💬 {quote.title} — {character.name} ({character.vision})</b>\n"
+#~ "\n"
+#~ "{quote.text}\n"
+#~ "\n"
+#~ "<i>Condition: {quote.condition}</i>"
+#~ msgstr ""
+
+#~ msgid "<a href=\"t.me/GIDataBot\">Klee's Notes 🍀<a>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "🎁 It seems that Klee left a "
+#~ "small gift for you in the Golden"
+#~ " Apple Archipelago, <b>{name}</b>...\n"
+#~ "\n"
+#~ "📜 These are her notes about "
+#~ "Teyvat! Characters, weapons, artifacts: "
+#~ "<b>it's all in one place now</b>. "
+#~ "A small gift from a little elf "
+#~ "girl who looks so much like her"
+#~ " mother.\n"
+#~ "\n"
+#~ "🍀 <i>Klee is still small and does"
+#~ " not know many languages, so she "
+#~ "uses Google translator sometimes. She is"
+#~ " very worried about mistakes, so she"
+#~ " asks her to help correct them. "
+#~ "Thank you very much for your "
+#~ "understanding!</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>⚙️ Settings — Main menu</b>\n"
+#~ "\n"
+#~ "<b>💬 Language:</b> {language}\n"
+#~ "<b>🚁 Traveler:</b> {gender}\n"
+#~ "\n"
+#~ "<i>Here you can edit your settings "
+#~ "to perform better bot using "
+#~ "experience.</i>"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>💬 Settings — Language</b>\n"
+#~ "\n"
+#~ "📌 Current language: <b>{language}</b>\n"
+#~ "Select new language using buttons below.\n"
+#~ "\n"
+#~ "<i>Here you can easily change your "
+#~ "bot language. Note: some languages can"
+#~ " be translated not correctly.</i>"
+#~ msgstr ""
+
+#~ msgid "You are already using \"{language}\" language!"
+#~ msgstr ""
+
+#~ msgid "Language succesfully switched to \"{language}\"."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>🚁 Settings — Gender</b>\n"
+#~ "\n"
+#~ "📌 Current gender: <b>{gender}</b>\n"
+#~ "Press button to switch gender.\n"
+#~ "\n"
+#~ "<i>Here you can easily switch your traveler gender.</i>"
+#~ msgstr ""
+
+#~ msgid "Gender succesfully switched to \"{gender}\"."
+#~ msgstr ""
+
+#~ msgid "Help, how do I use this bot!"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<a href=\"github.com/shardeex/GIDataBot\">⁠</a><a "
+#~ "href=\"t.me/GIDataBot\">Klee\"s Notes 🍀</a> | "
+#~ "Genshin Impact Data Bot | @GIDataBot"
+#~ "\n"
+#~ "\n"
+#~ "/settings — change your bot language and traveler gender\n"
+#~ "/help — show this message :D\n"
+#~ "\n"
+#~ "This bot wouldn't exist if it "
+#~ "wasn't for <a href=\"ambr.top\">Project "
+#~ "Amber</a>. Many thanks for the files "
+#~ "and images provided. Don't forget to "
+#~ "visit the site!\n"
+#~ "\n"
+#~ "<a href=\"github.com/shardeex/GIDataBot\">GitHub</a> | "
+#~ "<a href=\"t.me/shardeex\">Author</a> | <a "
+#~ "href=\"t.me/GIBotsChannel\">Channel</a> | v{version}"
+#~ msgstr ""
+
+#~ msgid "Change nickname"
+#~ msgstr ""
+
+#~ msgid "Change language"
+#~ msgstr ""
+
+#~ msgid "Change sex"
+#~ msgstr ""
+
+#~ msgid ""
+#~ "<b>{emoji.MENU} Menu — Klee's Notes! {emoji.DEFAULT}</b>\n"
+#~ "\n"
+#~ "{emoji.MANUAL_SEARCH} Search anything about "
+#~ "characters. Weapons and more coming "
+#~ "soon.\n"
+#~ "\n"
+#~ "{emoji.INFO} Use buttons below."
+#~ msgstr ""
+
+#~ msgid ""
+#~ "{emoji.CONSTELLATION} Constellation "
+#~ "\"{character.info.constellation}\" — {character.name} "
+#~ "({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.QUOTE} {quote.title} — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.QUOTE} Quotes — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.STATS} Stats — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.STORY} Story — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.STORY} {story.title} — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "{emoji.TALENT} Talents — {character.name} ({character.vision})"
+#~ msgstr ""
+
+#~ msgid "[RU] Get your Blessing of the Welkin Moon only for 269RUB!"
+#~ msgstr ""
+
+#~ msgid "[RU] Get your BP: Gnostic Hymn only for 469RUB!"
+#~ msgstr ""
+

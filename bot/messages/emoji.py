@@ -1,0 +1,32 @@
+DEFAULT = "🍀"
+INFO = "ℹ️"
+SUCCESS = "✅"
+FAIL = "❎"
+CURRENT = "📌"
+NEXT = "▶️"
+PREVIOUS = "◀️"
+MANUAL_SEARCH = "🔎"
+INLINE_SEARCH = "👉"
+MENU = "💠"
+
+# settings
+SETTINGS = "⚙️"
+LANGUAGE = "🌐"
+GENDER = "🚁"  # suggest better emoji if you want so
+
+# character
+CHARACTER = "🧑"
+VISION = "👁"
+WEAPON = "🗡️"
+CONSTELLATION = "💫"
+AFFILATION = "💠"
+BIRTHDAY = "🎂"
+STATS = "📊"
+HP = "❤️"
+ATTACK = "🗡️"
+DEFENSE = "🛡️"
+SECONDARY_STAT = "⏫"
+TALENT = "👊"
+ABOUT = "📚"
+STORY = "📕"
+QUOTE = "💬"
