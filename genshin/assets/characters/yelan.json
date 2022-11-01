@@ -146,7 +146,7 @@
                 "add_props": {
                     "base_hp": 964.51514,
                     "base_defense": 36.5769,
-                    "base_attack": 16.283075,
+                    "base_attack": 16.28308,
                     "crit_rate": 0
                 },
                 "materials": [],
@@ -157,7 +157,7 @@
                 "required_adventure_rank": 25,
                 "unlock_max_level": 50,
                 "add_props": {
-                    "base_hp": 1649.8285,
+                    "base_hp": 1649.82849,
                     "base_defense": 62.56575,
                     "base_attack": 27.85263,
                     "crit_rate": 0.048
@@ -170,7 +170,7 @@
                 "required_adventure_rank": 30,
                 "unlock_max_level": 60,
                 "add_props": {
-                    "base_hp": 2563.5796,
+                    "base_hp": 2563.57959,
                     "base_defense": 97.21755,
                     "base_attack": 43.2787,
                     "crit_rate": 0.096
@@ -183,9 +183,9 @@
                 "required_adventure_rank": 35,
                 "unlock_max_level": 70,
                 "add_props": {
-                    "base_hp": 3248.893,
+                    "base_hp": 3248.89307,
                     "base_defense": 123.2064,
-                    "base_attack": 54.848255,
+                    "base_attack": 54.84826,
                     "crit_rate": 0.096
                 },
                 "materials": [],
@@ -196,7 +196,7 @@
                 "required_adventure_rank": 40,
                 "unlock_max_level": 80,
                 "add_props": {
-                    "base_hp": 3934.2065,
+                    "base_hp": 3934.20654,
                     "base_defense": 149.19525,
                     "base_attack": 66.41781,
                     "crit_rate": 0.144
@@ -209,9 +209,9 @@
                 "required_adventure_rank": 50,
                 "unlock_max_level": 90,
                 "add_props": {
-                    "base_hp": 4619.52,
+                    "base_hp": 4619.52002,
                     "base_defense": 175.1841,
-                    "base_attack": 77.987366,
+                    "base_attack": 77.98737,
                     "crit_rate": 0.192
                 },
                 "materials": [],
@@ -247,7 +247,7 @@
                 "th": "<b>โจมตีปกติ</b>\nยิงธนูโจมตีอย่างต่อเนื่องมากสุด 4 ครั้ง\n\n<b>ชาร์จโจมตี</b>\nการ<b>เล็งโจมตี</b>สร้างความเสียหายเพิ่มขึ้น และแม่นยำยิ่งขึ้น\nเมื่อเล็งโจมตีจะทำการรวบรวมกระแสน้ำไว้บนหัวลูกศร ซึ่งลูกศรที่รวบรวมกระแสน้ำจนเต็ม จะทำให้เกิด<b>ความเสียหายน้ำ</b>\n\n<b>Breakthrough</b>\nหลังออกจากสถานะต่อสู้ 5 วินาที Yelan จะได้รับสถานะ \"Breakthrough\" ซึ่งจะทำให้ช่วงเวลาที่ต้องใช้ในการชาร์จให้เต็ม เพื่อเล็งโจมตีครั้งต่อไปลดลง 80% และจะทำให้การชาร์จที่เต็มแล้วเปลี่ยนเป็นการยิง \"Breakthrough Barb\" ออกไป โดยที่ Breakthrough Barb จะสร้าง<b>ความเสียหายน้ำวงกว้าง</b>ที่มีความแรงขึ้นกับพลังชีวิตสูงสุดของ Yelan\n\n<b>โจมตีพุ่งลงจากอากาศ</b>\nปล่อยฝนธนูจากกลางอากาศ และพุ่งลงมายังพื้นดินอย่างรวดเร็ว โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
                 "vi": "<b>Tấn Công Thường</b>\nThực hiện tối đa 4 lần bắn tên liên tiếp.\n\n<b>Trọng Kích</b>\n<b>Ngắm bắn</b> gây sát thương cao hơn và chính xác hơn.\nKhi ngắm bắn, thủy lưu sẽ tích tụ liên tục trên mũi tên. Mũi tên tích đầy thủy lưu sẽ gây <b>Sát Thương Nguyên Tố Thủy</b>.\n\n<b>Phá Trận</b>\nSau khi rời khỏi chiến đấu 5s, Yelan sẽ nhận được trạng thái \"Phá Trận\", thời gian tụ lực ngắm bắn lần sau giảm 80%, đồng thời sẽ bắn ra \"Mũi Tên Phá Trận\", gây <b>Sát Thương Phạm Vi Nguyên Tố Thủy</b> dựa trên giới hạn HP của Yelan.\n\n<b>Tấn Công Khi Đáp</b>\nBắn mưa tên liên tiếp xuống mặt đất, đồng thời lao nhanh xuống đất và gây sát thương phạm vi khi chạm đất.",
                 "de": "<b>Standardangriff</b>\nFührt bis zu 4 Pfeilschüsse hintereinander aus.\n\n<b>Heftiger Schlag</b>\nFührt einen <b>gezielten Schuss</b> mit höherem Schaden und höherer Genauigkeit aus.\nKonzentriert das fließende Wasser während des Zielens an der Pfeilspitze, die voll aufgeladen <b>Hydro-Schaden</b> verursacht.\n\n<b>Durchstoß</b>\n5 s nach dem Verlassen des Kampfes erhält Yelan den Zustand „Durchstoß“, der die Aufladedauer beim nächsten voll aufgeladenen gezielten Schuss um 80 % verringert und den Pfeil beim Schießen des voll aufgeladenen Schusses in einen „Durchstoßpfeil“ verwandelt, der basierend auf Yelans max. LP <b>Hydro-Flächenschaden</b> verursacht.\n\n<b>Angriff aus dem Fall</b>\nSchießt in der Luft einen Pfeilregen ab, trifft schnell auf dem Boden auf und verursacht dort Flächenschaden.",
-                "fr": "<b>Attaque normale</b>\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n<b>Attaque chargée</b>\nEffectue un <b>tir visé</b> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge de flux d'eau, infligeant des <b>DGT Hydro</b> quand elle est complètement chargée.\n\n<b>Percée</b>\nSi l'équipe est hors combat pendant 5 s, Yelan entre dans un état de Percée permettant de diminuer le temps de charge de son prochain tir visé de 80 %, et une fois le tir complètement chargé, elle peut tirer une flèche perçante qui inflige des <b>DGT Hydro de zone</b> selon ses PV max.\n\n<b>Attaque plongeante</b>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
+                "fr": "<b>Attaque normale</b>\nEnchaîne jusqu'à 4 tirs consécutifs.\n\n<b>Attaque chargée</b>\nEffectue un <b>tir visé</b> plus précis infligeant davantage de DGT.\nLors de la visée, la flèche se charge de flux d'eau, infligeant des <b>DGT Hydro</b> quand elle est complètement chargée.\n\n<b>Percée</b>\nSi l'équipe est hors combat pendant 5 s, Yelan entre dans l'état Percée permettant de diminuer le temps de charge de son prochain tir visé de 80 %, et une fois le tir complètement chargé, elle peut tirer une flèche perçante qui inflige des <b>DGT Hydro de zone</b> selon ses PV max.\n\n<b>Attaque plongeante</b>\nTire une pluie de flèches depuis les airs et plonge au sol, infligeant des DGT de zone à l'impact.",
                 "pt": "<b>Ataque Normal</b>\nRealiza até quatro disparos consecutivos com o arco.\n\n<b>Ataque Carregado</b>\nRealiza um <b>disparo com mira</b> de maior dano e precisão.\nAo mirar, o fluxo de água acumulará continuamente na ponta da flecha. Quando a flecha estiver totalmente carregada com esse fluxo torrencial, infligirá <b>Dano Hydro</b>.\n<b>Ruptura</b>\nDepois de 5s fora de batalha, Yelan entra no estado \"Ruptura\", no qual o carregamento de seu próximo Disparo com Mira terá seu tempo necessário reduzido em 80%, e quando estiver totalmente carregado, ela disparará a sua \"Flecha da Ruptura\", que infligirá <b>Dano Hydro em AdE</b> baseado em sua Vida Máxima.\n\n<b>Ataque Imersivo</b>\nDispara uma chuva de flechas em pleno ar antes de atingir o chão, infligindo Dano em uma AdE durante o impacto.",
                 "es": "<b>Ataque Normal</b>\nRealiza hasta 4 disparos consecutivos con arco.\n\n<b>Ataque Cargado</b>\nRealiza un <b>Disparo Preciso</b> que inflige mayor daño y tiene mayor precisión.\nAl apuntar, un flujo de agua se acumulará en la punta de la flecha. Una flecha torrencial totalmente cargada infligirá <b>Daño Hydro</b>.\n\n<b>Irrupción</b>\nCuando el equipo está 5 s fuera de combate, Yelan entra en el estado de “irrupción”, en el que el tiempo de carga de su siguiente Disparo Preciso totalmente cargado se reduce en un 80%. Una vez cargado, el disparo se convertirá en una flecha irruptora que inflige <b>Daño Hydro en el AdE</b> en proporción a la Vida Máx. de Yelan.\n\n<b>Ataque Descendente</b>\nDispara una lluvia de flechas desde el aire mientras desciende rápidamente, infligiendo Daño en el AdE al impactar contra el suelo.",
                 "ru": "<b>Обычная атака</b>\nДо четырёх выстрелов из лука подряд.\n\n<b>Заряженная атака</b>\nБолее меткий <b>прицельный выстрел</b> с увеличенным уроном.\nВо время прицеливания наконечник стрелы заряжается водным потоком. Полностью заряженная стрела наносит <b>Гидро урон</b>.\n<b>Прорыв</b>\nЧерез 5 сек. вне боя Е Лань входит в состояние Прорыва, которое сокращает время зарядки её следующего полностью заряженного прицельного выстрела на 80%. После полной зарядки она выстрелит Прорывной стрелой, которая наносит <b>Гидро урон по площади</b>, зависящий от макс. HP Е Лань.\n\n<b>Атака в падении</b>\nВыпускает град стрел в воздухе, которые при приземлении персонажа наносят урон по площади."
@@ -408,9 +408,9 @@
                             0.4386,
                             1.24,
                             0.11576,
-                            0.568288,
-                            1.136335,
-                            1.419344,
+                            0.56829,
+                            1.13634,
+                            1.41934,
                             0,
                             0,
                             0,
@@ -433,10 +433,10 @@
                             0.35154,
                             0.4743,
                             1.333,
-                            0.124442,
-                            0.614544,
-                            1.228828,
-                            1.534872,
+                            0.12444,
+                            0.61454,
+                            1.22883,
+                            1.53487,
                             0,
                             0,
                             0,
@@ -459,7 +459,7 @@
                             0.378,
                             0.51,
                             1.426,
-                            0.133124,
+                            0.13312,
                             0.6608,
                             1.32132,
                             1.6504,
@@ -487,7 +487,7 @@
                             1.55,
                             0.1447,
                             0.72688,
-                            1.453452,
+                            1.45345,
                             1.81544,
                             0,
                             0,
@@ -511,10 +511,10 @@
                             0.44226,
                             0.5967,
                             1.643,
-                            0.153382,
-                            0.773136,
-                            1.545944,
-                            1.930968,
+                            0.15338,
+                            0.77314,
+                            1.54594,
+                            1.93097,
                             0,
                             0,
                             0,
@@ -537,7 +537,7 @@
                             0.4725,
                             0.6375,
                             1.736,
-                            0.162064,
+                            0.16206,
                             0.826,
                             1.65165,
                             2.063,
@@ -564,9 +564,9 @@
                             0.6936,
                             1.86,
                             0.17364,
-                            0.898688,
-                            1.796995,
-                            2.244544,
+                            0.89869,
+                            1.797,
+                            2.24454,
                             0,
                             0,
                             0,
@@ -589,10 +589,10 @@
                             0.55566,
                             0.7497,
                             1.984,
-                            0.185216,
-                            0.971376,
+                            0.18522,
+                            0.97138,
                             1.94234,
-                            2.426088,
+                            2.42609,
                             0,
                             0,
                             0,
@@ -615,10 +615,10 @@
                             0.59724,
                             0.8058,
                             2.108,
-                            0.196792,
-                            1.044064,
-                            2.087686,
-                            2.607632,
+                            0.19679,
+                            1.04406,
+                            2.08769,
+                            2.60763,
                             0,
                             0,
                             0,
@@ -641,9 +641,9 @@
                             0.6426,
                             0.867,
                             2.232,
-                            0.208368,
+                            0.20837,
                             1.12336,
-                            2.246244,
+                            2.24624,
                             2.80568,
                             0,
                             0,
@@ -667,10 +667,10 @@
                             0.68796,
                             0.9282,
                             2.356,
-                            0.219944,
-                            1.202656,
-                            2.404802,
-                            3.003728,
+                            0.21994,
+                            1.20266,
+                            2.4048,
+                            3.00373,
                             0,
                             0,
                             0,
@@ -694,9 +694,9 @@
                             0.9894,
                             2.48,
                             0.23152,
-                            1.281952,
-                            2.563361,
-                            3.201776,
+                            1.28195,
+                            2.56336,
+                            3.20178,
                             0,
                             0,
                             0,
@@ -720,9 +720,9 @@
                             1.0506,
                             2.635,
                             0.24599,
-                            1.361248,
-                            2.721919,
-                            3.399824,
+                            1.36125,
+                            2.72192,
+                            3.39982,
                             0,
                             0,
                             0,
@@ -746,9 +746,9 @@
                             1.1118,
                             2.79,
                             0.26046,
-                            1.440544,
-                            2.880478,
-                            3.597872,
+                            1.44054,
+                            2.88048,
+                            3.59787,
                             0,
                             0,
                             0,
@@ -773,7 +773,7 @@
                             2.945,
                             0.27493,
                             1.51984,
-                            3.039036,
+                            3.03904,
                             3.79592,
                             0,
                             0,
@@ -819,7 +819,7 @@
                 "th": "ลาก \"Lifeline\" ออกมาและเคลื่อนที่อย่างรวดเร็ว เพื่อพัวพันและทำสัญลักษณ์ใส่ศัตรูที่อยู่ในเส้นทาง\nเมื่อการเคลื่อนที่อย่างรวดเร็วสิ้นสุดลง Lifeline จะระเบิด และสร้าง<b>ความเสียหายน้ำ</b>โดยขึ้นกับค่าพลังชีวิตสูงสุดของ Yelan แก่ศัตรูที่ถูกทำสัญลักษณ์\n\n<b>{LAYOUT_MOBILE#แตะ}{LAYOUT_PC#กด}{LAYOUT_PS#กด}</b>\nเคลื่อนที่ไปข้างหน้าเป็นระยะทางประมาณหนึ่งอย่างรวดเร็ว\n\n<b>{LAYOUT_MOBILE#แตะค้าง}{LAYOUT_PC#กดค้าง}{LAYOUT_PS#กดค้าง}</b>\nเคลื่อนที่อย่างรวดเร็วและต่อเนื่อง โดยภายใต้สภาวะนี้ ความสามารถในการต้านทานการหยุดชะงักของ Yelan จะเพิ่มขึ้น\nระหว่างช่วงเวลานี้ Yelan สามารถควบคุมทิศทางในการเคลื่อนที่อย่างรวดเร็ว และจะสามารถหยุดสถานะการเคลื่อนที่อย่างรวดเร็วล่วงหน้าได้ ด้วยการใช้สกิลนี้อีกครั้ง\n\nนอกจากนี้ เมื่อ Lifeline ระเบิด Yelan จะมีโอกาสที่จะได้รับสถานะ Breakthrough โดยจะขึ้นอยู่กับจำนวนของศัตรูที่ถูกทำสัญลักษณ์: ศัตรูแต่ละตัวที่ถูกทำสัญลักษณ์ จะสามารถเพิ่มโอกาสขึ้นได้ 34%\n\n<i>จนกระทั่งเธอเกี่ยวนิ้วและดึงสายเอ็น เหล่าวายร้ายและผู้สมรู้ร่วมคิดจึงตระหนักได้ว่า ไม่เหลือหนทางให้หนีอีกต่อไปแล้ว</i>",
                 "vi": "Kéo theo \"Lạc Mệnh Tơ\" di chuyển, đánh dấu kẻ địch trên đường.\nSau khi kết thúc di chuyển, \"Lạc Mệnh Tơ\" sẽ phát nổ, gây <b>Sát Thương Nguyên Tố Thủy</b> lên kẻ địch đã đánh dấu dựa trên giới hạn HP của Yelan.\n\n<b>Nhấn</b>\nDi chuyển nhanh về phía trước.\n\n<b>Nhấn giữ</b>\nDi chuyển liên tục, tăng kháng gián đoạn cho Yelan trong trạng thái này.\nTrong lúc đó, Yelan có thể điều khiển hướng di chuyển, đồng thời có thể thi triển kỹ năng lần nữa để kết thúc sớm trạng thái này.\n\nNgoài ra, khi \"Lạc Mệnh Tơ\" phát nổ sẽ căn cứ vào số lượng kẻ địch bị đánh dấu mà Yelan có tỉ lệ nhận trạng thái \"Phá Trận\" khác nhau: Mỗi kẻ địch đánh dấu sẽ khiến tỉ lệ tăng 34%.\n\n<i>Cho đến khi giật dây thì những kẻ thủ ác mới biết được bản thân khó mà thoát được.</i>",
                 "de": "Yelan bewegt sich schnell mit ihrem „todbringenden Seil“ in der Hand, das alle Gegner in ihrer Bahn verknüpft und markiert.\nNach der schnellen Bewegung explodiert das „todbringende Seil“, wobei es den markierten Gegnern <b>Hydro-Schaden</b> basierend auf Yelans max. LP zufügt.\n\n<b>Drücken</b>\nBewegt sich schnell ein Stück nach vorn.\n\n<b>Gedrückt halten</b>\nBewegt sich schnell und fortlaufend und erhöht in diesem Zustand Yelans Unterbrechungs-WDS.\nWährend dieser Zeit kann Yelan die Richtung ihrer Bewegung steuern und diesen Zustand durch erneutes Auslösen der Fähigkeit vorzeitig beenden.\n\nDarüber hinaus erhält Yelan bei der Explosion des „todbringenden Seils“ mit gewisser Wahrscheinlichkeit gemäß der Anzahl der markierten Gegner den Zustand „Durchstoß“: Erhöht für jeden markierten Gegner die Wahrscheinlichkeit um 34 %.\n\n<i>Erst in dem Moment, wenn sie mit ihrem Finger das Seil zieht, sind sich die skrupellosen Banditen und listigen Übeltäter bewusst, dass sie sich in dem Netz der Todesbotin verfangen haben.</i>",
-                "fr": "Tire une ligne vitale et court à grande vitesse, enchevêtrant et marquant les ennemis sur son chemin.\nÀ la fin du déplacement, la ligne vitale explose, infligeant des <b>DGT Hydro</b> aux ennemis marqués selon les PV max de Yelan.\n\n<b>Appui simple</b>\nAvance rapidement sur une certaine distance.\n\n<b>Appui long</b>\nAvance rapidement de façon continue, tout en augmentant la RÉS à l'interruption de Yelan pendant son mouvement.\nPendant ce déplacement, Yelan peut contrôler la direction de sa course et peut s'arrêter en utilisant à nouveau la compétence.\n\nDe plus, chaque ennemi marqué par la ligne vitale lorsqu'elle explose accorde à Yelan 34 % de chances d'obtenir un état de Percée.\n\n<i>Ce n'est que lorsqu'elle commence à tirer sur la corde que les malfaiteurs, les escrocs et les tricheurs se rendent compte qu'il n'y a pas d'échappatoire...</i>",
+                "fr": "Tire une ligne vitale et court à grande vitesse, enchevêtrant et marquant les ennemis sur son chemin.\nÀ la fin du déplacement, la ligne vitale explose, infligeant des <b>DGT Hydro</b> aux ennemis marqués selon les PV max de Yelan.\n\n<b>Appui simple</b>\nAvance rapidement sur une certaine distance.\n\n<b>Appui long</b>\nAvance rapidement de façon continue, tout en augmentant la RÉS à l'interruption de Yelan pendant son mouvement.\nPendant ce déplacement, Yelan peut contrôler la direction de sa course et peut s'arrêter en utilisant à nouveau la compétence.\n\nDe plus, chaque ennemi marqué par la ligne vitale lorsqu'elle explose accorde à Yelan 34 % de chances d'obtenir l'état Percée.\n\n<i>Ce n'est que lorsqu'elle commence à tirer sur la corde que les malfaiteurs, les escrocs et les tricheurs se rendent compte qu'il n'y a pas d'échappatoire...</i>",
                 "pt": "Tira seu \"Fio da Vida\" e corre, marcando os inimigos no caminho.\nQuando termina de correr, o \"Fio da Vida\" explodirá e infligirá <b>Dano Hydro</b> contra os inimigos marcados baseado na Vida Máxima de Yelan.\n\n<b>Pressionar</b>\nCorre uma certa distância para frente rapidamente.\n\n<b>Manter Pressionado</b>\nCorre continuamente e aumenta a Resistência Contra Interrupção de Yelan enquanto estiver nesse estado.\nNesse período, Yelan poderá controlar a direção que corre. Lançar sua habilidade mais uma vez fará com que sua corrida termine.\n\nAlém disso, quando o \"Fio da Vida\" explode, Yelan possui uma chance de obter o efeito \"Ruptura\" de acordo com o número de inimigos marcados: cada inimigo marcado aumenta essa chance em 34%.\n\n<i>Quando ela captura com seus fios, os grupos de malfeitores e os discípulos de artimanhas conspiratórias serão todos descobertos, e todos sabem que não há mais escapatória</i>.",
                 "es": "Saca una cuerda salvavidas y corre a gran velocidad para atársela a los enemigos a su paso y marcarlos.\nAl terminar el movimiento, la cuerda explotará para infligir <b>Daño Hydro</b> contra los enemigos marcados en proporción a la Vida Máx. de Yelan.\n\n<b>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</b>\nRecorre rápidamente cierta distancia hacia delante.\n\n<b>Mantener pulsado</b>\nCorre continuamente a gran velocidad. En este estado, la RES a interrupción de Yelan aumenta.\nMientras lo hace, Yelan puede controlar la dirección en la que esprinta y, al volver a {LAYOUT_MOBILE#tocar una vez}{LAYOUT_PC#pulsar una vez}{LAYOUT_PS#pulsar una vez} la habilidad, terminará de correr.\n\nAdemás, cuando la cuerda salvavidas explota, por cada enemigo marcado aumentará en un 34% la probabilidad de que Yelan entre en el estado de irrupción.\n\n<i>Cuando tira de los hilos es cuando los bandidos, malhechores y conspiradores se dan cuenta de que, por el bien de sus vidas, deben huir.</i>",
                 "ru": "Быстро движется, опутывая и отмечая противников по пути Нитью жизни.\nПосле окончания движения Нить жизни взрывается, нанося отмеченным противникам <b>Гидро урон</b>, который зависит от макс. HP Е Лань. \n\n<b>Быстрое нажатие</b>\nБыстро продвигается вперёд на определённое расстояние.\n\n<b>Долгое нажатие</b>\nСтремительно движется некоторое время, а её сопротивление прерыванию в этом состоянии повышается.\nЕ Лань может контролировать направление движения. При повторном использовании навыка движение прекращается.\n\nКаждый противник, отмеченный Нитью жизни, даёт Е Лань 34% шанс на получение Прорыва при взрыве.\n\n<i>Только когда она начинает дёргать за ниточки, коварные злодеи и подлые разбойники понимают, что спасения нет.</i>"
@@ -895,7 +895,7 @@
                 "levels": [
                     {
                         "parameters": [
-                            0.226136,
+                            0.22614,
                             0.34,
                             3,
                             10,
@@ -921,7 +921,7 @@
                     },
                     {
                         "parameters": [
-                            0.243096,
+                            0.2431,
                             0.34,
                             3,
                             10,
@@ -947,7 +947,7 @@
                     },
                     {
                         "parameters": [
-                            0.260056,
+                            0.26006,
                             0.34,
                             3,
                             10,
@@ -1051,7 +1051,7 @@
                     },
                     {
                         "parameters": [
-                            0.339204,
+                            0.3392,
                             0.34,
                             3,
                             10,
@@ -1077,7 +1077,7 @@
                     },
                     {
                         "parameters": [
-                            0.361818,
+                            0.36182,
                             0.34,
                             3,
                             10,
@@ -1103,7 +1103,7 @@
                     },
                     {
                         "parameters": [
-                            0.384431,
+                            0.38443,
                             0.34,
                             3,
                             10,
@@ -1129,7 +1129,7 @@
                     },
                     {
                         "parameters": [
-                            0.407045,
+                            0.40705,
                             0.34,
                             3,
                             10,
@@ -1155,7 +1155,7 @@
                     },
                     {
                         "parameters": [
-                            0.429658,
+                            0.42966,
                             0.34,
                             3,
                             10,
@@ -1181,7 +1181,7 @@
                     },
                     {
                         "parameters": [
-                            0.452272,
+                            0.45227,
                             0.34,
                             3,
                             10,
@@ -1207,7 +1207,7 @@
                     },
                     {
                         "parameters": [
-                            0.480539,
+                            0.48054,
                             0.34,
                             3,
                             10,
@@ -1233,7 +1233,7 @@
                     },
                     {
                         "parameters": [
-                            0.508806,
+                            0.50881,
                             0.34,
                             3,
                             10,
@@ -1259,7 +1259,7 @@
                     },
                     {
                         "parameters": [
-                            0.537073,
+                            0.53707,
                             0.34,
                             3,
                             10,
@@ -1441,8 +1441,8 @@
                     },
                     {
                         "parameters": [
-                            0.078561,
-                            0.052374,
+                            0.07856,
+                            0.05237,
                             15,
                             18,
                             70,
@@ -1467,8 +1467,8 @@
                     },
                     {
                         "parameters": [
-                            0.084042,
-                            0.056028,
+                            0.08404,
+                            0.05603,
                             15,
                             18,
                             70,
@@ -1519,8 +1519,8 @@
                     },
                     {
                         "parameters": [
-                            0.096831,
-                            0.064554,
+                            0.09683,
+                            0.06455,
                             15,
                             18,
                             70,
@@ -1545,8 +1545,8 @@
                     },
                     {
                         "parameters": [
-                            0.102312,
-                            0.068208,
+                            0.10231,
+                            0.06821,
                             15,
                             18,
                             70,
@@ -1597,8 +1597,8 @@
                     },
                     {
                         "parameters": [
-                            0.116928,
-                            0.077952,
+                            0.11693,
+                            0.07795,
                             15,
                             18,
                             70,
@@ -1623,8 +1623,8 @@
                     },
                     {
                         "parameters": [
-                            0.124236,
-                            0.082824,
+                            0.12424,
+                            0.08282,
                             15,
                             18,
                             70,
@@ -1649,8 +1649,8 @@
                     },
                     {
                         "parameters": [
-                            0.131544,
-                            0.087696,
+                            0.13154,
+                            0.0877,
                             15,
                             18,
                             70,
@@ -1675,8 +1675,8 @@
                     },
                     {
                         "parameters": [
-                            0.138852,
-                            0.092568,
+                            0.13885,
+                            0.09257,
                             15,
                             18,
                             70,
@@ -1727,7 +1727,7 @@
                     },
                     {
                         "parameters": [
-                            0.155295,
+                            0.15529,
                             0.10353,
                             15,
                             18,
@@ -1779,7 +1779,7 @@
                     },
                     {
                         "parameters": [
-                            0.173565,
+                            0.17357,
                             0.11571,
                             15,
                             18,
@@ -2099,7 +2099,7 @@
                 "th": "หลังจากใช้ <b>Depth-Clarion Dice</b> Yelan จะเข้าสู่สถานะ Mastermind:\nการโจมตีปกติของ Yelan จะเปลี่ยนเป็นการยิง Breakthrough Barb ที่มีความพิเศษ ซึ่งลูกศรแบบนี้ จะมีคุณลักษณะที่คล้ายกับ Breakthrough Barb โดยความเสียหายที่สร้าง จะถูกมองว่าเป็นความเสียหายของการชาร์จโจมตี ซึ่งสามารถสร้างความเสียหายเป็น 156% ของความเสียหายของ Breakthrough Barb ปกติ\n\nสถานะ Mastermind จะคงอยู่ได้นานสุด 20 วินาที และจะหายไปเมื่อ Yelan ยิงลูกศรออกไป 5 ดอก",
                 "vi": "Sau khi thi triển <b>Xúc Xắc Toan Tính</b>, Yelan sẽ vào trạng thái \"Bàn Luận Chiến Lược\":\nTấn công thường của Yelan sẽ chuyển thành \"Mũi Tên Phá Trận\" đặc biệt. Mũi tên này có đặc tính tương tự với Mũi Tên Phá Trận, sát thương gây ra được tính là sát thương trọng kích, gây ra 156% sát thương so với Mũi Tên Phá Trận.\n\nTrạng thái \"Bàn Luận Chiến Lược\" tồn tại tối đa 20s và sẽ biến mất khi Yelan bắn ra 5 mũi tên.",
                 "de": "Verleiht Yelan nach dem Auslösen des <b>Würfels des Strategems</b> den Zustand „Gewinnstrategie“:\nYelans Standardangriffe verwandeln sich in spezielle „Durchstoßpfeile“. Diese Pfeile verfügen über ähnliche Eigenschaften wie normale „Durchstoßpfeile“. Ihr Schaden wird als Schaden heftiger Schläge betrachtet und sie verursachen 156 % des Schadens von normalen „Durchstoßpfeilen“.\n\nDer Zustand „Gewinnstrategie“ hält bis zu 20 s und erlischt, nachdem Yelan 5 Pfeile abgeschossen hat.",
-                "fr": "Après avoir utilisé <b>Dé exquis des profondeurs</b>, Yelan entre dans un état de Stratège.\nSes attaques normales deviennent alors des flèches perçantes spéciales. Ces flèches possèdent les mêmes capacités que les flèches perçantes normales, et les DGT qu'elles infligent sont considérés comme des DGT d'attaque chargée infligeant 156 % des DGT des flèches perçantes normales.\n\nL'état de Stratège dure 20 s maximum ou est annulé après avoir tiré 5 flèches.",
+                "fr": "Après avoir utilisé <b>Dé exquis des profondeurs</b>, Yelan entre dans l'état Stratège.\nSes attaques normales deviennent alors des flèches perçantes spéciales. Ces flèches possèdent les mêmes capacités que les flèches perçantes normales, et les DGT qu'elles infligent sont considérés comme des DGT d'attaque chargée infligeant 156 % des DGT des flèches perçantes normales.\n\nL'état Stratège dure 20 s maximum ou est annulé après avoir tiré 5 flèches.",
                 "pt": "Depois de lançar <b>Dado das Profundezas Claras</b>, Yelan entra no estado \"Mestra Estrategista\":\nOs Ataques Normais de Yelan serão convertidos em \"Flechas da Ruptura\" especiais. Essas flechas possuem as características similares à \"Flecha da Ruptura\", e seu Dano infligido será considerado como Dano de Ataque Carregado, infligindo 156% do Dano da Flecha da Ruptura normal.\n\nO estado \"Mestra Estrategista\" dura 20s e será eliminado quando Yelan disparar 5 flechas.",
                 "es": "Tras usar <b>Dado clarividente</b>, Yelan entra en el estado de “planificación táctica”.\nEn este estado, sus Ataques Normales se convierten en flechas irruptoras especiales con unas características similares a las de las flechas irruptoras normales y que infligen un 156% de su daño original. Este daño es considerado daño de Ataque Cargado.\n\nEl estado de planificación táctica dura un máximo de 20 s y se anulará después de que Yelan haya disparado 5 flechas.",
                 "ru": "После использования навыка <b>Изысканные игральные кости</b> Е Лань войдёт в состояние Стратега.\nВ этом состоянии все обычные атаки Е Лань становятся особыми Прорывными стрелами. Эти стрелы обладают схожими характеристиками с обычными Прорывными стрелами, наносимый ими урон считается уроном заряженной атаки и составляет 156% от обычного урона Прорывных стрел.\n\nСостояние Стратега исчезнет через 20 сек. или после 5 выпущенных стрел."
@@ -4603,7 +4603,7 @@
                 "title": {
                     "en": "Heavy Hit Taken: I",
                     "zh_Hans": "重受击·其一",
-                    "zh_Hant": "重受擊·其一",
+                    "zh_Hant": "受重擊·其一",
                     "ja": "重ダメージを受ける·1",
                     "ko": "강공격 피격·첫 번째",
                     "id": "Menerima Serangan Hebat: I",
@@ -4760,8 +4760,8 @@
                     "vi": "Công việc của Tổng Vụ Liyue là công khai và minh bạch, từ các quan chức cấp cao của Ngọc Kinh Đài đến các nhân viên cấp cơ sở của Bát Môn đều có thông tin cơ bản trong danh sách.\nChỉ có Yelan là ngoại lệ. Hầu hết các đồng nghiệp chưa bao giờ nghe đến tên cô ấy, cũng như tên của cô ấy không được tìm thấy trong bất kỳ danh sách nào.\nĐiểm này khá phù hợp với phong cách riêng của Yelan, khó nắm bắt và hay thay đổi.\nCô ấy giống như một hồn ma, thường xuất hiện ở trung tâm của nhiều sự kiện dưới nhiều hình thức khác nhau, và biến mất trước khi cơn bão dừng lại.\nĐôi khi, sẽ có một bên nhận được sự trợ giúp của cô ấy, nhưng khi họ tự mãn, sự trợ giúp tương tự sẽ rất nhanh xuất hiện ở phía bên kia.\nNhững người từng mắc bẫy của cô ấy đều nghiến răng nghiến lợi, nhưng dù là vậy, cũng chưa từng có ai nhìn thấu được ý đồ của cô ấy, huống hồ là nắm rõ lập trường.\nMột số người cho rằng cô ấy là mật thám của một thế lực bí ẩn nào đó, và sở trường của cô ấy là khuấy động mọi thứ trong bóng tối để đạt được điều mình muốn.\nThậm chí có người còn khẳng định rằng cô ấy chỉ là kẻ theo đuôi ngoan cố, không có tổ chức nào, và cũng không có bất kỳ mục đích gì.\nCho dù là có thì cũng chỉ là làm vẩn đục nước, làm cho ngọn lửa bùng lên dữ dội hơn, kéo tất cả mọi người vào thế giới điên rồ do cô ấy tạo ra mà thôi.\nGiữa những cuộc tranh luận, mọi thứ về cô ấy đã trở thành một câu đố. Sự thật là như thế nào, có lẽ chỉ có bản thân Yelan mới trả lời được.\nNhưng rất tiếc, đây cũng không phải là một chuyện dễ dàng gì. Trước khi cô ấy muốn gặp một ai đó, thì đối phương sẽ không bao giờ có thể tìm được cô ấy.",
                     "de": "Liyues Rat für Allgemeine Angelegenheiten arbeitet öffentlich und transparent von den obersten Beamten auf der Yujing-Terrasse bis hin zu den unterschiedlichsten einfachen Angestellten, so sind grundlegende Informationen über sie alle auf der Liste des Rats für Allgemeine Angelegenheiten verzeichnet.\nAllein Yelan, die behauptet, für den Rat für Allgemeine Angelegenheiten zu arbeiten, ist eine Ausnahme von dieser Regel. Die meisten ihrer Kollegen haben ihren Namen noch nie gehört und in der Namensliste ist er nicht aufgeführt.\nDas allerdings passt sehr zu Yelans Stil – unfassbar, rätselhaft, unberechenbar.\nSie wirkt wie ein Phantom, taucht oft mit den unterschiedlichsten Erscheinungsbildern inmitten verschiedenster Ereignisse auf. Doch bevor die Stürme zu Ende gehen, ist sie bereits spurlos verschwunden.\nManchmal erhält eine Seite ihre Unterstützung, doch während diese sich schon als Sieger sieht, wird diese Unterstützung sehr schnell der Gegenseite zuteil.\nJene, die dieses Schicksal erlitten haben, knirschen wütend mit ihren Zähnen, dennoch kann seit jeher niemand ihre Absichten durchschauen und noch weniger ihren Standpunkt nachvollziehen.\nManche glauben, sie stehe im Dienst irgendeiner mysteriösen Macht, die gut dabei sei, Konflikte anzuschüren und daraus ihren Nutzen zu ziehen.\nManche gehen sogar so weit zu sagen, dass sie eine frenetische Anhängerin der Unordnung ist, die weder einer Organisation dient noch irgendwelche sinnvollen Ziele verfolgt.\nSelbst wenn sie ein Ziel hätte, dann würde das nur bedeuten, das Wasser noch trüber und das Feuer noch wilder zu machen und alle Menschen in die von ihr geschaffene wahnsinnige Welt hineinzuzerren.\nInmitten der weit auseinandergehenden Meinungen über sie wird alles über sie Gesagte zu einem Rätsel. Was wirklich wahr ist, das kann wahrscheinlich nur Yelan selbst beantworten.\nAber bedauerlicherweise ist dies keine einfache Sache, denn sie kann nur von jenen gefunden werden, die sie selbst sucht.",
                     "fr": "Le travail du Bureau des affaires civiles est transparent : les hauts fonctionnaires de la Terrasse Yujing aussi bien que les employés des Huit Corporations ont leurs informations inscrites dans le répertoire du gouvernement.\nSeule Yelan, qui prétend y travailler, fait exception à cela. La plupart de ses collègues n'ont jamais entendu son nom, et il est impossible de la trouver dans le répertoire.\nC'est tout à fait son style : furtif et imprévisible.\nElle est comme un fantôme, apparaissant souvent au milieu de divers événements, chaque fois avec un visage différent, et disparaissant ensuite sans laisser de traces.\nParfois, il arrive qu'une faction obtienne son aide et que, lorsque celle-ci commence à se complaire dans sa suffisance, elle découvre bien vite que Yelan est passée dans le camp adverse.\nTous ceux qui se sont fait avoir par elle s'en mordent les lèvres, mais même malgré cela, personne n'est capable de déterminer quelles sont ses intentions, ni de comprendre où elle se positionne réellement.\nCertains pensent qu'elle est un agent secret au service d'une force mystérieuse et que sa spécialité est de créer des vagues pour obtenir des bénéfices.\nD'autres sont encore plus persuadés qu'elle est une fervente partisane du chaos et qu'elle ne suit aucune organisation, sans même parler d'avoir un quelconque objectif.\nEt même si elle en avait un, celui-ci serait de rendre les eaux encore plus troubles, d'attiser les flammes toujours plus, et de faire entrer tout le monde dans cet univers chaotique qu'elle a créé.\nBien que les avis soient partagés à son sujet, tout ce qui la concerne est un mystère et seule Yelan est capable de dire où la vérité se trouve réellement.\nMais malheureusement, il n'est pas aisé de la faire parler : avant qu'elle ne cherche à vous rencontrer, vous ne la trouverez jamais.",
-                    "pt": "O trabalho do Ministério dos Assuntos Civis de Liyue é aberto e transparente. Desde os altos oficiais do Terraço de Yujing, até os empregados de baixo escalão das Oito Corporações, todos têm suas informações básicas registradas nas listas do Ministério.\nA única exceção a isso é Yelan, que afirma trabalhar no ministério. A maioria das pessoas nunca ouviu falar dela, e seu nome nem sequer aparece nos registros.\nIsso diz muito sobre seu caráter — elusiva, enigmática e errática.\nEla é um fantasma que entra no meio de uma crise sob vários nomes. Mas antes que a tempestade acabe, ela desaparece sem deixar rastros.\nÀs vezes ela oferece sua ajuda a um lado durante um conflito, mas aqueles que recebem sua ajuda seriam tolos em celebrar prematuramente, pois logo descobrem que a mesma ajuda também foi oferecida aos seus rivais.\nTendo caído em suas armadilhas, muitos juraram se vingar, mas ninguém sabe o que ela está planejando, nem qual sua posição.\nMuitos acreditam que ela ela é uma espiã para alguma organização misteriosa, e que seu ponto forte é provocar nos bastidores para então conseguir o que quer.\nAlguns até dizem que ela é uma seguidora frenética da desordem que não serve nenhuma organização ou não possui nenhum propósito específico.\nMesmo que sim, tudo que ela quer é jogar mais lenha no fogo e arrastar todos para um mundo de caos criado por ela.\nCom tantas teorias e boatos em circulação, ela se tornou um mistério. Quanto a verdade, somente Yelan poderia dizê-la.\nInfelizmente, isso também não é fácil, pois é sempre ela que encontra você quando ela quer, e não o contrário.",
-                    "es": "El Ministerio de Asuntos Civiles de Liyue se caracteriza por su transparencia. Por eso, hay información sobre todos los trabajadores en los registros oficiales, desde los altos cargos de la Terraza Yujing hasta los muchos funcionarios de menor rango.\nLa única excepción es Yelan, quien aun así afirma trabajar en el Ministerio. La mayoría de sus compañeros ni siquiera han oído su nombre o no lo encuentran en los registros.\nSin embargo, esto va muy acorde con su personalidad, dado que es impredecible y tiene una sorprendente capacidad para desaparecer sin dejar rastro.\nComo si de un fantasma se tratara, aparece a menudo con distintas apariencias cuando hay un problema y, cuando te das cuenta de que se trata ella, ya se ha esfumado sin dejar rastro.\nA veces, durante un conflicto, ofrece su ayuda a una de las partes y, justo cuando dicha parte se está regocijando, sus oponentes también han recibido la misma ayuda.\nAun habiéndole complicado la vida y enfurecido a tanta gente, no solo fueron incapaces de prever sus verdaderas intenciones, sino que tampoco lograron adivinar cuál era su posición real en el asunto.\nHay quien piensa que Yelan ofrece sus servicios a algún tipo de agencia secreta y que es experta en llevar las cosas al límite y sacar provecho de ello.\nTambién hay quien afirma que no es más que una persona desorganizada, que no pertenece a ninguna organización y que no tiene ningún propósito específico.\nY si de verdad tuviera uno, sería el de agitar aún más las aguas que ya están turbias, echar leña a un fuego que ya está muy vivo y arrastrar a los demás al caos que ella misma causa.\nCon tantas teorías y elucubraciones, todo sobre ella es un misterio. En cuanto a cuál es la verdad, puede que solo la propia Yelan lo sepa.\nDesafortunadamente, sonsacarle la verdad no será tarea fácil, ya que es ella quien te encuentra primero, no al revés.",
+                    "pt": "O trabalho do Ministério dos Assuntos Civis de Liyue é aberto e transparente. Desde os altos oficiais do Terraço de Yujing, até os empregados de baixo escalão das Oito Corporações, todos têm suas informações básicas registradas nas listas do Ministério.\nA única exceção a isso é Yelan, que afirma trabalhar no ministério. A maioria das pessoas nunca ouviu falar dela, e seu nome nem sequer aparece nos registros.\nIsso diz muito sobre seu caráter — elusiva, enigmática e errática.\nEla é um fantasma que entra no meio de uma crise sob vários nomes. Mas antes que a tempestade acabe, ela desaparece sem deixar rastros.\nÀs vezes ela oferece sua ajuda a um lado durante um conflito, mas aqueles que recebem sua ajuda seriam tolos em celebrar prematuramente, pois logo descobrem que a mesma ajuda também foi oferecida aos seus rivais.\nTendo caído em suas armadilhas, muitos juraram se vingar, mas ninguém sabe o que ela está planejando, nem qual sua posição.\nMuitos acreditam que ela é uma espiã para alguma organização misteriosa, e que seu ponto forte é provocar nos bastidores para então conseguir o que quer.\nAlguns até dizem que ela é uma seguidora frenética da desordem que não serve nenhuma organização ou não possui nenhum propósito específico.\nMesmo que sim, tudo que ela quer é jogar mais lenha no fogo e arrastar todos para um mundo de caos criado por ela.\nCom tantas teorias e boatos em circulação, ela se tornou um mistério. Quanto a verdade, somente Yelan poderia dizê-la.\nInfelizmente, isso também não é fácil, pois é sempre ela que encontra você quando ela quer, e não o contrário.",
+                    "es": "El Ministerio de Asuntos Civiles de Liyue se caracteriza por su transparencia. Por eso, hay información sobre todos los trabajadores en los registros oficiales, desde los altos cargos de la Terraza Yujing hasta los muchos funcionarios de menor rango.\nLa única excepción es Yelan, quien aun así afirma trabajar en el Ministerio. La mayoría de sus compañeros ni siquiera han oído su nombre o no lo encuentran en los registros.\nSin embargo, esto va muy acorde con su personalidad, dado que es impredecible y tiene una sorprendente capacidad para desaparecer sin dejar rastro.\nComo si de un fantasma se tratara, aparece a menudo con distintas apariencias cuando hay un problema y, cuando te das cuenta de que se trata de ella, ya se ha esfumado sin dejar rastro.\nA veces, durante un conflicto, ofrece su ayuda a una de las partes y, justo cuando dicha parte se está regocijando, sus oponentes también han recibido la misma ayuda.\nAun habiéndole complicado la vida y enfurecido a tanta gente, no solo fueron incapaces de prever sus verdaderas intenciones, sino que tampoco lograron adivinar cuál era su posición real en el asunto.\nHay quien piensa que Yelan ofrece sus servicios a algún tipo de agencia secreta y que es experta en llevar las cosas al límite y sacar provecho de ello.\nTambién hay quien afirma que no es más que una persona desorganizada, que no pertenece a ninguna organización y que no tiene ningún propósito específico.\nY si de verdad tuviera uno, sería el de agitar aún más las aguas que ya están turbias, echar leña a un fuego que ya está muy vivo y arrastrar a los demás al caos que ella misma causa.\nCon tantas teorías y elucubraciones, todo sobre ella es un misterio. En cuanto a cuál es la verdad, puede que solo la propia Yelan lo sepa.\nDesafortunadamente, sonsacarle la verdad no será tarea fácil, ya que es ella quien te encuentra primero, no al revés.",
                     "ru": "Работа Департамента по делам граждан Ли Юэ полностью прозрачна. От рядовых сотрудников террасы Юйцзин до прямых подчинённых Цисин - вся информация документируется. Единственным исключением является Е Лань, которая утверждает, что работает в департаменте. Большинство её коллег никогда о ней не слышали, и её имени нет ни в одном реестре. Это вполне соотносится с её характером - загадочным, непредсказуемым, непостоянным. Подобно призраку, она появляется в самой гуще событий, каждый раз под разными именами, и исчезает до окончания бури. Иногда она помогает одной из конфликтующих сторон, но стоит им обрадоваться, как они понимают, что такую же помощь получили и соперники. Попав в её ловушку, многие поклялись отомстить, но никому не удаётся разгадать её намерения, и уж тем более никто не знает её местонахождение. Некоторые полагают, что она шпионка, работающая на какую-то таинственную организацию и умеющая извлекать выгоду из тёмных делишек. Другие считают её нарушительницей порядка, которая не служит никакой организации и не преследует никаких значимых целей. Даже если бы цели и были, всё, чего она хочет, - это подлить масла в уже разгорающееся пламя и затащить всех в созданный ею безумный мир. Благодаря всем этим слухам она сама по себе стала загадкой. В чём правда, ответить, пожалуй, может только сама Е Лань. К сожалению, это тоже непростая задача, потому что она сама решает, где и когда найти вас, а не наоборот."
                 },
                 "condition": null
@@ -4793,8 +4793,8 @@
                     "vi": "Ở tiệm thuốc Cảng Liyue thỉnh thoảng sẽ xuất hiện những bệnh nhân kỳ lạ.\nCó khi là lính đánh thuê Sumeru, có khi là nhà mạo hiểm Fontaine, có khi là thợ câu Mondstadt vô tình đập đầu vào rạn san hô...\nNhững người này có độ tuổi và thân phận khác nhau. Họ đến từ khắp mọi nơi, nhưng có chung một điểm kỳ quặc là nghiện đau.\nHọ thích cảm giác đau âm ỉ khi ấn vào vết bầm tím và cảm giác đau nhói khi đắp thuốc thảo dược lên vết thương.\nThậm chí trong một số quá trình điều trị đau đớn hơn, họ cũng không quan tâm việc có dùng thuốc gây mê hay không.\nNgạc nhiên trước sức chịu đựng phi thường của họ, các dược sĩ mới vào nghề thường bị phân tâm đến mức không nhận ra rằng tất cả bệnh nhân của họ thực sự là cùng một người.\nTất cả những người kể trên đều là Yelan sau khi ngụy trang, cô ấy luôn né tránh mọi người.\nCòn những vết thương trên cơ thể, tất nhiên là đến từ những hành động mạo hiểm không bao giờ dứt của cô ấy.\nDù là làm một công việc hiếm thấy, nhưng Yelan không vì thế mà tò mò về thế giới.\nTất nhiên là cô ấy cũng ăn, ngủ và sống như một người bình thường, nhưng có rất ít thứ khiến cô ấy thực sự hứng thú.\nKẻ giỏi ca hát, chưa chắc thích mua vui cho người; Kẻ kiến thức uyên thâm, chưa chắc sẽ làm bạn với sách vở.\nDù đã đi khắp nơi và đến rất nhiều nước nhưng cô ấy không mấy mặn mà với hành trình và những nơi xa xôi đó.\nTheo quan điểm của Yelan, hoàn thành những việc bắt buộc phải làm thì không thể gọi là hứng thú.\nThậm chí, đôi khi cô ấy còn thích tung xúc xắc để quyết định xem là sẽ giết thời gian như thế nào.\nCũng giống như, những bữa ăn bình thường không còn có thể đánh thức vị giác của người ăn cay, chỉ những món ăn cay mới có thể khiến cô ấy hài lòng được.\n\"Nhạt nhẽo đồng nghĩa với tê dại, mãnh liệt đồng nghĩa với tỉnh táo.\"\nVới quan niệm này, cô ấy đã chọn một cách sống sắc sảo hơn và bí mật chu du khắp nơi.\nĐồng hành cùng sự nguy hiểm, bí mật và ý thức mạnh mẽ về thành tựu... Chỉ có như vậy, cô ấy mới có thể cảm nhận được sự tồn tại của mình chân thực đến thế nào.",
                     "de": "In Liyues Apotheken erscheinen von Zeit zu Zeit einige Patienten mit einer seltsamen Krankheit.\nMal sind es Söldner aus Sumeru, mal Abenteurer aus Fontaine, ein andermal Fischer aus Mondstadt, die behaupten, sie seien unerwartet ins Wasser gefallen und seien mit dem Kopf auf ein Riff gefallen ...\nDies sind Menschen unterschiedlichen Alters, unterschiedlicher Hintergründen, aus allen Ecken der Welt, aber sie alle haben eine seltsame Angewohnheit – eine regelrechte Sucht nach Schmerz.\nSie erfreuen sich am stumpfen Schmerz von Quetschungen und finden Gefallen am stechenden Schmerz davon, Kräutermedizin auf ihre Wunden aufzutragen.\nEs scheint ihnen sogar egal zu sein, ob sie betäubt werden oder nicht, wenn sie schmerzhaften Therapien unterzogen werden.\nJunge Apotheker sind zumeist so verblüfft von der übermenschlichen Schmerztoleranz dieser Patienten, dass sie nicht bemerkt haben, dass es sich bei all diesen vor Ort um Behandlung bittenden Patienten, von Kopf bis Fuß um die gleiche Person handelt.\nBei allen zuvor beschriebenen Patienten handelt es sich jedes Mal um die verkleidete Yelan. Sich vollkommen auf ihre unglaubliche Wandlungsfähigkeit verlassend, entgeht sie jedem Blick.\nDie Verletzungen rühren natürlich alle von ihren endlosen gefährlichen Missionen her.\nObwohl sie eine sehr ungewöhnliche Arbeit verrichtet, hat Yelan keine besondere Neugier für die sie umgebende Welt.\nNatürlich isst und schläft sie wie gewöhnliche Menschen, aber heutzutage gibt es kaum etwas, das ihr Interesse wecken kann.\nObwohl sie sehr gewieft und fähig ist, hat sie kein Interesse daran, Menschen an der Nase herumzuführen, und obwohl sie sehr belesen ist, ist sie auch kein Bücherwurm.\nSie hat zwar die ganze Welt durchquert und zahlreiche Länder bereist, aber sie ist nicht besonders an der Ferne und dem Reisen selbst interessiert.\nAus Yelans Sicht kann etwas, das getan werden muss, nicht als Interesse bezeichnet werden.\nManchmal kann es sogar vorkommen, dass sie lieber auswürfelt, wie sie ihre Zeit verbringen soll.\nSo, wie ein normales Gericht niemals die Geschmacksknospen eines Anhängers scharfen Essens erwecken kann, so kann auch sie nur von wirklich Scharfem glücklich gemacht werden.\n„Fades betäubt, Intensives belebt.“\nIn diesem Geist hat sie sich für eine intensivere Art, zu leben und unerkannt an jeden Ort zu reisen, entschieden.\nNur so ... mit der Gefahr, den Geheimnissen und einem starken Erfolgsgefühl als ewigen Begleitern, kann sie fühlen, dass sie wirklich existiert.",
                     "fr": "Dans les pharmacies du Port de Liyue apparaissent à certains moments des malades assez étranges.\nTantôt, c'est un mercenaire de Sumeru ; tantôt, c'est un aventurier de Fontaine ; et d'autres fois, c'est un pêcheur de Monstadt qui prétend s'être cogné la tête contre un récif...\nCes personnes ont des âges et des identités distincts, en plus de venir de contrées différentes. Pourtant, ils partagent tous une même lubie : ils ont une légère dépendance à la douleur.\nIls aiment la douleur sourde qui survient lorsqu'ils appuient sur leurs bleus, et adorent le picotement ressenti lorsqu'ils appliquent des herbes médicinales sur leurs plaies.\nCela va même jusqu'au point où cela ne les dérange pas de ne pas être anesthésiés lorsqu'ils reçoivent des traitements très douloureux.\nLa plupart des pharmaciens fraîchement arrivés se surprennent de voir des patients avec une telle capacité à endurer la douleur. Leur attention ainsi détournée, ils sont incapables de remarquer que tous ces patients ne sont en réalité qu'une seule et même personne.\nIls ne sont autre que Yelan qui revêt plusieurs déguisements différents afin d'éviter le regard des gens.\nQuant à ses blessures, elles sont bien évidemment le résultat de ses sorties dangereuses qu'elle effectue inlassablement.\nMalgré son travail pas comme les autres, Yelan n'est pas curieuse vis-à-vis du monde.\nBien sûr, elle mange, dort et vit comme toute personne normale. Mais rares sont les choses qui parviennent à piquer son intérêt aujourd'hui.\nSi elle excelle dans l'art de se lier aux personnes influentes, ce n'est certainement pas parce qu'elle aime manipuler les gens, tout comme elle n'est pas devenue passionnée de livres même après avoir lu un nombre incalculable d'ouvrages.\nPareillement, elle n'éprouve aucune passion pour les voyages et les terres lointaines, bien qu'elle se soit rendue dans de nombreux pays aux quatre coins du monde.\nCar pour Yelan, les missions qu'elle doit impérativement accomplir ne sauraient être appelées des passe-temps.\nParfois, il lui arrive même de lancer des dés pour décider de la manière dont elle va passer son temps libre.\nTout comme des plats ordinaires ne peuvent éveiller les papilles d'un amateur de nourriture épicée, seuls les ingrédients pimentés sont capables de la satisfaire.\n« Les choses fades rendent apathique, tandis que les choses excitantes sont stimulantes. »\nC'est en ayant ce principe à l'esprit qu'elle a choisi de vivre une vie intense qui l'amène à se déplacer dans l'ombre dans une multitude de lieux différents.\nUne vie pleine de danger et de secrets, qui lui procure un fort sentiment de réussite... C'est seulement de cette manière qu'elle est capable de se sentir autant exister.",
-                    "pt": "As farmácias no Porto de Liyue às vezes recebem pacientes inesperados.\nEm certas ocasiões, mercenários de Sumeru, noutras, aventureiros de Fontaine, ou até mesmo algum pescador de Mondstadt que acidentalmente caiu na água e bateu sua cabeça contra uma pedra...\nEssas pessoas são de idades, identidades e locais de origem distintos, mas todas possuem algo peculiar em comum: todos possuem um certo grau de masoquismo.\nElas gostam da sensação pungente de quando os farmacêuticos aplicam ervas medicinais em suas feridas, e gostam da dor causada pela pressão em seus arranhões.\nTambém parecem pouco se importar se um anestésico for utilizado ou não quando passam por tratamentos dolorosos.\nSurpreendidos por sua resistência extraordinária, farmacêuticos iniciantes ficam tão distraídos que não percebem que seus pacientes são, na verdade, a mesma pessoa.\nTodos eles são Yelan disfarçada. Ela é uma mestra nessa arte, e sempre consegue evitar chamar atenção.\nAs feridas que ela sofre são ossos do ofício, resultados inevitáveis de sua constante exposição ao perigo em suas missões.\nApesar de seu trabalho curioso, Yelan não tem muita curiosidade sobre o mundo.\nEla come, dorme e vive como todos, mas poucas coisas lhe interessam.\nEla é erudita, mas não gosta de ler. Ela sempre sabe o que dizer para ter o melhor resultado, mas não gosta de fazer tal artimanha.\nEla viaja para locais longínquos, mas viagens são algo redundante para ela.\nPara Yelan, essas coisas não são passatempos, mas meios para um fim.\nEla prefere jogar o dado para decidir como passará seu tempo.\nAssim como alguém que está acostumado a comer pratos picantes perder o interesse noutros tipos de comida, somente culinária picante traz satisfação para Yelan.\n\"A brandura é sinônimo de cegueira. Somente a emoção traz a lucidez\".\nSob essa filosofia, ela escolheu um estilo de vida intenso, ao aventurar-se em muitos locais enquanto se esconde nas sombras.\nEla dança com o perigo, segredos, e uma forte sensação de conquista. Essas são as provas de sua existência.",
-                    "es": "En Liyue, en ocasiones aparecen por las farmacias algunos pacientes bastante peculiares.\nA veces se trata de una mercenaria de Sumeru, otras de una aventurera de Fontaine, y otras de una pescadora de Mondstadt que dice haberse golpeado la cabeza contra una roca al caer al agua.\nAunque suelen ser pacientes de distintas edades, con personalidades distintas y procedentes de diferentes partes del mundo, todas ellas tienen una particularidad en común: cierta adicción al dolor.\nLes gusta el tipo de dolor que sienten al apretarse un moretón o al aplicarse una hierba medicinal sobre una herida.\nIncluso cuando se trata de terapias más dolorosas, tampoco les importa no usar anestesia.\nLos farmacéuticos más nóveles a menudo se sorprenden de la tolerancia al dolor de estas pacientes, pero de lo que no se dan cuenta es de que, en todos y cada uno de los casos, se trata de la misma paciente.\nTodas estas apariencias no son más que disfraces de Yelan. Gracias a su maestría en el arte del disfraz, Yelan pasa desapercibida entre la gente.\nEn cuanto a sus heridas, no cabe duda de que provienen de aventurarse constantemente en todo tipo de operaciones.\nA pesar de su peculiar trabajo, Yelan no suele tener curiosidad por las cosas mundanas.\nPor supuesto, esto no significa que no coma y duerma como cualquier persona normal, pero son pocas las cosas que realmente logran despertar su interés.\nSiempre sabe qué decir para conseguir el mejor resultado, pero no le gustan las artimañas. Ha leído mucho, pero no es que le guste especialmente leer.\nA pesar de estar viajando constantemente y haber visitado diversas naciones, no siente interés alguno por otras tierras y por viajar.\nPara Yelan, cumplir con su trabajo no es sinónimo de que le guste trabajar.\nHasta tal punto es así que, a veces, para decidir cómo matar el tiempo, suele echarlo a suertes tirando un dado.\nEs como una fanática de la comida picante a la que los platos normales ya no le despiertan las papilas gustativas; necesita comida picante para poder disfrutar.\n“Las cosas suaves te vuelven apático, mientras que las intensas son estimulantes”.\nCon esta idea en mente, Yelan ha decidido adoptar un estilo de vida intenso, yendo de un lugar a otro con absoluta discreción.\nÚnicamente acompañada del peligro, del secretismo y de un fuerte sentido del éxito, Yelan es capaz de sentir la autenticidad de su existencia.",
+                    "pt": "As farmácias no Porto de Liyue às vezes recebem pacientes inesperados.\nEm certas ocasiões, mercenários de Sumeru, noutras, aventureiros de Fontaine, ou até mesmo algum pescador de Mondstadt que acidentalmente caiu na água e bateu sua cabeça contra uma pedra...\nEssas pessoas são de idades, identidades e locais de origem distintos, mas todas possuem algo peculiar em comum: todos possuem um certo grau de masoquismo.\nElas gostam da sensação pungente de quando os farmacêuticos aplicam ervas medicinais em suas feridas, e gostam da dor causada pela pressão em seus arranhões.\nTambém parecem pouco se importar se um anestésico for utilizado ou não quando passam por tratamentos dolorosos.\nSurpreendidos por sua resistência extraordinária, farmacêuticos iniciantes ficam tão distraídos que não percebem que seus pacientes são, na verdade, a mesma pessoa.\nTodos eles são Yelan disfarçada. Ela é uma mestra nessa arte, e sempre consegue evitar chamar atenção.\nAs feridas que ela sofre são ossos do ofício, resultados inevitáveis de sua constante exposição ao perigo em suas missões.\nApesar de seu trabalho curioso, Yelan não tem muita curiosidade sobre o mundo.\nEla come, dorme e vive como todos, mas poucas coisas lhe interessam.\nEla é erudita, mas não gosta de ler. Ela sempre sabe o que dizer para ter o melhor resultado, mas não gosta de fazer tal artimanha.\nEla viaja para locais longínquos, mas viagens são algo redundante para ela.\nPara Yelan, essas coisas não são passatempos, mas meios para um fim.\nEla prefere jogar o dado para decidir como passará seu tempo.\nAssim como alguém que está acostumado a comer pratos picantes pode perder o interesse noutros tipos de comida, somente culinária picante traz satisfação para Yelan.\n\"A brandura é sinônimo de cegueira. Somente a emoção traz a lucidez\".\nSob essa filosofia, ela escolheu um estilo de vida intenso, ao aventurar-se em muitos locais enquanto se esconde nas sombras.\nEla dança com o perigo, segredos, e uma forte sensação de conquista. Essas são as provas de sua existência.",
+                    "es": "En Liyue, en ocasiones aparecen por las farmacias algunos pacientes bastante peculiares.\nA veces se trata de una mercenaria de Sumeru, otras de una aventurera de Fontaine, y otras de una pescadora de Mondstadt que dice haberse golpeado la cabeza contra una roca al caer al agua.\nAunque suelen ser pacientes de distintas edades, con personalidades distintas y procedentes de diferentes partes del mundo, todas ellas tienen una particularidad en común: cierta adicción al dolor.\nLes gusta el tipo de dolor que sienten al apretarse un moretón o al aplicarse una hierba medicinal sobre una herida.\nIncluso cuando se trata de terapias más dolorosas, tampoco les importa no usar anestesia.\nLos farmacéuticos más noveles a menudo se sorprenden de la tolerancia al dolor de estas pacientes, pero de lo que no se dan cuenta es de que, en todos y cada uno de los casos, se trata de la misma paciente.\nTodas estas apariencias no son más que disfraces de Yelan. Gracias a su maestría en el arte del disfraz, Yelan pasa desapercibida entre la gente.\nEn cuanto a sus heridas, no cabe duda de que provienen de aventurarse constantemente en todo tipo de operaciones.\nA pesar de su peculiar trabajo, Yelan no suele tener curiosidad por las cosas mundanas.\nPor supuesto, esto no significa que no coma y duerma como cualquier persona normal, pero son pocas las cosas que realmente logran despertar su interés.\nSiempre sabe qué decir para conseguir el mejor resultado, pero no le gustan las artimañas. Ha leído mucho, pero no es que le guste especialmente leer.\nA pesar de estar viajando constantemente y haber visitado diversas naciones, no siente interés alguno por otras tierras y por viajar.\nPara Yelan, cumplir con su trabajo no es sinónimo de que le guste trabajar.\nHasta tal punto es así que, a veces, para decidir cómo matar el tiempo, suele echarlo a suertes tirando un dado.\nEs como una fanática de la comida picante a la que los platos normales ya no le despiertan las papilas gustativas; necesita comida picante para poder disfrutar.\n“Las cosas suaves te vuelven apático, mientras que las intensas son estimulantes”.\nCon esta idea en mente, Yelan ha decidido adoptar un estilo de vida intenso, yendo de un lugar a otro con absoluta discreción.\nÚnicamente acompañada del peligro, del secretismo y de un fuerte sentido del éxito, Yelan es capaz de sentir la autenticidad de su existencia.",
                     "ru": "Аптеки в гавани Ли Юэ иногда принимают любопытных пациентов. Это может быть наёмник из Сумеру или искатель приключений из Фонтейна. А может быть и рыбачка из Мондштадта, которая случайно упала в воду и ударилась головой о камень. Все они разного возраста, телосложения и происхождения, но их объединяет одно - все они испытывают лёгкое пристрастие к боли. Им нравится жжение, когда аптекари наносят на их раны снадобья из трав, им нравится тупая боль, когда те давят на их синяки. Даже кажется, что им всё равно, используется ли анестезия, когда их подвергают болезненным процедурам. Удивлённые необычайной стойкостью, начинающие аптекари настолько увлекаются, что не замечают, что все их пациенты - это один и тот же человек. Все они - переодетая Е Лань. Владея искусством маскировки, она всегда остаётся незамеченной. Что касается травм, то они являются результатом её бесконечно опасной деятельности. Несмотря на интересную работу, сама Е Лань не очень интересуется миром вокруг. Она ест, спит и живёт, как и все остальные, но мало что может вызвать у неё интерес. Она хорошо начитана, но её нельзя назвать заядлой читательницей. Она всегда знает, что сказать, чтобы достичь наилучшего результата, но не получает удовольствия от игр разума. Она путешествует в далёкие земли, но путешествия ей скучны. В глазах Е Лань это не удовольствие, а средство достижения цели. Она даже предпочитает бросать кости, чтобы решить, как провести время. Как человек, привыкший к острой пище, может потерять способность наслаждаться обычными блюдами, так и Е Лань считает, что только острая кухня может принести ей удовлетворение. «Заурядность - синоним апатии, в то время как острые ощущения дают ясность». Руководствуясь этой философией, она выбирает острый стиль жизни, блуждая и скрываясь в тени. Только в компании опасности, тайны и успеха Е Лань может почувствовать подлинность своего существования."
                 },
                 "condition": {
@@ -4840,7 +4840,7 @@
                     "vi": "Cởi bỏ hết lớp mặt nạ thì thân phận thật sự của Yelan là nhân viên tình báo đặc biệt trực thuộc Thiên Quyền Ningguang.\nCó thể sẽ không đủ chính xác nếu chỉ gọi cô ấy là một nhân viên tình báo. Những từ này chỉ có thể mô tả công việc của cô ấy, nhưng không thể bao hàm mối quan hệ của cô ấy với Thiên Quyền.\nYelan luôn nghĩ rằng mình không phải cấp dưới của bất kỳ ai, so với mối quan hệ cấp trên cấp dưới thì việc hợp tác của cô ấy với Ningguang giống như một cuộc giao dịch hơn, hoặc giả là... một loại khế ước nào đó.\nCô ấy có thể hái được tất cả quả ngọt tình báo từ thân cây nguy hiểm cho Ningguang, và đổi lại, tất cả những gì cô ấy cần chỉ là bản thân sự nguy hiểm và cảm giác thỏa mãn thành tựu.\nKhông ai biết sự hợp tác của họ bắt đầu từ khi nào.\nĐiều chắc chắn duy nhất là dấu chân của Yelan từ lâu đã sớm in dấu trên những vùng đất bên ngoài Liyue.\nTừ các quốc gia khác ở Teyvat đến vực sâu đầy nguy hiểm...\nMỗi hang động nguy hiểm với những bí ẩn sâu thẳm đều có thể trở thành thảm hoa cho các loài phong lan nở rộ.\nCô ấy nhẹ nhàng rong ruổi trong đêm, dưới những vì sao chiếu sáng trên bầu trời của cô ấy.",
                     "de": "Erst wenn alle Fassaden abgenommen sind, kommt Yelans wirkliche Identität als Geheimagentin des Tianquan Ningguang ans Licht.\nSie allein als Geheimagentin zu bezeichnen, ist vielleicht etwas zu ungenau. Diese Worte können nur ihre Arbeit beschreiben, aber nicht ihre Beziehung zum Tianquan.\nYelan glaubt vom Grunde ihres Herzens, dass sie niemandes Diener ist und dass ihre Zusammenarbeit mit Ningguang anstatt einer hierarchischen Beziehung vielmehr ein gegenseitiger Handel oder anders ausgedrückt ... eine Art von Abkommen ist.\nFür Ningguang beschafft sie alle Informationsfrüchte, die sie von der Blume der Gefahr pflücken kann, die einzige Gegenleistung, die Yelan dafür fordert, sind die Gefahr und das Erfolgsgefühl selbst.\nNiemand weiß, wie es zu dieser Kooperation kam.\nDas einzig Sichere ist, dass Yelans Fußspuren schon früh Boden außerhalb Liyues betraten.\nDie anderen Gebiete in Teyvat und sogar der voller Gefahren steckende Abgrund ...\nJede noch so verborgene, geheime und gefährliche Höhle kann zu einem Blumengarten, in dem die Orchideen in voller Blüte stehen, werden.\nWo der Tianquan der Qixing sein Licht wirft, kann man den Duft der Orchidee riechen.",
                     "fr": "Une fois tous ses masques retirés, la véritable identité de Yelan est celle d'une agente spéciale de renseignements qui répond directement aux ordres de la Megrez Ningguang.\nMais il serait inexact de la décrire comme une agente de renseignements. Cette dénomination ne représente que son travail et ne prend pas en compte sa relation avec la Megrez.\nAu fond d'elle, Yelan ne se considère comme la subordonnée de personne. Sa relation de coopération avec Ningguang ressemble davantage à une transaction, ou... à une sorte de contrat.\nElle fournit à Ningguang tous les renseignements qu'elle trouve dans des lieux ou des situations dangereuses, et en retour, elle ne cherche qu'à obtenir la sensation du risque et le sentiment de réussite que cela lui procure.\nPersonne ne sait comment une telle coopération s'est créée.\nLa seule chose qui est certaine, c'est que Yelan a déjà laissé ses empreintes sur des terres au-delà de Liyue.\nElle s'est rendue dans chaque nation en Teyvat, y compris dans le chaos de l'Abîme...\nChaque grotte périlleuse recelant des secrets peut potentiellement devenir un jardin sur lequel Yelan, « l'orchidée nocturne », s'épanouit.\nElle erre furtivement dans la nuit, couverte par un ciel étoilé.",
-                    "pt": "Por trás de todas as suas máscaras, a verdadeira de identidade de Yelan é a de uma Oficial Especial de Inteligência sob comando direto da Tianquan Ningguang.\nEntretanto, esse título também talvez não seja muito preciso. Essas palavras somente descrevem seu trabalho, mas não sua relação com a Tianquan.\nEm seu coração, Yelan acredita que ela não é subordinada de ninguém. Sua cooperação com Ningguang não se trata tanto de uma relação de subordinação, mas sim de uma transação... Como um certo contrato.\nEla colhe os frutos da inteligência para Ningguang, e em troca só pede pelo perigo e uma sensação de conquista.\nNinguém sabe quando sua cooperação começou.\nA única coisa certa é que os rastros de Yelan marcaram outras terras além de Liyue.\nDas sete nações de Teyvat até o perigoso Abismo...\nToda secreta e perigosa caverna se tornará um jardim em que as orquídeas desabrocham.\nEla furtivamente ronda à noite assim como as estrelas lhe iluminam no céu.",
+                    "pt": "Por trás de todas as suas máscaras, a verdadeira identidade de Yelan é a de uma Oficial Especial de Inteligência sob comando direto da Tianquan Ningguang.\nEntretanto, talvez esse título também não seja muito preciso. Essas palavras somente descrevem seu trabalho, mas não sua relação com a Tianquan.\nEm seu coração, Yelan acredita que ela não é subordinada de ninguém. Sua cooperação com Ningguang não se trata tanto de uma relação de subordinação, mas sim de uma transação... Como um certo contrato.\nEla colhe os frutos da inteligência para Ningguang, e em troca só pede pelo perigo e uma sensação de conquista.\nNinguém sabe quando sua cooperação começou.\nA única coisa certa é que os rastros de Yelan marcaram outras terras além de Liyue.\nDas sete nações de Teyvat até o perigoso Abismo...\nToda secreta e perigosa caverna se tornará um jardim em que as orquídeas desabrocham.\nEla furtivamente ronda à noite assim como as estrelas lhe iluminam no céu.",
                     "es": "A pesar de sus numerosos disfraces, Yelan es en realidad una agente especial que trabaja ofreciendo sus servicios de inteligencia directamente al Equilibro Celestial, Ninguang.\nSin embargo, “informante” no es la descripción más exacta para ella. Esta palabra solo resume el trabajo de Yelan, pero no describe su relación con el Equilibro Celestial.\nEn el fondo, Yelan no considera que esté al servicio de nadie. Más que tratarse de una relación jerárquica, su colaboración con Ninguang es como una transacción, o incluso se podría decir que... han llegado a algún tipo de acuerdo.\nYelan recaba para Ninguang la información que se gesta en medio del peligro, y lo único que quiere a cambio es más peligro y la sensación de sentirse realizada.\nNadie sabe cómo ni por qué ambas comenzaron a colaborar.\nLo único que se sabe con certeza es que ya hace tiempo que Yelan puso pie en las tierras de fuera de Liyue.\nYa sea en el resto de las naciones de Teyvat, en el más peligroso de los abismos o incluso en la más recóndita de las cuevas, siempre podrá llegar a florecer una orquídea.\nMientras haya estrellas en el firmamento, ella caminará sigilosamente en la noche.",
                     "ru": "Без своих масок Е Лань - офицер разведки, подчиняющийся непосредственно Воле Небес Нин Гуан. Пожалуй, это звание не совсем точное, потому что оно охватывает только сферу её работы, но не отношения с Волей Небес. В глубине души Е Лань не считает себя чьей-либо подчинённой. Её сотрудничество с Нин Гуан больше похоже на сделку, чем на отношения между начальницей и подчинённой, или даже скорее на... контракт. Она срывает плоды интеллекта с древа опасности для Нин Гуан, а взамен получает чувство риска и ощущение выполненного дела. Никто не знает, когда началось их сотрудничество. Единственное, в чём можно быть уверенным, так это в том, что следы Е Лань уже давно распространяются за пределами Ли Юэ, в других странах Тейвата и даже в самой Бездне... Любая таинственная пещера может стать садом цветущих орхидей. Крадучись бродит она в ночи, а над головой её сияют звёзды."
                 },
@@ -5008,7 +5008,7 @@
                     "zh_Hant": "幽奇腕闌與白紵飛練帔",
                     "ja": "幽奇なる腕輪と白き肩掛け",
                     "ko": "기묘한 팔찌와 흰 모시 어깨덮개",
-                    "id": "Gelang yang Mempesona dan Mantel Sutra Putih",
+                    "id": "Gelang yang Memesona dan Mantel Sutra Putih",
                     "th": "กำไลอาคมพิศวงกับเสื้อคลุมละอองเมฆขาว",
                     "vi": "Vòng Tay Lôi Cuốn Và Áo Choàng Trắng",
                     "de": "Der Faszinierende Armreif und der weiße Ramien-Flatterumhang",
@@ -5075,7 +5075,7 @@
                     "vi": "Không phải lúc nào Yelan cũng hành động một mình. Lúc trước, cô ấy cũng có những đồng liêu hết lòng ủng hộ.\nCó một vài người, vì nhiều lý do nên đã chọn cùng Yelan xâm nhập vào bóng tối.\nNhưng lúc đó, Yelan vẫn chưa hiểu hết: mánh khóe, mồi nhử, cạm bẫy... chỉ dựa vào những thứ này, chưa chắc có thể đối phó với tất cả.\nKẻ địch giỏi tự chủ sẽ không ăn mồi, kẻ địch mưu mô xảo quyệt sẽ không sa vào âm mưu, kẻ địch có sức mạnh sẽ không rơi vào bẫy.\nVì vậy, họ phải trả giá. Lần lượt có người biến mất trên con đường phía trước, mặc dù những người chọn con đường này từ lâu đã giác ngộ được điều đó...\nNhưng khi một nhiệm vụ điều tra Vực Sâu nào đó kết thúc, bên cạnh Yelan không còn ai, cuối cùng cô ấy cũng dừng lại và dừng lại rất lâu.\nCho đến một ngày, Ningguang đích thân tìm đến ngôi nhà gỗ nơi cô ở.\n\"Lâu rồi không quay về Cảng Liyue, chắc là gặp phải chuyện gì rồi đúng không. Nếu muốn nghỉ việc, tôi cũng sẽ nể tình.\"\nNingguang đứng ngoài cửa, vẻ mặt căng thẳng nhưng giọng nói vẫn thản nhiên và thoải mái.\n\"Nhưng không sao cả. Đã dùng người thì không nghi ngờ, tôi tin là cô đang tìm đường ra. Tiến hay lùi cũng đều là con đường.\"\nBên trong cánh cửa im lìm, không ai trả lời. Một lúc lâu sau mới nghe thấy câu trả lời từ phía sau vọng lại:\n\"Hai người chúng ta đều mắc sai lầm. Những gì chúng ta làm không nên ảnh hưởng đến những người bình thường.\"\n\"Người bình thường?\"\nNingguang vừa nghĩ đến gì đó, chỉ nhìn thấy một chùm ánh sáng màu xanh bay qua không trung, đung đưa sau đầu cô ấy.\nNhững mũi tên được điều khiển rất chuẩn, rất nhanh, những giọt nước biến thành những hạt ngọc rơi xuống, trước khi rơi xuống, chúng phân tán thành một vầng hào quang.\nNingguang quay đầu, nhìn thấy Yelan từ xa đi tới, trên tay cầm một cây cung, máu từ đầu ngón tay chảy ra.\nMột cung thủ phải dùng hết sức lực, ngày đêm rèn luyện thì ngón tay mới chảy máu.\nNhưng Ningguang cũng hiểu, với tính cách của Yelan, chắc hẳn cô ấy đã gặp phải một thất bại không bình thường, và hạ quyết tâm làm những gì mà một người bình thường không thể làm được, vì vậy nên mới bế quan luyện tập.\nNhư để cho Ningguang một câu trả lời, Yelan giương cung tên, nhắm vào ngọn đồi phía xa.\nNgay khi mũi tên bắn ra, như sấm sét bay, như cầu vồng trắng, và có khả năng xuyên thủng bầu trời. Trong phút chốc, nước suối trong núi dâng trào không ngừng, như bị một thế lực vô hình nào đó lôi cuốn, hóa thành nhiều mũi tên nước bay lên.\nNhững mũi tên đan xen và hội tụ giữa không trung, một màn nước nổ tung ngay lập tức, giống như một cơn mưa rào giữa đêm hè.\nSau cơn mưa, không có bướm bay hay cầu vồng, chỉ có một tia sáng nhẹ rơi vào tay Yelan.\nTheo như Ningguang nói, \"Vision\" này là một tín hiệu, có nghĩa là: \"Từ hôm nay trở đi, mọi thứ sẽ được giao cho một Yelan phi thường\".",
                     "de": "Yelan ist nicht immer allein herumgezogen. Vor langer Zeit gab es um sie herum ihre sehr hingebungsvollen Kollegen.\nDiese wenigen entschieden sich aus irgendeinem Grund zusammen mit Yelan, einen Pfad ins Dunkel hinabzusteigen.\nAber zu jener Zeit hatte Yelan sie noch nicht klar erkannt – die List, den Köder, die Falle ... Allein auf ihre Stärken vertrauend konnte sie nicht alle Dinge in den Griff bekommen.\nSich im Zaum haltende Gegner schlucken keinen Köder, schlaue und gerissene Feinde werden keiner Verschwörung Opfer, furchtbar starke Feinde können nicht in einer Falle gefangen werden.\nDeshalb zahlten sie einen hohen Preis. Nacheinander verschwanden diese Menschen auf ihrem Weg, auch wenn sie sich dessen schon bewusst wurden ...\nAls Yelan, am Ende einer Mission zur Untersuchung des Abgrunds, erneut allein dastand, hörte sie schließlich damit auf, hörte für eine sehr lange Zeit mit diesen Missionen auf.\nBis eines Tages Ningguang selbst an die Tür der Holzhütte, in der Yelan lebte, klopfte.\n„Du bist so lange nicht nach Liyue zurückgekehrt, es muss etwas vorgefallen sein. Ich kann verstehen, wenn du aussteigen willst.“\nNingguang stand vor der Tür, die Haltung ganz und gar nicht entspannt, jedoch mit einer weiterhin ruhigen Stimmlage.\n„Aber alles wird gut. Ich vertraue dir, ich vertraue darauf, dass du hier einen Ausweg suchst. Vor und zurück, beides sind letztlich Wege.“\nAus der Tür drang nur Schweigen, es kam keine Antwort. Es dauerte lange, bis Ningguang endlich eine Antwort von hinten hörte.\n„Du und ich, wir beide haben einen Fehler gemacht. Bei all unserem Handeln sollten wir die gewöhnlichen Menschen nicht mit hineinziehen.“\n„Gewöhnliche Menschen?“\nAls Ningguang darüber nachdachte, was sie sagen sollte, wurde die Luft von einem Strahl indigoblauen Lichts durchbrochen, der direkt hinter ihrem Kopf vorbeischoss.\nDer Pfeil zeigte die große Präzision der Schützin und fiel daraufhin in perlengleichen Wassertropfen herab, bevor diese vor dem Aufkommen zu glänzendem Licht zerbarsten.\nAls Ningguang hinter sich blickte, sah sie Yelan aus der Ferne zu sich kommen, in der Hand hielt sie einen Bogen und von ihren Fingerkuppen tropfte Blut.\nEine Schützin, die mit aller Kraft zielt, Tag und Nacht trainiert, aus deren zehn Fingern wird Blut tropfen.\nAber Ningguang verstand auch, dass diese Eigenheiten von Yelan durch übermenschliche Rückschläge entstanden sein mussten, was zu ihrer übermenschlichen Entschlossenheit geführt haben musste und sie dazu brachte, sich erneut zurückzuziehen und für den Kampf zu trainieren.\nWie als wolle sie Ningguang eine Antwort geben, nahm Yelan einen Pfeil, spannte den Bogen und zielte auf einen Berggipfel in der Ferne.\nDer Pfeil schoss heraus wie ein fliegender Blitz, wie ein weißer Regenbogen, als habe er die Kraft des Himmels. Urplötzlich rauschte das Wasser der Gebirgsquellen herbei, von einer unsichtbaren Macht herbeigerufen, und verwandelte sich in zahllose Pfeile aus Wasser, die sich in die Höhe wanden.\nViele Pfeile überkreuzten sich, sammelten sich in der Luft und stürzten auf einmal als eine Wasserwand herab, so wie ein prasselnder Regenschauer in einer Sommernacht.\nDoch nach dem Regen waren keine fliegenden Schmetterlinge oder Regenbogen zu sehen, stattdessen stieg eine schwach leuchtende Lichtsäule auf Yelans Hände hinab.\nWenn man Ningguang Glauben schenkt, war dieses „Göttliche Auge“ ein Signal, das sagt: „Von diesem Tag an könnt ihr alle Dinge der ganz und gar nicht gewöhnlichen Yelan überlassen.“",
                     "fr": "Yelan n'a pas toujours agi seule. Il y a de nombreuses années, elle était entourée de collègues qui prenaient soin les uns des autres.\nEffectivement, il y avait un petit groupe de personnes qui, pour diverses raisons, avaient choisi de marcher dans l'ombre avec elle.\nMais à l'époque, Yelan n'avait pas prévu une chose : son talent pour les ruses et les pièges ne suffirait pas à résoudre toutes les situations.\nLes ennemis ayant un grand contrôle de soi ne se laisseraient pas appâter, les adversaires à l'esprit rusé et calculateur ne se laisseraient pas avoir par ses machinations, et ceux dotés d'un pouvoir écrasant pourraient tout simplement se défaire de ses pièges par la force.\nPar conséquent, Yelan et son équipe payèrent le prix fort : un par un, ses collègues disparurent, même s'ils s'étaient préparés à un tel destin depuis le début...\nC'est après une mission d'enquête sur l'Abîme que Yelan finit par se retrouver entièrement seule. Pour la première fois de sa vie, elle s'arrêta pendant un long, long moment.\nUn jour, Ningguang lui rendit visite dans sa cabane en bois.\n« Tu n'es pas retournée au port de Liyue depuis un bon moment. Il a dû se passer quelque chose. Je peux comprendre si tu veux arrêter. »\nNingguang se tenait devant la porte, un regard intense sur son visage, mais sa voix restait décontractée et détendue.\n« Mais ce n'est pas grave. Je travaille avec toi, alors je te fais confiance. Je suis prête à croire que tu es ici pour essayer de trouver une issue. Avancer et reculer sont deux voies qu'il est possible d'emprunter. »\nUn silence emplit alors la salle, car il n'y eut pas de réponse. Un long moment plus tard, une voix s'éleva de derrière :\n« On a commis une erreur, toi et moi. On n'aurait pas dû impliquer des civils »\n« Des civils ? »\nNingguang n'eut même pas le temps de penser qu'un éclair bleu fusa et s'arrêta juste derrière elle.\nC'était une flèche qui avait été tirée de manière extrêmement précise. Elle se transforma rapidement en perles d'eau qui se changèrent à leur tour en lumière scintillante avant de toucher le sol.\nNingguang se retourna et vit Yelan s'avancer, un arc à la main, du sang coulant du bout de ses doigts.\nElle avait dû s'entraîner sans relâche des jours et des nuits pour qu'elle ait tous ses doigts en sang.\nMais Ningguang comprenait aussi que quelqu'un comme Yelan avait dû traverser une situation très difficile pour qu'elle s'engage à s'entraîner avec une telle détermination.\nPour donner une réponse à Ningguang, Yelan tendit son arc et visa la montagne au loin.\nElle décocha une flèche qui, comme un éclair, fut propulsée en l'air, transperçant les nuages et le ciel. Comme si elles répondaient à l'appel d'une force inconnue, les eaux des montagnes se mirent à déferler et s'élevèrent en tourbillons formés d'innombrables flèches.\nAprès avoir effectué la moitié de leur trajet dans le ciel, elles éclatèrent en un rideau d'eau, faisant pleuvoir une averse typique des nuits d'été.\nLorsque le ciel se dégagea, aucun arc-en-ciel ou papillon n'apparut, seule une faible lumière se posa dans la paume de Yelan.\nSelon Ningguang, cet œil divin était porteur d'un message : « À partir d'aujourd'hui, confiez toutes les affaires à cette fille peu ordinaire qu'est Yelan. »",
-                    "pt": "Yelan nem sempre esteve por conta própria. Vários anos atrás, ela tinha uma equipe em que todos cuidava uns dos outros.\nExistia um pequeno grupo de pessoas que por vários motivos decidiram seguir o caminho na escuridão com ela.\nMas antigamente, Yelan ainda não tinha entendido que seus truques inteligentes e armadilhas engenhosas, habilidades das quais ela tanto se orgulhava, não poderiam resolver tudo para ela.\nInimigos com um enorme senso de autocontrole não mordiam suas iscas, inimigos com mentes astutas e calculistas não caíam em seus esquemas, e aqueles com uma enorme força poderiam simplesmente usar ela para sair de suas armadilhas.\nPortanto, Yelan e sua equipe pagaram o preço — um por um, eles faleceram ao longo do caminho, embora tenham previsto e se preparado para tal destino...\nMesmo assim, após uma missão para investigar o Abismo, Yelan eventualmente se encontrou sozinha. Pela primeira vez na vida, ela parou, por muito, muito tempo.\nEssa situação permaneceu até que um dia, quando Ningguang a visitou pessoalmente em sua cabana de madeira.\n\"Você não voltou ao Porto de Liyue já faz um tempo. Algo deve ter acontecido. Eu entendo se você quiser parar.\"\nNingguang ficou de pé do lado de fora da porta, com um olhar intenso em seu rosto, mas sua voz ainda normal e relaxada.\n\"Mas está tudo bem. Eu trabalho com aqueles que confio, e eu confio naqueles com quem trabalho. Estou disposta a acreditar que você estava procurando uma maneira de parar. Todas as atitudes, agressivas ou defensivas, são, de qualquer forma, meios para atingir um fim.\"\nNão houve resposta, mas apenas um silêncio sufocante. Bastante tempo se passou antes de Ningguang finalmente ouvir uma resposta por trás de si:\n\"Nós duas cometemos um erro: não deveríamos ter envolvido pessoas comuns no que fazemos.\"\n\"Pessoas comuns?\"\nEnquanto Ningguang ainda estava formulando um pensamento, um brilho repentino azul disparou em sua direção, parando assim que passou ao seu lado.\nEm uma demonstração de grande controle da arqueira, a flecha rapidamente se estilhaçou em pérolas de águas e se quebrou em milhares de fragmentos luminescentes antes de encostar ao chão.\nNingguang se virou e viu Yelan andando em sua direção, com um arco em mãos, com sangue escorrendo pela ponta de seus dedos.\nNinguém conseguiria imaginar os dias e noites desgastantes de treino com o arco e flecha que Yelan teria passado para fazer com que seus dedos sangrassem.\nConhecendo Yelan muito bem, Ningguang também entendeu que ela deveria ter passado por uma situação estranhamente complicada. Apenas isso poderia explicar a determinação incomum de Yelan em se trancar e de treinar tão arduamente novamente.\nYelan mirou para a montanha no horizonte, um comportamento que foi uma resposta para Ningguang.\nEla disparou sua flecha. Como um raio, sendo lançado aos céus, perfurando nuvens com uma determinação que poderia estilhaçar o domo do próprio céu. Como se estivesse respondendo ao chamado de um poder misterioso, as águas nas montanhas rosnaram e uivaram, e em seguida rodopiaram para cima sob a forma de inúmeras flechas.\nQuando se encontraram a caminho dos céus, elas explodiram em uma cortina de água, criando uma chuva como as que adornavam as noites de Verão.\nConforme os céus se abriam, não havia um arco-íris, nem sinal de nenhuma borboleta, apenas um pilar de luz suave que caiu nas mãos de Yelan.\nSegundo Ningguang, a Visão trouxe consigo uma mensagem: \"De hoje em diante, deixe tudo nas mãos da extraordinária Yelan.\"",
+                    "pt": "Yelan nem sempre esteve por conta própria. Vários anos atrás, ela tinha uma equipe em que todos cuidava uns dos outros.\nExistia um pequeno grupo de pessoas que por vários motivos decidiram seguir o caminho na escuridão com ela.\nMas antigamente, Yelan ainda não tinha entendido que seus truques inteligentes e armadilhas engenhosas, habilidades das quais ela tanto se orgulhava, não poderiam resolver tudo para ela.\nInimigos com um enorme senso de autocontrole não mordiam suas iscas, inimigos com mentes astutas e calculistas não caíam em seus esquemas, e aqueles com uma enorme força poderiam simplesmente usar ela para sair de suas armadilhas.\nPortanto, Yelan e sua equipe pagaram o preço — um por um, eles faleceram ao longo do caminho, embora tenham previsto e se preparado para tal destino...\nMesmo assim, após uma missão para investigar o Abismo, Yelan eventualmente se encontrou sozinha. Pela primeira vez na vida, ela parou, por muito, muito tempo.\nEssa situação permaneceu até o dia em que Ningguang a visitou pessoalmente em sua cabana de madeira.\n\"Você não voltou ao Porto de Liyue já faz um tempo. Algo deve ter acontecido. Eu entendo se você quiser parar.\"\nNingguang ficou de pé do lado de fora da porta, com um olhar intenso em seu rosto, mas sua voz ainda normal e relaxada.\n\"Mas está tudo bem. Eu trabalho com aqueles que confio, e eu confio naqueles com quem trabalho. Estou disposta a acreditar que você estava procurando uma maneira de parar. Todas as atitudes, agressivas ou defensivas, são, de qualquer forma, meios para atingir um fim.\"\nNão houve resposta, mas apenas um silêncio sufocante. Bastante tempo se passou antes de Ningguang finalmente ouvir uma resposta por trás de si:\n\"Nós duas cometemos um erro: não deveríamos ter envolvido pessoas comuns no que fazemos.\"\n\"Pessoas comuns?\"\nEnquanto Ningguang ainda estava formulando um pensamento, um brilho repentino azul disparou em sua direção, parando assim que passou ao seu lado.\nEm uma demonstração de grande controle da arqueira, a flecha rapidamente se estilhaçou em pérolas de águas e se quebrou em milhares de fragmentos luminescentes antes de encostar ao chão.\nNingguang se virou e viu Yelan andando em sua direção, com um arco em mãos, com sangue escorrendo pela ponta de seus dedos.\nNinguém conseguiria imaginar os dias e noites desgastantes de treino com o arco e flecha que Yelan teria passado para fazer com que seus dedos sangrassem.\nConhecendo Yelan muito bem, Ningguang também entendeu que ela deveria ter passado por uma situação estranhamente complicada. Apenas isso poderia explicar a determinação incomum de Yelan em se trancar e de treinar tão arduamente novamente.\nYelan mirou para a montanha no horizonte, um comportamento que foi uma resposta para Ningguang.\nEla disparou sua flecha. Como um raio, sendo lançado aos céus, perfurando nuvens com uma determinação que poderia estilhaçar o domo do próprio céu. Como se estivesse respondendo ao chamado de um poder misterioso, as águas nas montanhas rosnaram e uivaram, e em seguida rodopiaram para cima sob a forma de inúmeras flechas.\nQuando se encontraram a caminho dos céus, elas explodiram em uma cortina de água, criando uma chuva como as que adornavam as noites de Verão.\nConforme os céus se abriam, não havia um arco-íris, nem sinal de nenhuma borboleta, apenas um pilar de luz suave que caiu nas mãos de Yelan.\nSegundo Ningguang, a Visão trouxe consigo uma mensagem: \"De hoje em diante, deixe tudo nas mãos da extraordinária Yelan.\"",
                     "es": "Yelan no siempre ha actuado por su propia cuenta. Hace varios años, formaba parte de un equipo cuyos miembros se cuidaban los unos a los otros.\nSe trataba de un grupo de gente que, por diversos motivos, decidió recorrer el camino de las sombras junto a Yelan.\nPero en aquel entonces, lo que Yelan no vio venir es que, a pesar de contar con sus señuelos, artimañas y trampas, todo ello no le serviría para resolver todos sus problemas.\nLos enemigos con autocontrol no se dejaban engañar por sus señuelos; los oponentes ingeniosos se daban cuenta de sus artimañas; y los rivales más poderosos no caían en sus trampas.\nPor todo ello, Yelan y su equipo pagaron el precio. Uno a uno, fue perdiendo a sus compañeros en el camino, aunque todos eran conscientes del destino que les deparaba por recorrerlo.\nSin embargo, al completar una misión de investigación en el abismo, Yelan se encontró completamente sola, y entonces se detuvo. Se detuvo durante mucho, mucho tiempo.\nHasta que un día, Ninguang en persona fue a buscarla a la cabaña en la que se hospedaba.\n“Hace tiempo que no apareces por Liyue. Debe de haberte pasado algo. Si quieres renunciar, lo entiendo”.\nNinguang permaneció de pie en la puerta y, aunque parecía preocupada, su voz denotaba tanta seguridad como siempre.\n“No pasa nada. Me gustaría creer que estás aquí para encontrar tu camino. Ya sea un camino de entrada o de salida. Al final, un camino es un camino”.\nNo hubo respuesta alguna en medio de aquel silencio sepulcral. Pero pasado un rato, Ninguang finalmente oyó una respuesta procediendo de detrás de ella:\n“Las dos hemos cometido un error. No deberíamos haber involucrado a la gente común en lo que hacemos”.\n“¿Gente común?”\nAntes de que pudiera darse cuenta, Ninguang vio cómo un haz de luz de color índigo se detenía justo detrás de ella.\nLa arquera Yelan hizo evidente su maestría con el arco, y la flecha se dividió en gotas de agua como perlas de jade, las cuales dispersaron su fulgor antes de impactar contra el suelo.\nCuando se dio la vuelta, Ninguang vio a Yelan acercarse, arco en mano y con las yemas de los dedos ensangrentadas.\nEs inimaginable lo que debe de haberse esforzado un arquero y lo que debe de haber entrenado para que sus dedos sangren.\nEntonces, Ninguang comprendió que, para que alguien como Yelan entrenara con tal determinación, debía de haberse encontrado con un obstáculo fuera de lo normal y haber tomado una decisión muy importante.\nPara responder a Ninguang, Yelan tensó su arco y apuntó hacia la cima de una lejana montaña.\nRauda como un rayo, una flecha voló hacia el firmamento, dibujando un arcoíris con su trayectoria y atravesando las nubes con una fuerza capaz de partir el cielo en dos. Como si estuviera respondiendo a la llamada de una fuerza invisible, en un instante, el agua de los manantiales de la montaña comenzó a agitarse y formó una espiral de incontables flechas de agua que comenzaron a ascender.\nLas flechas se entrecruzaron, convergieron en el aire y estallaron para formar una cortina de agua semejante a un chaparrón de una noche de verano.\nTras la lluvia, no salieron mariposas ni se formó ningún arcoíris. Solo se vislumbró un tenue rayo de luz que se posó suavemente sobre la mano de Yelan.\nSegún las palabras de Ninguang, esa Visión traía un mensaje: “A partir de hoy, confía todos los asuntos a esta chica poco común llamada Yelan”.",
                     "ru": "Е Лань не всегда была сама по себе. Когда-то у неё тоже была команда, на которую можно было положиться. Нашлись те, кто захотел вместе с ней прокладывать путь во тьме. Но в то время Е Лань ещё не понимала, что её хитроумные ловушки, уловки и приманки не могли решить всех проблем. Противники с большим самообладанием не клюнут на приманку, хитрый враг не попадётся на уловку, а сильный вырвется из ловушки. Команда Е Лань дорого поплатилась за это знание. Один за другим все они погибли, пусть и готовились к этой участи... После задания по исследованию Бездны Е Лань осталась совсем одна. Впервые в своей жизни она надолго остановилась, пока однажды её не навестила Нин Гуан лично. \n«Ты уже давно не возвращаешься в Ли Юэ. Должно быть, что-то произошло. Я пойму, если ты захочешь оставить работу, - Нин Гуан стояла за дверью с напряжённым выражением лица, но её голос оставался небрежным и расслабленным. - Но всё в порядке. Я работаю с теми, кому доверяю, и доверяю тем, с кем работаю. Я верю, что ты пытаешься найти выход. Для достижения цели все средства хороши - и отступление, и нападение». \nЗа дверью всё ещё стояла гробовая тишина. Ответа не последовало. Прошло много времени, прежде чем Нин Гуан наконец услышала ответ за своей спиной: «Мы обе совершили ошибку. Не стоило вовлекать в это обычных людей». \n«Обычных людей?»\nПока Нин Гуан собиралась с мыслями, к ней метнулась голубая вспышка. Благодаря великолепному контролю лучницы, стрела быстро разбилась на жемчужины воды и блестящие осколки света, прежде чем коснуться земли. Нин Гуан обернулась и увидела приближающуюся Е Лань с луком в руке, с кончиков её пальцев капала кровь. Можно было только представить, через какие изнурительные тренировки проходила Е Лань, упражняясь в стрельбе, что даже пальцы её кровоточили. Нин Гуан, хорошо знавшая её, поняла, что она в необычайно тяжёлом положении. Только это могло бы объяснить, почему она решила уйти от всех и посвятить себя изнурительным тренировкам. Словно подтверждая мысли Нин Гуан, Е Лань нацелилась на далёкую гору и выпустила стрелу. Подобно молнии, она взметнулась в небеса, пронзая облака с такой силой, словно могла бы разрушить небосвод. Будто отвечая на зов неведомой силы, родниковая вода в горах забурлила и зарычала, взмывая в небо в виде бесчисленных стрел. Взлетев ввысь, стрелы переплелись и взорвались, обрушившись ливнем, подобным тому, что украшает летние ночи. Но когда небо прояснилось, не было ни радуги, ни бабочек, только луч света падал на ладонь Е Лань. По словам Нин Гуан, этот Глаз Бога и был посланием: «Отныне и впредь предоставь все дела необычной Е Лань»."
                 },

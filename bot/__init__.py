@@ -11,4 +11,4 @@ handlers.setup(dispatcher)
 middlewares.setup(dispatcher, i18n)
 
 __all__ = ['dispatcher', 'i18n']
-__version__ = "1.0-3.1"
+__version__ = "1.0-3.2"

@@ -36,7 +36,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
         types.InlineQueryResultArticle(
             id=f"{character.identifier}:stats",
@@ -48,7 +48,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
         types.InlineQueryResultArticle(
             id=f"{character.identifier}:talent",
@@ -60,7 +60,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
         types.InlineQueryResultArticle(
             id=f"{character.identifier}:constellation",
@@ -72,7 +72,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
         types.InlineQueryResultArticle(
             id=f"{character.identifier}:story",
@@ -84,7 +84,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
         types.InlineQueryResultArticle(
             id=f"{character.identifier}:quotes",
@@ -96,7 +96,7 @@ def main(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
     ], ""
 
@@ -115,7 +115,7 @@ def stats(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         ),
     ], ""
 
@@ -134,7 +134,7 @@ def talent(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         )
     ]
 
@@ -151,7 +151,7 @@ def talent(
                         talent=talent
                     )
                 ),
-                reply_markup=keyboards.mention.keyboard()
+                #reply_markup=keyboards.mention.keyboard()
             )
         )
 
@@ -171,7 +171,7 @@ def constellation(
                     character=character
                 )
             ),
-            reply_markup=keyboards.mention.keyboard()
+            #reply_markup=keyboards.mention.keyboard()
         )
     ]
 
@@ -188,7 +188,7 @@ def constellation(
                         constellation=constellation
                     )
                 ),
-                reply_markup=keyboards.mention.keyboard()
+                #reply_markup=keyboards.mention.keyboard()
             )
         )
 
@@ -227,7 +227,7 @@ def story(
                         story=story
                     )
                 ),
-                reply_markup=keyboards.mention.keyboard()
+                #reply_markup=keyboards.mention.keyboard()
             )
         )
     
@@ -266,7 +266,7 @@ def quotes(
                         quote=quote
                     )
                 ),
-                reply_markup=keyboards.mention.keyboard()
+                #reply_markup=keyboards.mention.keyboard()
             )
         )
     

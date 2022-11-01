@@ -98,7 +98,7 @@
     },
     "stats": {
         "base": {
-            "hp": 911.791,
+            "hp": 911.79102,
             "attack": 17.808,
             "defense": 57.225
         },
@@ -126,7 +126,7 @@
                 "required_adventure_rank": 25,
                 "unlock_max_level": 50,
                 "add_props": {
-                    "base_hp": 1165.1328,
+                    "base_hp": 1165.13281,
                     "base_defense": 73.125,
                     "base_attack": 22.7565,
                     "attack_percent": 0.06
@@ -139,7 +139,7 @@
                 "required_adventure_rank": 30,
                 "unlock_max_level": 60,
                 "add_props": {
-                    "base_hp": 1810.4371,
+                    "base_hp": 1810.43713,
                     "base_defense": 113.625,
                     "base_attack": 35.3601,
                     "attack_percent": 0.12
@@ -152,7 +152,7 @@
                 "required_adventure_rank": 35,
                 "unlock_max_level": 70,
                 "add_props": {
-                    "base_hp": 2294.4153,
+                    "base_hp": 2294.41528,
                     "base_defense": 144,
                     "base_attack": 44.8128,
                     "attack_percent": 0.12
@@ -165,7 +165,7 @@
                 "required_adventure_rank": 40,
                 "unlock_max_level": 80,
                 "add_props": {
-                    "base_hp": 2778.3936,
+                    "base_hp": 2778.39355,
                     "base_defense": 174.375,
                     "base_attack": 54.2655,
                     "attack_percent": 0.18
@@ -178,7 +178,7 @@
                 "required_adventure_rank": 50,
                 "unlock_max_level": 90,
                 "add_props": {
-                    "base_hp": 3262.3718,
+                    "base_hp": 3262.37183,
                     "base_defense": 204.75,
                     "base_attack": 63.7182,
                     "attack_percent": 0.24
@@ -212,7 +212,7 @@
                 "zh_Hant": "<b>普通攻擊</b>\n進行至多五段的連續劍擊。\n\n<b>重擊</b>\n消耗一定體力，瞬間向前方揮出兩劍。\n\n<b>下落攻擊</b>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
                 "ja": "<b>通常攻撃</b>\n剣による最大5段の連続攻撃を行う。\n\n<b>重撃</b>\n一定のスタミナを消費し、前方に斬撃を2回放つ。\n\n<b>落下攻撃</b>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
                 "ko": "<b>일반 공격</b>\n검으로 최대 5번 공격한다.\n\n<b>강공격</b>\n일정 스태미나를 소모해 순간적으로 전방을 향해 검을 2번 휘두른다.\n\n<b>낙하 공격</b>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 범위 피해를 준다",
-                "id": "<b>Normal Attack</b>\nMelancarkan hingga 5 serangan pedang berturut-turut.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<b>Plunging Attack</b>\nMenerjang dari udara untuk menghantam tanah di bawahnya, mengakibatkan DMG pada musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
+                "id": "<b>Normal Attack</b>\nMelancarkan hingga 5 serangan pedang berturut-turut.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina untuk melancarkan dua tebasan pedang.\n\n<b>Plunging Attack</b>\nMenerjang dari udara untuk menghantam tanah di bawahnya, menyerang musuh di jalurnya dan mengakibatkan DMG area saat mendarat.",
                 "th": "<b>โจมตีปกติ</b>\nโจมตีด้วยดาบต่อเนื่องมากสุด 5 ครั้ง\n\n<b>ชาร์จโจมตี</b>\nใช้พลังกายส่วนหนึ่ง เพื่อปลดปล่อยดาบออกไปข้างหน้า 2 ครั้ง อย่างรวดเร็ว\n\n<b>โจมตีพุ่งลงจากอากาศ</b>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
                 "vi": "<b>Tấn Công Thường</b>\nThực hiện tối đa 5 lần đánh kiếm liên tiếp.\n\n<b>Trọng Kích</b>\nTiêu hao thể lực nhất định, đánh ra hai kiếm về phía trước trong chớp mắt.\n\n<b>Tấn Công Khi Đáp</b>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
                 "de": "<b>Standardangriff</b>\nFührt bis zu 5 Schwerthiebe hintereinander aus.\n\n<b>Heftiger Schlag</b>\nVerbraucht eine gewisse Menge Ausdauer und schwingt das Schwert zweimal schnell nach vorn.\n\n<b>Angriff aus dem Fall</b>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
@@ -378,9 +378,9 @@
                             0.559,
                             0.60716,
                             20,
-                            0.639324,
-                            1.278377,
-                            1.596762,
+                            0.63932,
+                            1.27838,
+                            1.59676,
                             0,
                             0,
                             0,
@@ -404,9 +404,9 @@
                             0.6045,
                             0.65658,
                             20,
-                            0.691362,
-                            1.382431,
-                            1.726731,
+                            0.69136,
+                            1.38243,
+                            1.72673,
                             0,
                             0,
                             0,
@@ -431,7 +431,7 @@
                             0.706,
                             20,
                             0.7434,
-                            1.486485,
+                            1.48649,
                             1.8567,
                             0,
                             0,
@@ -457,7 +457,7 @@
                             0.7766,
                             20,
                             0.81774,
-                            1.635134,
+                            1.63513,
                             2.04237,
                             0,
                             0,
@@ -482,9 +482,9 @@
                             0.7605,
                             0.82602,
                             20,
-                            0.869778,
-                            1.739187,
-                            2.172339,
+                            0.86978,
+                            1.73919,
+                            2.17234,
                             0,
                             0,
                             0,
@@ -509,8 +509,8 @@
                             0.8825,
                             20,
                             0.92925,
-                            1.858106,
-                            2.320875,
+                            1.85811,
+                            2.32087,
                             0,
                             0,
                             0,
@@ -534,9 +534,9 @@
                             0.884,
                             0.96016,
                             20,
-                            1.011024,
+                            1.01102,
                             2.02162,
-                            2.525112,
+                            2.52511,
                             0,
                             0,
                             0,
@@ -560,9 +560,9 @@
                             0.9555,
                             1.03782,
                             20,
-                            1.092798,
-                            2.185133,
-                            2.729349,
+                            1.0928,
+                            2.18513,
+                            2.72935,
                             0,
                             0,
                             0,
@@ -586,9 +586,9 @@
                             1.027,
                             1.11548,
                             20,
-                            1.174572,
-                            2.348646,
-                            2.933586,
+                            1.17457,
+                            2.34865,
+                            2.93359,
                             0,
                             0,
                             0,
@@ -613,7 +613,7 @@
                             1.2002,
                             20,
                             1.26378,
-                            2.527025,
+                            2.52702,
                             3.15639,
                             0,
                             0,
@@ -638,9 +638,9 @@
                             1.183,
                             1.28492,
                             20,
-                            1.352988,
-                            2.705403,
-                            3.379194,
+                            1.35299,
+                            2.7054,
+                            3.37919,
                             0,
                             0,
                             0,
@@ -664,9 +664,9 @@
                             1.261,
                             1.36964,
                             20,
-                            1.442196,
-                            2.883781,
-                            3.601998,
+                            1.4422,
+                            2.88378,
+                            3.602,
                             0,
                             0,
                             0,
@@ -690,9 +690,9 @@
                             1.339,
                             1.45436,
                             20,
-                            1.531404,
-                            3.062159,
-                            3.824802,
+                            1.5314,
+                            3.06216,
+                            3.8248,
                             0,
                             0,
                             0,
@@ -716,9 +716,9 @@
                             1.417,
                             1.53908,
                             20,
-                            1.620612,
-                            3.240537,
-                            4.047606,
+                            1.62061,
+                            3.24054,
+                            4.04761,
                             0,
                             0,
                             0,
@@ -743,7 +743,7 @@
                             1.6238,
                             20,
                             1.70982,
-                            3.418915,
+                            3.41892,
                             4.27041,
                             0,
                             0,
@@ -929,7 +929,7 @@
                     },
                     {
                         "parameters": [
-                            0.845638,
+                            0.84564,
                             3,
                             15,
                             0.2,
@@ -955,7 +955,7 @@
                     },
                     {
                         "parameters": [
-                            0.904636,
+                            0.90464,
                             3,
                             15,
                             0.2,
@@ -1007,7 +1007,7 @@
                     },
                     {
                         "parameters": [
-                            1.042298,
+                            1.0423,
                             3.5,
                             15,
                             0.2,
@@ -1033,7 +1033,7 @@
                     },
                     {
                         "parameters": [
-                            1.101296,
+                            1.1013,
                             3.5,
                             15,
                             0.2,
@@ -1085,7 +1085,7 @@
                     },
                     {
                         "parameters": [
-                            1.258624,
+                            1.25862,
                             4,
                             15,
                             0.2,
@@ -1111,7 +1111,7 @@
                     },
                     {
                         "parameters": [
-                            1.337288,
+                            1.33729,
                             4,
                             15,
                             0.2,
@@ -1137,7 +1137,7 @@
                     },
                     {
                         "parameters": [
-                            1.415952,
+                            1.41595,
                             4,
                             15,
                             0.2,
@@ -1163,7 +1163,7 @@
                     },
                     {
                         "parameters": [
-                            1.494616,
+                            1.49462,
                             4,
                             15,
                             0.2,
@@ -2735,7 +2735,7 @@
                     "de": "#<b>Paimon:</b> Sieben Runden im Uhrzeigersinn und sieben Runden gegen den Uhrzeigersinn ... dann die Augen öffnen ...\n<b>{nickname}:</b> Schlafwandelst du?\n<b>Paimon:</b> Quatsch! Paimon will nur wissen, ob das Antiquariat aus „Zerstörte Träume“ wirklich existiert!\n<b>{nickname}:</b> Was hättest du denn gern für Schätze aus diesem Antiquariat, wenn es denn wirklich existieren sollte?\n<b>Paimon: </b>Einen Schleimfabrikator!\n<b>{nickname}:</b> Meinst du, sowas gibt’s?",
                     "fr": "#<b>Paimon : </b> Sept tours dans le sens des aiguilles d'une montre, sept tours dans le sens contraire et on ouvre les yeux...\n<b>{nickname} : </b>Tu fais la somnambule ?\n<b>Paimon : </b>Non ! J'essaie simplement de voir si la boutique d'antiquités des « Rêves brisés » existe réellement !\n<b>{nickname} : </b>Et en supposant que la boutique d'une histoire existe vraiment... Qu'est-ce que tu voudrais y acheter, Paimon ?\n<b>Paimon : </b>Une machine à Blob !\n<b>{nickname} : </b> Ça existe vraiment ce genre de truc ?",
                     "pt": "#<b>Paimon:</b> Ande em sete círculos no sentido horário, depois ande em sete círculos no sentido anti-horário e abra os seus olhos...\n<b>{nickname}:</b> Você está sonambulando?\n<b>Paimon:</b> Não! A Paimon apenas quis ver se a antiguidade de \"Sonhos Despedaçados\" realmente existe!\n<b>{nickname}:</b> Bom. Se existisse, o que a Paimon ia comprar?\n<b>Paimon:</b> Um criador de Slimes!\n<b>{nickname}:</b> Será que isso realmente existe?",
-                    "es": "#<b>Paimon:</b> Da siete vueltas en el sentido de las agujas del reloj, luego da otras siete en el sentido contrario y, finalmente, abre los ojos...\n<b>{nickname}:</b> No sabía que eras sonámbula, Paimon.\n<b>Paimon:</b> ¡Claro que no lo soy! Paimon está averiguando si la tienda de antigüedades del libro «Sueños rotos» realmente existe.\n<b>{nickname}:</b> Si existiera la tienda de ese libro, ¿qué te gustaría comprar?\n<b>Paimon:</b> ¡Una máquina de hacer Slimes!\n<b>{nickname}:</b> No sé si existirá algo así...",
+                    "es": "#<b>Paimon:</b> Da siete vueltas en el sentido de las agujas del reloj, luego da otras siete en el sentido contrario y, finalmente, abre los ojos...\n<b>{nickname}:</b> No sabía que eras sonámbula, Paimon.\n<b>Paimon:</b> ¡Claro que no! Paimon está averiguando si la tienda de antigüedades del libro «Sueños rotos» realmente existe.\n<b>{nickname}:</b> Si existiera la tienda de ese libro, ¿qué te gustaría comprar?\n<b>Paimon:</b> ¡Una máquina de hacer Slimes!\n<b>{nickname}:</b> No sé si existirá algo así...",
                     "ru": "#<b>Паймон:</b> Пройти семь кругов по часовой стрелке и семь кругов против часовой, и тогда, снова открыв глаза...\n<b>{nickname}:</b> Опять ходишь во сне?\n<b>Паймон:</b> Нет же! Паймон пытается выяснить, существует ли на самом деле тот антикварный магазин из «Разбитой мечты»!\n<b>{nickname}:</b> Хм, и что бы ты купила в нём, если бы он существовал на самом деле?\n<b>Паймон:</b> Генератор слаймов!\n<b>{nickname}:</b> Ты правда веришь, что он существует?"
                 },
                 "condition": {
@@ -3534,7 +3534,7 @@
                     "de": "#<b>Paimon:</b> Fischl ist schon etwas außergewöhnlich.\n<b>{nickname}:</b> Findest du?\n<b>Paimon:</b> Na ja, sie hat doch einen sprechenden Raben bei sich.\n<b>{nickname}:</b> Dafür hab ich dich. Ist das nicht ähnlich?\n<b>{nickname}:</b> Oz kann auch noch übersetzen, was Fischl sagt, während Paimon ...\n<b>Paimon:</b> Paimon ist doch viel besser als so ein oller Rabe!\n<b>{nickname}:</b> In welcher Hinsicht?\n<b>Paimon:</b> Paimon ... kann, äh ... fliegen! Und das ohne Flügel!",
                     "fr": "#<b>Paimon : </b>Fischl n'a pas vraiment l'air humaine, tu ne trouves pas ?\n<b>{nickname} : </b>Comment ça ?\n<b>Paimon : </b>Déjà, elle se balade avec un corbeau qui parle.\n<b>{nickname} : </b>Je voyage bien avec toi. C'est à peu près la même chose, non ?\n<b>{nickname} : </b>Mais Oz lui sert de traducteur, alors que toi...\n<b>Paimon :</b> Je suis mieux que cet oiseau de malheur !\n<b>{nickname} : </b>En quoi ?\n<b>Paimon : </b>Euh... Bah moi, je n'ai pas besoin d'ailes pour voler !",
                     "pt": "#<b>Paimon:</b> A Fischl dá uma impressão muito diferente, não é?\n<b>{nickname}:</b> Como assim?\n<b>Paimon:</b> Bem, ela viaja junto com um corvo falante.\n<b>{nickname}:</b> Bem, estou viajando com você. Não é tão diferente.\n<b>{nickname}:</b> Ainda assim, o Oz também pode traduzir para a Fischl. Por sua vez, você...\n<b>Paimon:</b> O quê? Paimon é muito melhor do que algum pássaro!\n<b>{nickname}:</b> Haha, de que forma?\n<b>Paimon:</b> Bom, um... Uh... Pelo menos Paimon não precisa de asas para voar!",
-                    "es": "#<b>Paimon:</b> Fischl causa una misma impresión única en su tipo.\n<b>{nickname}:</b> ¿Por qué lo dices?\n<b>Paimon:</b> ¿Tú qué crees? Siempre viaja con un cuervo que habla...\n<b>{nickname}:</b> Ah, entonces, como tú y yo, ¿no? Es casi lo mismo.\n<b>{nickname}:</b> Bueno, en realidad, Oz también es el traductor de Fischl, no como Paimon...\n<b>Paimon:</b> ¿Qué dices? ¡Yo soy mucho mejor que un pajarraco!\n<b>{nickname}:</b> ¿Y eso cómo?\n<b>Paimon:</b> Hummm... Pues... Paimon... ¡no necesita alas para volar!",
+                    "es": "#<b>Paimon:</b> Fischl causa una misma impresión única en su tipo.\n<b>{nickname}:</b> ¿Por qué lo dices?\n<b>Paimon:</b> ¿Tú qué crees? Siempre viaja con un cuervo que habla...\n<b>{nickname}:</b> Ah, entonces, como tú y yo, ¿no? Es casi lo mismo.\n<b>{nickname}:</b> Bueno, en realidad, Oz también es el traductor de Fischl, no como Paimon...\n<b>Paimon:</b> ¿Qué dices? ¡Paimon es mucho mejor que un pajarraco!\n<b>{nickname}:</b> ¿Y eso cómo?\n<b>Paimon:</b> Hummm... Pues... Paimon... ¡no necesita alas para volar!",
                     "ru": "#<b>Паймон:</b> Фишль оставляет очень странное впечатление, правда же?\n<b>{nickname}:</b> В смысле?\n<b>Паймон:</b> Ну, например, она путешествует с говорящим вороном.\n<b>{nickname}:</b> А я путешествую с Паймон, разница не так уж и велика. К тому же Оз может переводить для Фишль, а Паймон может... Хм...\n<b>Паймон:</b> Что? Паймон-то уж точно лучше, чем какая-то там птица!\n<b>{nickname}:</b> Чем же?\n<b>Паймон:</b> Ну... Паймон хотя бы не нужны крылья, чтобы летать!"
                 },
                 "condition": {
@@ -3628,7 +3628,7 @@
                     "de": "#<b>Paimon:</b> Wie schafft man es, so toll und beliebt wie Beidou zu werden?\n<b>{nickname}:</b> Mit genügend Erfahrung ...\n<b>Paimon:</b> An deiner Seite hat Paimon schon viele Abenteuer erlebt!\n<b>{nickname}:</b> Man muss aber auch hin und wieder scheitern, um daraus zu lernen.\n<b>Paimon:</b> Paimon ist das eine Mal doch fast untergegluckert.\n<b>{nickname}:</b> Man muss eine Persönlichkeit haben, die andere anspornt, mehr aus sich zu machen.\n<b>Paimon:</b> Ja! Paimon ist immer für dich da!\n<b>{nickname}：</b> Man muss Probleme mit gewisser Reife angehen.\n<b>Paimon:</b> Willst du etwa sagen, dass Paimon das nicht schafft?",
                     "fr": "#<b>Paimon :</b> Comment devient-on aussi populaire et cool que la capitaine Beidou ?\n<b>{nickname} : </b>Hmm, il faut de l'expérience...\n<b>Paimon : </b>J'ai déjà vu des tonnes de choses au cours de nos aventures !\n<b>{nickname} : </b>Il faut avoir affronté des épreuves et goûté à l'échec...\n<b>Paimon : </b>Je me suis presque noyée la dernière fois, tu te rappelles ?\n<b>{nickname} : </b>Il faut être source d'inspiration pour les autres...\n<b>Paimon : </b>Hmm hmm ! Je t'ai toujours {M#encouragé}{F#encouragée} !\n<b>{nickname} : </b>Il faut être capable de rationaliser les problèmes...\n<b>Paimon : </b>Dis que je ne pourrais jamais y arriver pendant que t'y es !",
                     "pt": "#<b>Paimon:</b> Como eu posso ser uma capitã popular e legal como a Capitã Beidou?\n<b>{nickname}:</b> Tem que ter experiência suficiente...\n<b>Paimon:</b> Paimon já viu muitas coisas na jornada com você!\n<b>{nickname}:</b> Mas ainda precisa experimentar desafios e falhas...\n<b>Paimon:</b> Paimon quase se afogou uma vez...\n<b>{nickname}:</b> ... E sempre ter um bom coração para inspirar outros...\n<b>Paimon:</b>Uhum! Você sempre tem o apoio incondicional da Paimon!\n<b>{nickname}:</b> E também tem que ter... Um pensamento maduro quanto aos problemas...\n<b>Paimon:</b> Ei! Está tentando dizer que Paimon não vai conseguir?",
-                    "es": "#<b>Paimon:</b> ¿Cómo puede uno convertirse en alguien tan genial y tan popular como la capitana Beidou?\n<b>{nickname}:</b> Con mucha experiencia.\n<b>Paimon:</b> ¡Paimon también ha visto muchas cosas y ha vivido muchas aventuras junto a ti!\n<b>{nickname}:</b> También hay que vivir algunos contratiempos y ponerse a prueba a uno mismo...\n<b>Paimon:</b> Paimon casi se ahogó una vez...\n<b>{nickname}:</b> Hay que animar a los demás para conseguir que den lo mejor de sí mismos...\n<b>Paimon:</b>¡Eh! ¡Paimon siempre te ha apoyado!\n<b>{nickname}:</b> ...Y hay que tener cierta madurez para afrontar los problemas...\n<b>Paimon:</b> ¡Oye! ¿Estás diciendo que Paimon no es capaz de hacer frente a sus problemas?",
+                    "es": "#<b>Paimon:</b> ¿Cómo puede uno convertirse en alguien tan genial y tan popular como la capitana Beidou?\n<b>{nickname}:</b> Con mucha experiencia.\n<b>Paimon:</b> ¡Paimon también ha visto muchas cosas y ha vivido muchas aventuras junto a ti!\n<b>{nickname}:</b> También hay que vivir algunos contratiempos y ponerse a prueba a uno mismo...\n<b>Paimon:</b> Paimon casi se ahogó una vez...\n<b>{nickname}:</b> Hay que animar a los demás para conseguir que den lo mejor de sí mismos...\n<b>Paimon:</b> ¡Eh! ¡Paimon siempre te ha apoyado!\n<b>{nickname}:</b> ...Y hay que tener cierta madurez para afrontar los problemas...\n<b>Paimon:</b> ¡Oye! ¿Estás diciendo que Paimon no es capaz de hacer frente a sus problemas?",
                     "ru": "#<b>Паймон:</b> Как стать такой же популярной и уверенной в себе, как капитан Бэй Доу?\n<b>{nickname}:</b> Сперва нужно набраться опыта...\n<b>Паймон:</b> Путешествуя с тобой, Паймон уже научилась множеству вещей!\n<b>{nickname}:</b> Ещё надо набраться печального опыта и провалов...\n<b>Паймон:</b> В тот раз Паймон чуть не утонула...\n<b>{nickname}:</b> Иметь воодушевляющий характер...\n<b>Паймон:</b> Да! Паймон всегда за тебя!\n<b>{nickname}:</b> По-взрослому смотреть на проблемы...\n<b>Паймон:</b> Эй! Ты просто хочешь сказать, что у Паймон не получится!"
                 },
                 "condition": {
@@ -4897,7 +4897,7 @@
                     "de": "#<b>Paimon:</b> *Grrrh*\n<b>{nickname}:</b> Ah? Ist hier ein wildes Tier in der Nähe?\n<b>Paimon:</b> Nein, das war Paimons Magen.\n<b>Paimon:</b> Hmm ... Und nun werden wir {F#eine Reisende}{M#einen Reisenden} auswählen, der Paimon eine Portion Honigmöhren-Fleischpfanne zubereiten darf.\n<b>Paimon:</b> Wer wird wohl {F#die}{M#der} glückliche Reisende sein?",
                     "fr": "#<b>Paimon : </b>*gargouillis* ...\n<b>{nickname} : </b>Hmm ? Il y a des pigeons dans le coin ?\n<b>Paimon : </b>Non, c'est juste que j'ai faim.\n<b>Paimon :</b> Ce dont j'aurais besoin c'est d'{M#un gentil voyageur}{F#une gentille voyageuse} qui me cuisine un délice de viande et carottes au miel.\n<b>Paimon : </b>Alors, qui aura ce privilège ?",
                     "pt": "#<b>Paimon: </b>*Grrr*...\n<b>{nickname}:</b> Hum? Há pombos aqui perto?\n<b>Paimon:</b> Não, não. Foi o barulho do meu estômago, Paimon está com muita fome.\n<b>Paimon: </b> Hum... Agora vou pedir a um viajante para me fazer um prato de Carne Frita com Cenoura e Mel.\n<b>Paimon:</b> Quem vai ser o sortudo?",
-                    "es": "#<b>Paimon:</b> *Grrr*\n<b>{nickname}:</b> ¿Eh? ¿Hay lobos cerca?\n<b>Paimon:</b> No, es que Paimon tiene hambre.\n<b>Paimon:</b> Hummm... A Paimon le encantaría que {F#una}{M#un} viajer{F#a}{M#o} le preparase asado a la miel...\n<b>Paimon:</b> ¿Y bien? ¿Quién será el afortunad{F#a}{M#o} viajer{F#a}{M#o} que lo haga?",
+                    "es": "#<b>Paimon:</b> *Grrr*...\n<b>{nickname}:</b> ¿Eh? ¿Hay lobos cerca?\n<b>Paimon:</b> No, es que Paimon tiene hambre.\n<b>Paimon:</b> Hummm... A Paimon le encantaría que {F#una}{M#un} viajer{F#a}{M#o} le preparase asado a la miel...\n<b>Paimon:</b> ¿Y bien? ¿Quién será el afortunad{F#a}{M#o} viajer{F#a}{M#o} que lo haga?",
                     "ru": "#<b>Паймон:</b> Ур-ур-ур...\n<b>{nickname}:</b> А? Голуби прилетели?\n<b>Паймон:</b> Нет, это Паймон проголодалась. Ох... Паймон {F#нужна путешественница}{M#нужен путешественник}, {F#которая}{M#который} приготовит ей вкуснейшее медовое мясо с морковкой. Интересно, какому же путешественнику так повезёт?"
                 },
                 "condition": {
@@ -6159,7 +6159,7 @@
                     "vi": "#<b>Paimon: </b>Pháo Kamuijamo, Pháo Kamuijama, Pháo Kamuijima, Pháo Kamumama...Éc, tên khó đọc ghê.\n<b>{nickname}: </b>Paimon đang đọc gì vậy??\n<b>Paimon: </b>Cái này nè. Quân Shogunate xây dựng vũ khí cực lợi hại để bảo vệ Tatarasuna.\n<b>Paimon: </b>Pháo Kamuijima!\n<b>{nickname}: </b>Xem ra rất mạnh... nhưng lần trước khi chúng ta đến Tatarasuna hình như không thấy nó hoạt động.\n<b>Paimon: </b>Nghe nói là do quân kháng chiến cũng biết là rất mạnh nên trước khi khai chiến đã đột kích nơi đây rồi.\n<b>Paimon: </b>Nhưng mà đại bác... này cần đạn pháo đặc biệt hoặc là nguyên tố Lôi để khởi động, phía quân kháng chiến cũng không thể dùng được.\n<b>Paimon: </b>Tốn công sức lớn như vậy để xây binh khí, không biết lợi hại cỡ nào nhỉ? Thật tò mò quá đi...\n<b>{nickname}: </b>Tôi cũng biết một chút về Nguyên tố Lôi.\n<b>Paimon: </b>Đúng nhỉ! Nhưng mà gần đây dường như không có đạn pháo thích hợp...\n<b>Paimon: </b>Ủa? Nhìn Paimon làm gì? Ê...",
                     "de": "#<b>Paimon: </b>Kamujipa? Kamijura? Kamumumu? Uff ... Was für ein Zungenbrecher.<b>{nickname}: </b>Was liest du da, Paimon?\n<b>Paimon: </b>Sieh mal, das ist die Superwaffe, die das Bakafu in der Nähe gebaut hat, um Tatarasuna zu schützen.\n<b>Paimon: </b> Kamuijima! Kanone!\n<b>{nickname}：</b>Sie sieht wirklich mächtig aus ... Und trotzdem haben wir nicht gesehen, dass sie etwas bewirkt, als wir in Tatarasuna waren.\n<b>Paimon: </b>Bevor sie offiziell Krieg geführt haben, haben sie diesen Ort heimlich besetzt.\n<b>Paimon: </b>Aber diese Kami... Kamui-Kanone braucht entweder Spezialmunition oder Elektro-Kraft, um zu funktionieren, also ist sie für den Widerstand nutzlos.\n<b>Paimon: </b>Die Armee hat so viel Zeit und Mühe in die Entwicklung dieser Waffe gesteckt ... Paimon möchte wirklich das Ausmaß ihrer Macht sehen.\n<b>{nickname}: </b>Wenn sie nur einen brauchen, der über Elektro-Kraft verfügt, kann ich vielleicht helfen.\n<b>Paimon: </b>Das ist richtig! Jetzt brauchen wir nur noch etwas, das uns als Kanonenkugel dienen kann ...\n<b>Paimon: </b>Hm? Warum schaust du mich so an? He ...",
                     "fr": "#<b>Paimon :</b> Canon de Kanuijima ? Canon de Kamujima ? Canon de Kamojima ? ... Pas facile comme nom.\n<b>{nickname} :</b> Qu'est-ce que tu lis, Paimon ?\n<b>Paimon :</b> Regarde, c'est l'arme super géniale que l'armée du Shogunat a construite à proximité pour protéger Tatarasuna.\n<b>Paimon :</b> Le canon de Kamuijima !\n<b>{nickname} :</b> Il a l'air puissant... mais je ne pense pas que nous l'ayons vu en action quand nous étions à Tatarasuna.\n<b>Paimon :</b> La Résistance avait l'air de savoir à quel point cette arme était forte, alors ont occupé la zone où elle est située avant de déclarer la guerre au Shogunat.\n<b>Paimon :</b> Mais ce canon de Kumajima... De Kamiujima doit être chargé avec des munitions spéciales ou de l'élément Électro, alors la Résistance ne peut pas l'utiliser.\n<b>Paimon :</b> Une arme dont la construction a demandé tant d'efforts doit être redoutable ! J'adorerais voir ça...\n<b>{nickname} :</b> Je sais un peu manipuler l'élément Électro.\n<b>Paimon :</b> Bonne idée ! Maintenant il faut trouver quelque chose qui pourrait nous servir de boulet...\n<b>Paimon :</b> Qu'est-ce qu'il y a ? Pourquoi tu me regardes comme ça ?",
-                    "pt": "#<b>Paimon: </b>Carvão Kamuijima? Cartão Kamuijima? Caldeirão Kamuijima? Ugh... Que letras miúdas.\n<b>{nickname}: </b>O que você está lendo, Paimon?\n<b>Paimon: </b>Veja, é a super arma que o exército do Shogunato construiu aqui perto para proteger Tatarasuna.\n<b>Paimon: </b> Canhão! Kamuijima!\n<b>{nickname}: </b>Ele parece mesmo poderoso... E ainda assim, não vimos ele fazer nada enquanto estávamos em Tatarasuna.\n<b>Paimon: </b>Parece que a Resistência sabia o quanto ele é poderoso, então antes de declarar guerra formalmente contra o Shogunato, eles atacaram sorrateiramente esse lugar e o destruíram.\n<b>Paimon: </b>Mas este Canhão... Canhão Kamuijima precisa de munição especial ou Electro para funcionar, então não serve para a Resistência.\n<b>Paimon: </b>O exército do Shogunato gastou muito tempo e esforços para criar esta arma... Paimon quer mesmo ver o poder dela.\n<b>{nickname}: </b>Se tudo que você precisa é um usuário de Electro, talvez eu possa ajudar.\n<b>Paimon: </b>Isso mesmo! Agora, só precisamos de algo para servir como nossa bala de canhão...\n<b>Paimon: </b>O quê?... Por que você está me olhando assim? Sai fora...",
+                    "pt": "#<b>Paimon: </b>Carvão Kamuijima? Cartão Kamuijima? Cadeirão Kamuijima? Ugh... Que letras miúdas.\n<b>{nickname}: </b>O que você está lendo, Paimon?\n<b>Paimon: </b>Veja, é a super arma que o exército do Shogunato construiu aqui perto para proteger Tatarasuna.\n<b>Paimon: </b> Canhão! Kamuijima!\n<b>{nickname}: </b>Ele parece mesmo poderoso... E ainda assim, não vimos ele fazer nada enquanto estávamos em Tatarasuna.\n<b>Paimon: </b>Parece que a Resistência sabia o quanto ele é poderoso, então antes de declarar guerra formalmente contra o Shogunato, eles atacaram sorrateiramente esse lugar e o destruíram.\n<b>Paimon: </b>Mas este Canhão... Canhão Kamuijima precisa de munição especial ou Electro para funcionar, então não serve para a Resistência.\n<b>Paimon: </b>O exército do Shogunato gastou muito tempo e esforços para criar esta arma... Paimon quer mesmo ver o poder dela.\n<b>{nickname}: </b>Se tudo que você precisa é um usuário de Electro, talvez eu possa ajudar.\n<b>Paimon: </b>Isso mesmo! Agora, só precisamos de algo para servir como nossa bala de canhão...\n<b>Paimon: </b>O quê?... Por que você está me olhando assim? Sai fora...",
                     "es": "#<b>Paimon:</b> ¿Cartón de Kamuijima? ¿Cazón de Kamuijima? ¿Castor de Kamuijima? Ay, vaya nombrecito.\n<b>{nickname}:</b> ¿Qué lees, Paimon?\n<b>Paimon:</b> Mira, es la superarma que el shogunato ha construido cerca de aquí para proteger Tatarasuna.\n<b>Paimon:</b> ¡El Cañón... de Kamuijima!\n<b>{nickname}:</b> Parece muy poderoso... Pero no lo vimos en acción cuando estuvimos en Tatarasuna.\n<b>Paimon:</b> Al parecer, el ejército de resistencia sabía lo poderoso que era, así que, antes de librar una guerra contra el shogunato, ocuparon este lugar en secreto.\n<b>Paimon:</b> Pero, para funcionar, este Cañón de Kamu... de Kamuijima necesita una munición especial o el elemento Electro, así que de nada le sirve al ejército de resistencia.\n<b>Paimon:</b> El ejército del shogunato invirtió mucho tiempo y esfuerzo para crear esta arma... Paimon quiere ver qué tan poderosa es.\n<b>{nickname}:</b> Si lo único que necesitas es a alguien que use Electro, tal vez yo te podría ayudar.\n<b>Paimon:</b> ¡Claro! Ahora solo necesitamos algo que sirva como la bola del cañón...\n<b>Paimon:</b> ¿Eh? ¿Por qué miras a Paimon así? ¡Oye!",
                     "ru": "#<b>Паймон: </b>Пушка Каймуй...? Пушка Камуйдз...? Пушка Камузд...? Фух... Язык сломаешь.\n<b>{nickname}: </b>Паймон, что это ты читаешь?\n<b>Паймон: </b>Вот, это супер оружие, которое армия сёгуната установила здесь неподалёку, чтобы защитить Татарасуну.\n<b>Паймон: </b> Пушка! Камуйдзима!\n<b>{nickname}:</b> На вид грозная... Но когда мы были в Татарасуне, то ничего такого там не видели.\n<b>Паймон: </b>Похоже, в Сопротивлении прознали, насколько мощна эта пушка, и прежде чем официально объявить войну сёгунату, тайно заняли эту местность.\n<b>Паймон: </b>Но чтобы эта пушка Камуй... Камуйдзима заработала, нужны либо особые боеприпасы, либо Электро. Так что для Сопротивления она бесполезна.\n<b>Паймон: </b>Армия сёгуната потратила на создание этого оружия столько времени и сил... Паймон очень хочет посмотреть, правда ли оно такое разрушительное.\n<b>{nickname}: </b>Если тебе нужен кто-то, владеющий стихией Электро, думаю, я смогу помочь.\n<b>Паймон:</b> Здорово! Осталось найти что-то, что сойдёт за пушечное ядро...\n<b>Паймон:</b>А? Чего это ты на меня так смотришь? Эй!"
                 },
@@ -6204,7 +6204,7 @@
                     "id": "#<b>Paimon: </b>Kamu tahu tidak? Waktu kita pertama kali tiba di Komore Teahouse, Paimon benar-benar kira Taroumaru bisa berbicara...\n<b>{nickname}: </b>Kedengarannya kamu sedikit kecewa.\n<b>Paimon: </b>Ya pasti dong! Kalau Taroumaru bisa berbicara, Paimon rasa dia akan mengatakan sesuatu yang hebat!\n<b>{nickname}: </b>Contohnya seperti?\n<b>Paimon: </b>Hmm... \"Thoma, jangan bersembunyi di sekitar sini. Kamu sudah menghalangiku. *guk*\"\n<b>{nickname}: </b>Huh, masuk akal juga.\n<b>Paimon: </b>Atau... \"Kozue, kamu akan terikat denganku sepanjang hidupmu, terkecuali kalau kontrak kita berakhir! *guk, guk*\"\n<b>{nickname}: </b>Kamu percaya perkataan Kozue tentang dia yang sudah tandatangani kontrak misterius yang memaksanya kerja paruh waktu di Teahouse?\n<b>Paimon: </b>Oh! Paimon baru terpikirkan satu contoh lagi! Yang ini lumayan—\n<b>Paimon: </b>\"Lihat tamu yang satu ini! Paimon namanya! Lihat betapa lucu dan pintarnya dia! Hari ini semua pesanan makanan dia digratiskan! *guk*\"\n<b>{nickname}: </b>Taroumaru tidak mungkin akan berkata seperti itu.\n<b>Paimon: </b>Hehehe...",
                     "th": "#<b>Paimon: </b>รู้มั้ย ตอนที่เราไปถึงโรงน้ำชา Komore ครั้งแรก Paimon นึกว่า Taroumaru จะพูดได้ซะอีก\n<b>{nickname}: </b>Paimon ดูผิดหวังนะ\n<b>Paimon: </b>ก็ใช่น่ะสิ ถ้า Taroumaru พูดได้จริง ๆ ล่ะก็ จะต้องพูดเรื่องที่น่าทึ่งออกมาแน่ ๆ!\n<b>{nickname}: </b>เช่นเรื่องอะไร? \n<b>Paimon: </b>อย่างเช่น... \"Thoma เลิกมาซ่อนอยู่ที่นี่ได้แล้ว นายขวางทางฉันอยู่นะ โฮ่ง!\"\n<b>{nickname}: </b>อ่า ฟังดูมีเหตุผล\n<b>Paimon: </b>ยกตัวอย่างอีกอันนะ... \"Kozue สัญญาระหว่างเราจะอยู่ไปชั่วฟ้าดินสลาย อย่าหวังว่าชีวิตนี้จะหนีจากมันได้ โฮ่งโฮ่ง!\"\n<b>{nickname}: </b>เรื่องที่ Kozue บอกว่าเขาถูกสัญญาลึกลับผูกมัดให้ทำงานที่ร้านเนี่ย Paimon คงจะไม่ได้เชื่ออย่างงั้นจริง ๆ ใช่มั้ย...\n<b>Paimon: </b>อ๋อ อ๋อ! ยังมีอีกนะ ฉันนึกออกแล้ว อันนี้ไม่เลวเลย——\n<b>Paimon: </b>\"ดูคุณลูกค้าที่ชื่อ Paimon คนนี้สิ ทั้งเฉลียวฉลาดและน่ารัก สำหรับอาหารวันนี้ให้กินฟรีเลยละกัน โฮ่ง!\"\n<b>{nickname}: </b>พูดเองเออเองทั้งนั้น\n<b>Paimon: </b>ฮี่ฮี่...",
                     "vi": "#<b>Paimon: </b>Tính ra, khi chúng ta vừa đến Phòng Trà Komore vẫn tưởng Taroumaru biết nói chuyện chứ...\n<b>{nickname}: </b>Paimon có vẻ như có chút buồn nhỉ? \n<b>Paimon: </b>Đúng vậy, nếu Taroumaru biết nói thì chắc sẽ nói những chuyện rất hay ho!\n<b>{nickname}:</b> Ví dụ như chuyện gì?\n<b>Paimon: </b>Ví dụ như... \"Thoma, ngươi trốn ở đây che tầm nhìn của ta quá, gâu!\" \n<b>{nickname}: </b>Ừa, hợp lý đấy.\n<b>Paimon: </b>Ví dụ như... \"Kozue, trước khi hợp đồng của chúng ta kết thúc, ngươi sẽ mãi mãi không được giải thoát, gâu gâu!\"\n<b>{nickname}: </b>Paimon thật sự tin vào chuyện Kozue nói mình bị hợp đồng thần bí bắt ép làm việc trong tiệm thật à...\n<b>Paimon: </b>Ý! Còn nữa, nghĩ ra rồi. Cái này được nè...\n<b>Paimon: </b>\"Vị khách tên Paimon này thật dễ thương, lanh lợi, nên miễn tiền ăn mỗi ngày, gâu gâu!\"\n<b>{nickname}: </b>Đây là lời của Paimon nói thì có.\n<b>Paimon: </b>Hihi...",
-                    "de": "#<b>Paimon: </b>Weiß du was? Als wir das erste Mal in der Teestube Komore ankamen, dachte Paimon wirklich, dass Taroumaru in der Lage wäre zu sprechen ...\n<b>{nickname}: </b>Du klingst ein bisschen enttäuscht.\n<b>Paimon: </b>Natürlich! Wenn Taroumaru sprechen könnte, hätte Paimon das Gefühl, dass er etwas wirklich Interessantes sagen würde!\n<b>{nickname}: </b>Zum Beispiel?\n<b>Paimon: </b>Hmm ... „Thoma, hör auf, dich hier zu verstecken, du bist mir im Weg! *wuff*“\n<b>{nickname}: </b>Oh, das stimmt.\n<b>Paimon: </b>Oder ... „Kozue, du bist für den Rest deines Lebens an mich gebunden, solange unser Vertrag nicht gekündigt wird! *wuff* *wuff*“<b>{nickname}: </b> Du hast Kozue nicht geglaubt, als sie sagte, sie hätte einen geheimen Vertrag unterschrieben, der sie zwingt, Teilzeit in der Teestube zu arbeiten, oder?\n<b>Paimon: </b>Oh! Paimon hat sich gerade einen neuen ausgedacht. Der ist ziemlich gut ...<b>Paimon: </b>„Schau dir diesen Besucher an! Paimon, stimmt’s? Sieh nur, wie niedlich und klug sie ist. Heute gehen alle Mahlzeiten aufs Haus! *wuff*“\n<b>{nickname}: </b>Auf keinen Fall würde Taroumaru so etwas sagen.\n<b>Paimon: </b>Hehehe ...",
+                    "de": "#<b>Paimon: </b>Weiß du was? Als wir das erste Mal in der Teestube Komore ankamen, dachte Paimon wirklich, dass Taroumaru in der Lage wäre zu sprechen ...\n<b>{nickname}: </b>Du klingst ein bisschen enttäuscht.\n<b>Paimon: </b>Natürlich! Wenn Taroumaru sprechen könnte, hätte Paimon das Gefühl, dass er etwas wirklich Interessantes sagen würde!\n<b>{nickname}: </b>Zum Beispiel?\n<b>Paimon: </b>Hmm ... „Thoma, hör auf, dich hier zu verstecken, du bist mir im Weg! *wuff*“\n<b>{nickname}: </b>Oh, das stimmt.\n<b>Paimon: </b>Oder ... „Kozue, du bist für den Rest deines Lebens an mich gebunden, solange unser Vertrag nicht gekündigt wird! *wuff* *wuff*“\n<b>{nickname}: </b> Du hast Kozue nicht geglaubt, als sie sagte, sie hätte einen geheimen Vertrag unterschrieben, der sie zwingt, Teilzeit in der Teestube zu arbeiten, oder?\n<b>Paimon: </b>Oh! Paimon hat sich gerade einen neuen ausgedacht. Der ist ziemlich gut ...\n<b>Paimon: </b>„Schau dir diesen Besucher an! Paimon, stimmt’s? Sieh nur, wie niedlich und klug sie ist. Heute gehen alle Mahlzeiten aufs Haus! *wuff*“\n<b>{nickname}: </b>Auf keinen Fall würde Taroumaru so etwas sagen.\n<b>Paimon: </b>Hehehe ...",
                     "fr": "#<b>Paimon :</b> La première fois qu'on est {M#allés}{F#allées} au Salon de thé Komore, je pensais vraiment que Taroumaru pouvait parler...\n<b>{nickname} :</b> Tu as l'air déçue ?\n<b>Paimon :</b> Si Taroumaru pouvait parler, il dirait des choses incroyables !\n<b>{nickname} :</b> Comme quoi ?\n<b>Paimon :</b> Comme « Thomas, arrête de te cacher ! Tu me gênes, ouaf ! »\n<b>{nickname} :</b> Tu n'as pas tort.\n<b>Paimon :</b> Et puis... « Kozue, tu ne seras jamais libre pour le reste de ta vie, à moins que notre contrat se termine ! »\n<b>{nickname} :</b> Tu n'as pas cru Kozue quand elle a dit avoir signé un contrat secret qui la forçait à travailler pour le salon de thé, hein...\n<b>Paimon :</b> Ohhhhh ! Une autre m'est revenue à l'esprit...\n<b>Paimon :</b> « Vous êtes si mignonne et intelligente, Paimon ! Mangez ce que vous voulez aujourd'hui, c'est offert par la maison ! Ouaf ! »\n<b>{nickname} :</b> Taroumaru ne dirait jamais ça.\n<b>Paimon :</b> Héhé...",
                     "pt": "#<b>Paimon: </b>Sabe de uma coisa? Quando chegamos na Casa de Chá Komore pela primeira vez, Paimon achou realmente que Taroumaru conseguiria falar...\n<b>{nickname}: </b>Você parece um pouco decepcionada.\n<b>Paimon: </b>Claro que estou! Se Taroumaru pudesse falar, Paimon acha que ele diria algo realmente interessante!\n<b>{nickname}: </b>Por exemplo?\n<b>Paimon: </b>Hmm... \"Thoma, pare de se esconder por aqui, você está me atrapalhando! *au*\"\n<b>{nickname}: </b>Huh, faz sentido.\n<b>Paimon: </b>Ou... \"Kozue, você está vinculada a mim para o resto da vida, a menos que nosso contrato seja rescindido! *au* *au*\"\n<b>{nickname}: </b>Você não acreditou realmente em Kozue quando ela disse que tinha assinado um contrato secreto obrigando a trabalhar meio período na Casa de Chá, certo?\n<b>Paimon: </b>Ah! Paimon pensou em outra. Essa é muito boa...\n<b>Paimon: </b>\"Vejam só essa visitante! Seu nome é Paimon, certo? Vejam como ela é bela e inteligente. Hoje, todas as refeições dela serão de graça! *au*\"\n<b>{nickname}: </b>Sem chance que o Taroumaru diria algo assim.\n<b>Paimon: </b>Hee-hee...",
                     "es": "#<b>Paimon:</b> ¿Sabes? La primera vez que estuvimos en la Casa de Té Komore, Paimon pensó que Taroumaru podía hablar...\n<b>{nickname}:</b> Suenas un poco decepcionada.\n<b>Paimon:</b> ¡Por supuesto! Paimon cree que, si Taroumaru hablara, ¡diría cosas superinteresantes!\n<b>{nickname}:</b> ¿Como por ejemplo?\n<b>Paimon:</b> Hummm... “Thoma, deja de esconderte aquí, ¡estás en medio de mi camino! *Guau, guau*”.\n<b>{nickname}:</b> Tiene sentido.\n<b>Paimon:</b> O... “Kozue, estás atada a mí para el resto de tu vida, ¡a menos que nuestro contrato termine!”. *Guau, guau*”.\n<b>{nickname}:</b> No creerías a Kozue cuando dijo que había firmado un contrato secreto que la obligaba a trabajar a tiempo parcial en la casa de té, ¿o sí?\n<b>Paimon:</b> ¡Oh! A Paimon se le ocurrió otro ejemplo. Este es muy bueno.\n<b>Paimon:</b> “¡Miren a esta huésped! Se llama Paimon, ¿cierto? Miren qué adorable e inteligente es. Hoy, ¡la casa invita a todo lo que pida! *Guau*”.\n<b>{nickname}:</b> Taroumaru jamás diría algo así.\n<b>Paimon:</b> Jeje...",
@@ -6486,7 +6486,7 @@
                     "id": "#<b>Paimon: </b>Sudah jadi tradisi kalau orang-orang akan memakai topeng di perayaan-perayaan Inazuma.\n<b>Paimon: </b>Paimon sudah nyoba nyari topeng di berbagai kedai, tapi enggak ada yang ukurannya pas buat Paimon...\n<b>{nickname}: </b>Kamu mau punya topeng buat kamu pakai sendiri?\n<b>Paimon: </b>Ya iya dong! Enggak pakai topeng selama festival Inazuma rasanya kayak enggak dapat buket bunga di Festival Windblume...\n<b>{nickname}: </b>Ya sudah akan kubuatkan untukmu.\n<b>Paimon: </b>Waw! {nickname}, kamu memang yang terbaik!\n<b>{nickname}: </b>Hmmm, topeng apa yang cocok untukmu ya? Bagaimana kalau Topeng Slime?\n<b>Paimon: </b>Hore! Slime Paimon!",
                     "th": "#<b>Paimon: </b>จะว่าไปแล้ว ในงานเทศกาลของ Inazuma ทุกคนทำตามธรรมเนียมที่ต้องสวมหน้าการกันหมดเลยเนอะ\n<b>Paimon: </b>แต่ Paimon หาดูตามแผงลอยจนทั่วแล้ว ก็ยังไม่เจอหน้ากากที่ขนาดพอดีกับหน้า Paimon เลย...\n<b>{nickname}: </b>Paimon อยากมีหน้ากากเป็นของตัวเองมากเลยเหรอ?\n<b>Paimon: </b>ก็ใช่น่ะสิ! Paimon รู้สึกว่าถ้าไม่ใส่หน้ากาก ก็จะไม่ได้บรรยากาศของงานเทศกาล เหมือนกับไม่ได้รับช่อดอกไม้ในช่วงเทศกาล Windblume ยังไงล่ะ...\n<b>{nickname}: </b>งั้นฉันทำให้เธอสักอันละกัน\n<b>Paimon: </b>ว้าว! {nickname} เธอเนี่ยเป็นคนดีที่สุดเลย!\n<b>{nickname}: </b>อืม หน้ากากแบบไหนถึงจะเหมาะกับเธอกันนะ... เอารูป Slime ที่ Paimon ชอบที่สุดดีมั้ย?\n<b>Paimon: </b>เย้! Slime Paimon!",
                     "vi": "#<b>Paimon: </b>Xem ra trong tế lễ tại Inazuma, mọi người có truyền thống đeo mặt nạ.\n<b>Paimon: </b>Nhưng tìm khắp các tiệm đều không có cái phù hợp với kích cỡ của Paimon...\n<b>{nickname}: </b>Paimon rất muốn có mặt nạ của mình hả?\n<b>Paimon: </b>Đương nhiên rồi! Trong không khí tế lễ mà không có mặt nạ thì cảm giác giống như trong Lễ Hội Hoa Gió mà không nhận được hoa vậy...\n<b>{nickname}: </b>Vậy để làm một cái cho Paimon.\n<b>Paimon: </b>Woa... {nickname} là người tốt bụng nhất!\n<b>{nickname}: </b>Ừ, hình dáng mặt nạ thì dùng... loại Slime mà Paimon thích nhất đi.\n<b>Paimon: </b>Được đó, Slime Paimon!",
-                    "de": "#<b>Paimon: </b>Es ist eine altbewährte Tradition, dass während der Inazuma-Feierlichkeiten alle festliche Masken tragen.\n<b>Paimon: </b>Paimon hat versucht, sich an den Ständen umzusehen, aber Paimon hat keine passende Maske gefunden ...\n<b>{nickname}: </b>Du willst also wirklich eine eigene Maske?\n<b>Paimon: </b>Natürlich! Bei einem Inazuma-Fest keine Maske zu tragen, ist dasselbe, wie beim Windblumenfest keinen Blumenstrauß zu bekommen ...\n<b>{nickname}: </b>Lass mich eine für dich machen.\n<b>Paimon: </b>Haa! {nickname}, du bist der Beste!\n<b>{nickname}: </b>Hmmm, ich frage mich, welche Art von Maske dir am besten stehen würde? Wie wär’s mit ... einer Schleimmaske?<b>Paimon: </b>Ja, Schleimon!",
+                    "de": "#<b>Paimon: </b>Es ist eine altbewährte Tradition, dass während der Inazuma-Feierlichkeiten alle festliche Masken tragen.\n<b>Paimon: </b>Paimon hat versucht, sich an den Ständen umzusehen, aber Paimon hat keine passende Maske gefunden ...\n<b>{nickname}: </b>Du willst also wirklich eine eigene Maske?\n<b>Paimon: </b>Natürlich! Bei einem Inazuma-Fest keine Maske zu tragen, ist dasselbe, wie beim Windblumenfest keinen Blumenstrauß zu bekommen ...\n<b>{nickname}: </b>Lass mich eine für dich machen.\n<b>Paimon: </b>Haa! {nickname}, du bist der Beste!\n<b>{nickname}: </b>Hmmm, ich frage mich, welche Art von Maske dir am besten stehen würde? Wie wär’s mit ... einer Schleimmaske?\n<b>Paimon: </b>Ja, Schleimon!",
                     "fr": "#<b>Paimon :</b> Tu sais qu'il est de tradition à Inazuma de porter des masques pendant les festivals ?\n<b>Paimon :</b> J'ai essayé de faire le tour de tous les étals, mais je n'ai trouvé aucun masque qui me convienne...\n<b>{nickname} :</b> Tu veux vraiment ton propre masque ?\n<b>Paimon :</b> Bien sûr ! Ne pas porter de masque pendant un festival à Inazuma, c'est comme ne pas recevoir de bouquet pendant la Fête des alizées...\n<b>{nickname} :</b> Je vais t'en faire un, alors.\n<b>Paimon :</b> Waouh ! T'es {M#le meilleur}{F#la meilleure} !\n<b>{nickname} :</b> Hmm, quel genre de masque pourrait t'aller ? Qu'est-ce que tu dis... d'un masque de Blob ?\n<b>Paimon :</b> Ouais, je vais devenir Paimon le Blob !",
                     "pt": "#<b>Paimon: </b>É uma tradição antiga que, durante as comemorações de Inazuma, todos devem usar máscaras festivas.\n<b>Paimon: </b>Paimon tentou procurar nas tendas, mas não encontrou nenhuma máscara que servisse...\n<b>{nickname}: </b>Então, você realmente quer uma máscara mesmo?\n<b>Paimon: </b>Claro! Não usar uma máscara durante o festival de Inazuma é o mesmo que não receber um buquê de flores no Festival da Brisa Florescente...\n<b>{nickname}: </b>Vou fazer uma para você.\n<b>Paimon: </b>Uau! {nickname}, você é demais!\n<b>{nickname}: </b>Humm, que tipo de máscara ficaria bem em você? Que tal... uma máscara de Slime?\n<b>Paimon: </b>Eba, Paimon Slime!",
                     "es": "#<b>Paimon:</b> Durante las celebraciones de Inazuma, es tradición que todo el mundo lleve máscaras festivas.\n<b>Paimon:</b> Paimon ha mirado en los puestos, pero no ha encontrado una máscara de su talla...\n<b>{nickname}:</b> ¿De verdad quieres tener tu propia máscara?\n<b>Paimon:</b> ¡Por supuesto que sí! No llevar máscara en un festival de Inazuma es como no recibir un ramo de flores durante el Festival de las Flores de Viento.\n<b>{nickname}:</b> Entonces, deja que yo te haga una.\n<b>Paimon:</b> ¡Guau! {nickname}, ¡eres {F#la}{M#el} mejor!\n<b>{nickname}:</b> Hummm, me pregunto qué tipo de máscara te quedará mejor. ¿Qué tal... una máscara de Slime?\n<b>Paimon:</b> ¡Bien! ¡Seré una Slaimon!",
@@ -6765,7 +6765,7 @@
                     "zh_Hant": "#<b>派蒙：</b>從神櫻樹上飄下來的緋櫻繡球，真好看呀。\n<b>派蒙：</b>聽說花瓣因為雷元素的力量，可以長時間懸浮在空中。\n<b>{nickname}：</b>派蒙可以飛在空中，也是利用這種原理嗎？\n<b>派蒙：</b>哎…這個…是因為…\n<b>{nickname}：</b>難道派蒙也不知道自己為什麼會飛嗎？\n<b>派蒙：</b>派蒙會飛，當然是…是因為神秘的力量啦！\n<b>{nickname}：</b>明白了，妳什麼都不知道。\n<b>{nickname}：</b>既然如此，應該拿給神奇的阿貝多去研究一下…\n<b>派蒙：</b>不要哇！",
                     "ja": "#<b>パイモン：</b>神櫻の木から舞い落ちる緋櫻毬、きれいだなぁ。\n<b>パイモン：</b>花びらに雷元素が含まれてるから、長いこと空中に浮かんでいることができるらしいぞ。\n<b>{nickname}：</b>パイモンが空を飛べるのも、同じような原理を利用してるから？\n<b>パイモン：</b>えっと…それは…その…\n<b>{nickname}：</b>まさか自分でもなんで飛べるか分からないの？\n<b>パイモン：</b>オイラが飛べるのは、もちろん…不思議な力のおかげだ！\n<b>{nickname}：</b>分かった、何も知らないんだね。\n<b>{nickname}：</b>だったら、同じく不思議なアルベドに研究してもらわないと…\n<b>パイモン：</b>やめてくれー！",
                     "ko": "#<b>페이몬:</b> 신성한 벚나무에서 떨어진 벚꽃 수구가 예쁘네\n<b>페이몬:</b> 꽃잎이 번개 원소의 힘으로 공중에서 장시간 떠 있대\n<b>{nickname}:</b> 페이몬이 공중에 뜨는 것도 같은 원리야?\n<b>페이몬:</b> 어… 그… 이건…\n<b>{nickname}:</b> 페이몬도 왜 날 수 있는지 몰라?\n<b>페이몬:</b> 페이몬이 날 수 있는 건 당연히… 신비한 힘 때문이지!\n<b>{nickname}:</b> 알겠다. 넌 아무것도 모르는구나\n<b>{nickname}:</b> 그렇다면 알베도에게 연구를 부탁해야겠어…\n<b>페이몬:</b> 싫어!",
-                    "id": "#<b>Paimon: </b>Bunga-bunga yang jatuh dari Sacred Sakura sangat mempesona!\n<b>Paimon: </b>Paimon dengar kelopak bunganya bisa bertahan lama di udara karena pengaruh kekuatan Electro.\n<b>{nickname}: </b>Jadi Paimon juga menggunakan prinsip ini agar bisa terbang di udara?\n<b>Paimon: </b>Uh... Ah... Itu karena...\n<b>{nickname}: </b>Kamu tahu prinsip yang membuatmu bisa terbang, kan?\n<b>Paimon: </b>Paimon bisa terbang karena... kekuatan misterius, tentu saja!\n<b>{nickname}: </b>Aku mengerti. Sepertinya kamu tidak tahu apa-apa.\n<b>{nickname}: </b>Bagaimana kalau kita biarkan Albedo untuk menelitinya? Dia sangat ahli dalam meneliti misteri seperti itu...\n<b>Paimon: </b>Jangan, tolong!!",
+                    "id": "#<b>Paimon: </b>Bunga-bunga yang jatuh dari Sacred Sakura sangat memesona!\n<b>Paimon: </b>Paimon dengar kelopak bunganya bisa bertahan lama di udara karena pengaruh kekuatan Electro.\n<b>{nickname}: </b>Jadi Paimon juga menggunakan prinsip ini agar bisa terbang di udara?\n<b>Paimon: </b>Uh... Ah... Itu karena...\n<b>{nickname}: </b>Kamu tahu prinsip yang membuatmu bisa terbang, kan?\n<b>Paimon: </b>Paimon bisa terbang karena... kekuatan misterius, tentu saja!\n<b>{nickname}: </b>Aku mengerti. Sepertinya kamu tidak tahu apa-apa.\n<b>{nickname}: </b>Bagaimana kalau kita biarkan Albedo untuk menelitinya? Dia sangat ahli dalam meneliti misteri seperti itu...\n<b>Paimon: </b>Jangan, tolong!!",
                     "th": "#<b>Paimon: </b>Sakura Bloom ที่ปลิวลงมาจากต้น Sacred Sakura นี่สวยจังเลยน้าา\n<b>Paimon: </b>ได้ยินมาว่า ที่กลีบดอกไม้พวกนั้นสามารถลอยอยู่ในอากาศได้เป็นเวลานาน ก็เพราะพลังงานของธาตุไฟฟ้า\n<b>{nickname}: </b>งั้นที่ Paimon ลอยอยู่ในอากาศได้ ก็เพราะเหตุผลนี้น่ะเหรอ?\n<b>Paimon: </b>อ่า...นั่นก็...เพราะว่า...\n<b>{nickname}: </b>หรือ Paimon ก็ไม่รู้ว่าทำไมตัวเองถึงบินได้?\n<b>Paimon: </b>ที่ Paimon บินได้ ก็เป็นเพราะ...พลังงานที่ลึกลับยังไงล่ะ!\n<b>{nickname}: </b>เข้าใจแล้ว เธอไม่รู้อะไรเลยสินะ\n<b>{nickname}: </b>ในเมื่อเป็นอย่างงี้ เราไปให้ Albedo ช่วยค้นคว้าให้ก็แล้วกัน...\n<b>Paimon: </b>อย่าเชียวนะ!",
                     "vi": "#<b>Paimon: </b>Tú Cầu Anh Đào rơi xuống từ cây Anh Đào Thần thật đẹp.\n<b>Paimon: </b>Nghe nói cánh hoa có thể lơ lửng trên không trong thời gian dài nhờ sức mạnh của nguyên tố Lôi.\n<b>{nickname}:</b> Paimon có thể bay trên không cũng là do nguyên lý này sao?\n<b>Paimon: </b>Hả... cái này... là do...\n<b>{nickname}: </b>Chẳng lẽ Paimon cũng không biết tại sao bản thân biết bay sao?\n<b>Paimon: </b>Paimon biết bay, đương nhiên là... là do sức mạnh thần bí rồi!\n<b>{nickname}:</b>Hiểu rồi, Paimon không biết gì cả.\n<b>{nickname}:</b> Nếu như vậy thì phải đưa Paimon cho Albedo nghiên cứu mới được...\n<b>Paimon: </b>Đừng mà!",
                     "de": "#<b>Paimon: </b>Die Blüten, die von der heiligen Sakura herabschweben, sind umwerfend!\n<b>Paimon: </b>Paimon hat gehört, dass diese Blütenblätter so lange in der Luft bleiben können, weil sie so viel Elektro-Energie haben.\n<b>{nickname}: </b>Ist es das gleiche Prinzip, das hinter deinen Schwebefähigkeiten steckt?\n<b>Paimon: </b>Oh ... Ah ... Das liegt daran, dass ...\n<b>{nickname}: </b>Du weißt doch, was dir das Fliegen ermöglicht, oder, Paimon?\n<b>Paimon: </b>Paimon kann aufgrund von ... mysteriösen Kräften fliegen, ganz offensichtlich!\n<b>{nickname}: </b>Verstanden. Scheint so, als hättest du keine Ahnung.\n<b>{nickname}: </b>Wie wäre es, wenn wir Albedo ein paar Nachforschungen anstellen ließen? Er ist gut darin, solche Geheimnisse zu knacken ...\n<b>Paimon: </b>Bitte nicht!",
@@ -7334,7 +7334,7 @@
                     "vi": "#<b>Paimon:</b> \"Lưỡi Đao Vô Tưởng\" lợi hại ghê!\n<b>Paimon:</b> Bất kể gặp phải kẻ địch nào, chỉ cần một đao là xong ngay!\n<b>{nickname}:</b> Ừm...nhưng nếu là Childe thì chắc phải đến 3 đao...\n<b>Paimon:</b> Đúng, đúng ha!\n<b>Paimon:</b> Nói chung nếu bạn đã học được thì sau này tôi cũng không cần lo lắng cho bạn nữa rồi!\n<b>{nickname}:</b> Phải đi đâu mới học được nhỉ?\n<b>Paimon:</b> Phải đi đâu mới học được nhỉ?\n<b>{nickname}:</b> Hở?\n<b>Paimon:</b> Đừng nhìn tôi như vậy chứ! Được, được rồi, sau này tôi cũng sẽ chăm sóc bạn nhiều hơn...",
                     "de": "#<b>Paimon:</b> „Musou no Hitotachi“ ist genial!\n<b>Paimon:</b> Egal, welchem Gegner du begegnest, du brauchst nur einen Hieb, richtig?\n<b>{nickname}:</b> Na ja ... aber bei dem „Grafen“ braucht man vielleicht drei Hiebe ...\n<b>Paimon:</b> Ja, ja!\n<b>Paimon:</b> Wie auch immer, wenn du es lernst, muss Paimon sich für den Rest der Reise keine Sorgen mehr um dich machen!\n<b>{nickname}:</b> Wo muss ich also hingehen, um es zu lernen?\n<b>Paimon:</b> Also, wo muss man hingehen, um es zu lernen?\n<b>{nickname}:</b> Hmm?\n<b>Paimon:</b> Sieh mich nicht so an! Ja, Paimon wird sich auch für den Rest der Reise um dich kümmern ...",
                     "fr": "#<b>Paimon : </b>Le Kendo d'insouciance est vraiment trop fort !\n<b>Paimon : </b>Un coup suffit à mettre à terre n'importe quel ennemi !\n<b>{nickname} : </b>Pour Tartaglia, il en faudrait trois...\n<b>Paimon : </b>C'est vrai !\n<b>Paimon : </b> En tout cas, si tu parvenais à maîtriser cette technique, le reste de notre voyage se fera les doigts dans le nez !\n<b>{nickname} : </b>Et comment je peux faire pour l'apprendre ?\n<b>Paimon : </b>Euh, où pourrait-on l'apprendre ?\n<b>{nickname} : </b>Hmm ?\n<b>Paimon : </b>Arrête de me fixer comme ça ! C'est bon, j'ai compris. Je veillerai sur toi pendant nos aventures...",
-                    "pt": "#<b>Paimon:</b> O Musou no Hitotachi é incrível!\n<b>Paimon:</b> Ele pode vencer qualquer inimigo com um único corte!\n<b>{nickname}:</b> Uh, mas para Childe pode ser que precise de três cortes...\n<b>Paimon:</b> S-sim!\n<b>Paimon:</b> De qualquer forma, se você dominasse essa técnica, Paimon não teria que se preocupar com você pelo resto de nossa jornada!\n<b>{nickname}:</b> Então, onde se pode aprender essa técnica?\n<b>Paimon:</b> Pois é, onde se pode aprender essa técnica?\n<b>{nickname}:</b> Hm?\n<b>Paimon:</b> Pare de olhar assim para Paimon! O-Okay, Paimon vai ficar de olho em você durante nossas aventuras...",
+                    "pt": "#<b>Paimon:</b> O Musou no Hitotachi é incrível!\n<b>Paimon:</b> Ele pode vencer qualquer inimigo com um único corte!\n<b>{nickname}:</b> Uh, mas para o Childe pode ser que precise de três cortes...\n<b>Paimon:</b> S-sim!\n<b>Paimon:</b> De qualquer forma, se você dominasse essa técnica, Paimon não teria que se preocupar com você pelo resto de nossa jornada!\n<b>{nickname}:</b> Então, onde se pode aprender essa técnica?\n<b>Paimon:</b> Pois é, onde se pode aprender essa técnica?\n<b>{nickname}:</b> Hm?\n<b>Paimon:</b> Pare de olhar assim para Paimon! O-Okay, Paimon vai ficar de olho em você durante nossas aventuras...",
                     "es": "#<b>Paimon:</b> ¡El Filo del pensamiento vacío es increíble!\n<b>Paimon:</b> ¡Puede derrotar a cualquier enemigo de un solo tajo!\n<b>{nickname}:</b> Para Nobile, tal vez se necesitarían tres tajos.\n<b>Paimon:</b> ¡S-sí!\n<b>Paimon:</b> En cualquier caso, si dominaras esa técnica, ¡Paimon no tendría que preocuparse por ti durante el resto de nuestro viaje!\n<b>{nickname}:</b> ¿Y dónde puedo aprenderla?\n<b>Paimon:</b> Sí... ¿dónde se puede aprender?\n<b>{nickname}:</b> ¿Eh?\n<b>Paimon:</b> ¡Deja de mirar así a Paimon! E-está bien, Paimon estará pendiente de ti durante nuestras aventuras...",
                     "ru": "#<b>Паймон:</b> «Мусо но хитотати» - это так круто!\n<b>Паймон:</b> Кто бы ни был твой враг, достаточно одного удара, чтобы разделаться с ним, верно?\n<b>{nickname}: </b> Ну... с Чайльдом понадобится удара три...\n<b>Паймон:</b> Это да!\n<b>Паймон:</b> Если ты овладеешь этим стилем, Паймон больше никогда не придётся беспокоиться о тебе!\n<b>{nickname}: </b> Где я могу научиться этому?\n<b>Паймон:</b> Где ты можешь этому научиться?\n<b>{nickname}: </b> Хм?\n<b>Паймон:</b> Не смотри на меня так! Хорошо, Паймон присмотрит за тобой в пути..."
                 },
@@ -8272,10 +8272,10 @@
                     "id": "#<b>Paimon:</b> Ada Enam Darshan di Sumeru.\n<b>Paimon:</b> Kayaknya menarik kalau Paimon punya Darshan sendiri juga!\n<b>Paimon:</b> Namanya ... Paimonologi!\n<b>{nickname}:</b> Kebijaksanaan kayak apa yang ada di Paimonologi?\n<b>Paimon:</b> Ummm ... Kebijaksanaan praktis buat kehidupan sehari-hari!\n<b>{nickname}:</b> Jadi pelajar Paimonologi itu mengkhususkan diri dalam seni masak Slime dengan ratusan cara yang berbeda, jangan biarkan satu Mora pun lepas dari genggamannya, kasih julukan yang jelek untuk orang-orang, dan sejenisnya ...?\n<b>Paimon:</b> Wah! Kamu bisa baca pikiran Paimon ya! Dan jangan lupa: \"Cara Menjadi Pemandu Terbaik di Teyvat\"!\n<b>Paimon:</b> Ini ide super bagus! Ayo, kita kirimkan pengajuan Darshan ke Akademiya! Mulai hari ini, {nickname} bakal jadi Grand Sage Paimonologi!\n<b>{nickname}:</b> Tolong, aku mau menolak saja ....",
                     "th": "#<b>Paimon:</b> Sumeru มีหกภาควิชาใหญ่นี่นา\n<b>Paimon:</b> ดูน่าสนุกดีแฮะ Paimon ก็อยากมีภาควิชาเป็นของตัวเองเหมือนกัน!\n<b>Paimon:</b> ได้ล่ะ... ชื่อว่าภาควิชา Paimon ละกัน!\n<b>{nickname}:</b> แล้วภาควิชา Paimon แสดงออกถึงภูมิปัญญาด้านไหนล่ะ?\n<b>Paimon:</b> อืม... ภูมิปัญญาในชีวิตจริงไงล่ะ!\n<b>{nickname}:</b> งั้นวิชาเด่น ๆ ก็จะเป็นร้อยวิธีการกิน Slime, อย่าปล่อยให้ Mora เล็ดลอดจากสายตาคุณ, วิธีตั้งชื่อที่น่าเกลียดให้กับคนอื่น... อะไรแบบนี้ใช่มั้ย?\n<b>Paimon:</b> โห เธอนี่รู้ใจฉันจริง ๆ เลย! งั้นต้องเพิ่ม \"ทำอย่างไรให้กลายเป็นผู้นำทางที่เก่งที่สุดใน Teyvat\" เข้าไปด้วยนะ!\n<b>Paimon:</b> ฉันว่ามันเจ๋งมากเลยอะ เรารีบไปยื่นเรื่องเปิดภาควิชากับทางสถาบันเลยดีกว่า! เดี๋ยวต่อไปฉันจะให้ {nickname} เป็นมหาปราชญ์ของฉัน!\n<b>{nickname}:</b> ฉันขอปฏิเสธได้มั้ย...",
                     "vi": "#<b>Paimon</b>: Sumeru có 6 học phái lớn.\n<b>Paimon</b>: Thật thú vị, Paimon cũng muốn có học phái của riêng mình!\n<b>Paimon</b>: Có rồi... Gọi là Học Phái Paimon nhé!\n<b>{nickname}</b>: Vậy trí tuệ đại diện cho Học Phái Paimon là gì?\n<b>Paimon</b>: Ừm... Là trí tuệ thực tiễn trong đời sống!\n<b>{nickname}</b>: Vậy thì tiêu biểu sẽ là 100 cách ăn Slime, tuyệt đối không để một Mora nào lọt khỏi tầm mắt, cách đặt biệt danh khó nghe... những môn học như thế này sao?\n<b>Paimon</b>: Woa, bạn thật hiểu rõ tôi! Còn có thêm \"Làm thế nào để trở thành người dẫn đường tốt nhất Teyvat\"!\n<b>Paimon</b>: Tôi thấy rất lợi hại đó, chúng ta mau đến Giáo Viện đăng ký học phái nào! Sau này {nickname} sẽ là đại hiền giả của Học Phái Paimon!\n<b>{nickname}</b>: Tôi có thể từ chối không...",
-                    "de": "#<b>Paimon:</b> Sumeru hat also sechs Schulen.\n<b>Paimon:</b> Das ist wirklich spannend! Paimon möchte auch eine eigene Schule haben!\n<b>Paimon:</b> Und wenn es sie gibt ... dann soll sie Paimon-Schule heißen!\n<b>{nickname}:</b> Und für welche Weisheit soll die Paimon-Schule dann stehen?\n<b>Paimon:</b> Äh ... Für die Lebensweisheit!\n<b>{nickname}:</b> Dann sind die besonderen Disziplinen also „Hundert Zubereitungsarten von Schleim“, „Wie man keine Mora übersieht“, „Wie man anderen furchtbar klingende Spitznamen gibt“ ... So etwas in der Art?\n<b>Paimon:</b> He! Du kennst Paimon wirklich gut! Und da kann man noch „Wie man der beste Reiseführer in Teyvat wird“ hinzufügen!\n<b>Paimon:</b> Paimon denkt, das wäre wunderbar! Lass uns direkt zur Akademie gehen und einen Antrag auf Zulassung dieser Schule einreichen! Danach wird {nickname} der große Weise der Paimon-Schule!\n<b>{nickname}:</b> Kann ich auch ablehnen?",
+                    "de": "#<b>Paimon:</b> Sumeru hat also sechs Schulen.\n<b>Paimon:</b> Das ist wirklich spannend! Paimon möchte auch eine eigene Schule haben!\n<b>Paimon:</b> Und wenn es sie gibt ... dann soll sie Paimon-Schule heißen!\n<b>{nickname}:</b> Und für welche Weisheit soll die Paimon-Schule dann stehen?\n<b>Paimon:</b> Äh ... Für die Lebensweisheit!\n<b>{nickname}:</b> Dann sind die besonderen Disziplinen also „Hundert Zubereitungsarten von Schleim“, „Wie man keine Mora übersieht“, „Wie man anderen furchtbar klingende Spitznamen gibt“ ... So etwas in der Art?\n<b>Paimon:</b> He! Du kennst Paimon wirklich gut! Und da kann man noch „Wie man der beste Reiseführer in Teyvat wird“ hinzufügen!\n<b>Paimon:</b> Paimon denkt, das wäre wunderbar! Lass uns direkt zur Akademie gehen und einen Antrag auf Zulassung dieser Schule einreichen! Danach wird {nickname} der Große Weise der Paimon-Schule!\n<b>{nickname}:</b> Kann ich auch ablehnen?",
                     "fr": "#<b>Paimon :</b> Il y a six darshans à Sumeru.\n<b>Paimon :</b> Ce serait cool si je pouvais avoir mon propre darshan, moi aussi !\n<b>Paimon :</b> On l'appellerait... Paimonologie !\n<b>{nickname} :</b> Et quel genre de sagesse représenterait la paimonologie ?\n<b>Paimon :</b> Euh... Une sagesse pratique pour la vie de tous les jours !\n<b>{nickname} :</b> Donc les érudits en paimonologie se spécialiseraient dans l'art de cuisiner les Blobs de mille manières différentes, de ne jamais laisser un seul mora leur échapper, de donner aux gens des surnoms affreux... Ce genre de choses ?\n<b>Paimon :</b> Ouah, tu lis dans mes pensées ! Sans oublier « devenir le meilleur guide de voyage de tout Teyvat » !\n<b>Paimon :</b> C'est une idée géniale ! Allons vite soumettre notre candidature à l'Académie ! À partir d'aujourd'hui, {nickname}, tu es {M#grand}{F#grande} sage en paimonologie !\n<b>{nickname} :</b> Je me permets de refuser...",
                     "pt": "#<b>Paimon:</b> Existem seis Darshans em Sumeru.\n<b>Paimon:</b> Seria legal se Paimon tivesse sua própria Darshan também!\n<b>Paimon:</b> Será chamado de... Paimonlogia!\n<b>{nickname}:</b> E que tipo de conhecimento seria esse?\n<b>Paimon:</b> Uh... Conhecimentos básicos para a vida cotidiana!\n<b>{nickname}:</b> Então, os especialistas em Paimonlogia iriam se especializar na arte de cozinhar slimes em milhares de formas diferentes, nunca deixar nenhuma Mora fugir, dar apelidos feios as pessoas, e por aí vai?\n<b>Paimon:</b> Uau! Você leu a mente da Paimon! Além disso, não esqueça \"Como se Tornar o Melhor Guia de Viagem de Todo Teyvat\"!\n<b>Paimon:</b> Essa é uma ideia fantástica! Vamos lá, vamos enviar nossa aplicação de Darshan para a Academia! De agora em diante, {nickname} será {M#o grande sábio}{F#a grande sábia} da Paimonlogia!\n<b>{nickname}:</b> Eu gostaria de recusar essa honra, por favor...",
-                    "es": "#<b>Paimon: </b>Sumeru tiene Seis Escuelas.\n<b>Paimon: </b>¡Sería genial si Paimon pudiese tener su propia escuela!\n<b>Paimon: </b>Se llamaría... ¡Escuela de Paimonología!\n<b>{nickname}: </b>¿Y qué clase de conocimiento es ese?\n<b>Paimon: </b>Pues... ¡conocimiento sobre la vida diaria!\n<b>{nickname}:</b> Así que los eruditos de la Escuela de Paimonología serían expertos en cocinar Slimes de mil maneras diferentes, recaudar dinero como si no hubiera un mañana, dar apodos horribles a las persona, etc.\n<b>Paimon: </b>¡Guau, tú sí que entiendes bien a Paimon! Pero se te ha olvidado una: ¡Ser la mejor guía de Teyvat!\n<b>Paimon: </b>¡Paimon cree que sería una escuela maravillosa! ¡Vamos a presentar una solicitud a la Academia! Tú podrías ser {F#la Gran Sabia}{M#el Gran Sabio} de la Escuela de Paimonología.\n<b>{nickname}: </b>Sería un honor, pero debo rechazarlo.",
+                    "es": "#<b>Paimon: </b>Sumeru tiene Seis Escuelas.\n<b>Paimon: </b>¡Sería genial si Paimon pudiese tener su propia escuela!\n<b>Paimon: </b>Se llamaría... ¡Escuela de Paimonología!\n<b>{nickname}: </b>¿Y qué clase de conocimiento es ese?\n<b>Paimon: </b>Pues... ¡conocimiento sobre la vida diaria!\n<b>{nickname}:</b> Así que los eruditos de la Escuela de Paimonología serían expertos en cocinar Slimes de mil maneras diferentes, recaudar dinero como si no hubiera un mañana, dar apodos horribles a las personas, etc.\n<b>Paimon: </b>¡Guau, tú sí que entiendes bien a Paimon! Pero se te ha olvidado una: ¡Ser la mejor guía de Teyvat!\n<b>Paimon: </b>¡Paimon cree que sería una escuela maravillosa! ¡Vamos a presentar una solicitud a la Academia! Tú podrías ser {F#la Gran Sabia}{M#el Gran Sabio} de la Escuela de Paimonología.\n<b>{nickname}: </b>Sería un honor, pero debo rechazarlo.",
                     "ru": "#<b>Паймон:</b> В Сумеру шесть даршанов.\n<b>Паймон:</b> Было бы здорово иметь собственный даршан!\n<b>Паймон:</b> Если бы у Паймон был собственный даршан, он бы назывался... Паймонология!\n<b>{nickname}:</b> И что это за знание?\n<b>Паймон:</b> Ну... Знания о повседневной жизни!\n<b>{nickname}:</b> Значит, учёные-паймонологи будут специализироваться на искусстве приготовления слизи сотней различных способов, владеть искусством не выпускать мору из своих рук и давать людям уродливые прозвища?..\n<b>Паймон:</b> Ты прямо читаешь мои мысли! А ещё они научатся быть самыми лучшими гидами по Тейвату!\n<b>Паймон:</b> Это фантастическая идея! Пойдём в Академию, подадим заявку на создание даршана! С этого дня {nickname} будет великим мудрецом даршана Паймонологии!\n<b>{nickname}:</b> А можно отказаться?.."
                 },
                 "condition": {
@@ -8460,7 +8460,7 @@
                     "id": "#<b>Paimon:</b> Khedive dan Anisa terus bahas soal \"Purbiruni\" ini dan \"Pursina\" itu deh ....\n<b>Paimon:</b> Kenapa sih semuanya ada kata \"pur\" di depannya?\n<b>{nickname}:</b> \"Pur\" berarti \"penerus\", juga berarti \"murid\" ... Jadi, dalam hal ini, mereka sedang membicarakan mereka sendiri sebagai penerus dan pelajar Grand Sage pada masa dulu.\n<b>Paimon:</b> Huh, jadi begitu ya artinya ... Dari cara mereka ngomong sih, Paimon yakin banget itu artinya sesuatu yang bikin bangga.\n<b>{nickname}:</b> Eh? Bukannya memang bikin bangga?\n<b>Paimon:</b> Yah, Paimon sih lebih mending dikenal jadi penemu ya dibandingkan punya nama yang \"si ini dan itu adalah ayahku\". Memalukan deh, kamu enggak merasa?\n<b>{nickname}:</b> Ummmm ... Harus diakui, aku belum pernah berpikir kayak begitu sih ....",
                     "th": "#<b>Paimon:</b> อืม... ฉันเคยได้ยิน Khedive กับ Anisa พูดถึง \"Purbiruni\" กับ \"Pursina\" อะไรสักอย่าง...\n<b>Paimon:</b> พวก...Pursi, Pursi อะไรนั่นคืออะไรเหรอ\n<b>{nickname}:</b> \"Pur\" หมายถึง \"ผู้สืบทอด\" และหมายถึง \"ผู้ฝึกหัด\" ได้ด้วย... เพราะงั้นสิ่งนี้จึงหมายถึง พวกเขาทั้งหมดล้วนเป็นศิษย์ของมหาปราชญ์ในอดีต\n<b>Paimon:</b> เป็นแบบนี้เองเหรอ... เห็นพวกเขาลอยหน้าลอยตาไปมา ฉันก็นึกว่าจะเป็นชื่อที่น่าภาคภูมิใจอะไรซะอีก\n<b>{nickname}:</b> เอ๋...?\n<b>Paimon:</b> ยกตัวอย่างเช่น ถ้ามีคนบอกว่าฉันเป็นพ่อหรือแม่ของใครสักคน ฉันจะดีใจมาก! แต่ถ้ามาบอกว่าใครเป็นพ่อหรือแม่ของฉันล่ะก็... จะไม่รู้สึกอึดอัดบ้างรึไง?\n<b>{nickname}:</b> เอ่อ ไม่เคยคิดถึงอะไรแบบนี้มาก่อนเลย...",
                     "vi": "#<b>Paimon</b>: Ừm... Trước đó từng nghe Khedive và Anisa nhắc đến, gì mà \"Purbiruni\", \"Gai Pursina\" gì đó...\n<b>Paimon</b>: Mấy Pur đó là cái gì vậy?\n<b>{nickname}</b>: \"Pur\" có nghĩa là \"hậu duệ\", cũng có nghĩa là \"học sinh\"... Cho nên từ này nói bọn họ là hậu duệ của các đại hiền giả thời xưa.\n<b>Paimon</b>: Thì ra là như vậy à... Nhìn bọn họ khoe khoang đủ kiểu, tôi còn tưởng là xưng hô gì đáng kiêu hãnh lắm chứ.\n<b>{nickname}</b>: Hả…?\n<b>Paimon</b>: Lấy tôi làm ví dụ nè, tôi sẽ rất vui khi nói tôi là ba hoặc mẹ của ai đó! Nhưng còn tùy tiện nhận người khác là ba mẹ của mình... không thấy ngượng sao?\n<b>{nickname}</b>: Hừm... Chưa từng nghĩ đến vấn đề này...",
-                    "de": "#<b>Paimon:</b> Oh ... Paimon hat vorhin gehört, wie Khedive und Anisa etwas von der „Purbiruni“-Schule und der „Pursina“-Schule gesagt haben ...\n<b>Paimon:</b> Was sind diese ... Pur-Dies-, Pur-Das-Dinge?\n<b>{nickname}:</b> „Pur“ bedeutet „Nachkommen“ oder auch „Jünger“ ... Das heißt also, sie sind alle Jünger des großen Weisen aus Urzeiten.\n<b>Paimon:</b> So ist das also ... So wie sie die ganze Zeit davon sprachen, kam es Paimon vor, als wären sie sehr stolz auf diese Titel ...\n<b>{nickname}:</b> Äh ... ?\n<b>Paimon:</b> Paimon wäre zum Beispiel sehr glücklich, wenn jemand sagen würde, Paimon sei ihr Vater oder ihre Mutter! Aber einfach so zu sagen, der eigene Vater oder die eigene Mutter sei diese oder jene fremde Person ... Wäre das nicht peinlich?\n<b>{nickname}:</b> Äh ... Darüber habe ich noch nie nachgedacht ...",
+                    "de": "#<b>Paimon:</b> Oh ... Paimon hat vorhin gehört, wie Khedive und Anisa etwas von der „Purbiruni“-Schule und der „Pursina“-Schule gesagt haben ...\n<b>Paimon:</b> Was sind diese ... Pur-Dies-, Pur-Das-Dinge?\n<b>{nickname}:</b> „Pur“ bedeutet „Nachkommen“ oder auch „Jünger“ ... Das heißt also, sie sind alle Jünger des Großen Weisen aus Urzeiten.\n<b>Paimon:</b> So ist das also ... So wie sie die ganze Zeit davon sprachen, kam es Paimon vor, als wären sie sehr stolz auf diese Titel ...\n<b>{nickname}:</b> Äh ... ?\n<b>Paimon:</b> Paimon wäre zum Beispiel sehr glücklich, wenn jemand sagen würde, Paimon sei ihr Vater oder ihre Mutter! Aber einfach so zu sagen, der eigene Vater oder die eigene Mutter sei diese oder jene fremde Person ... Wäre das nicht peinlich?\n<b>{nickname}:</b> Äh ... Darüber habe ich noch nie nachgedacht ...",
                     "fr": "#<b>Paimon :</b> Khedive et Anisa n'arrêtaient pas de parler de « Purbiruni » par-ci et de « Pursina » par-là...\n<b>Paimon :</b> Pourquoi il y a toujours le mot « pur » au début ?\n<b>{nickname} :</b> Eh bien, « pur » signifie « descendant », et aussi « étudiant »... Donc dans ce cas, ils se considèrent comme les enfants et les élèves des grands sages d'autrefois.\n<b>Paimon :</b> Hein, donc c'est ça que ça veut dire... À la façon dont ils lançaient ces mots, j'étais sûre que ce serait quelque chose dont il fallait être fier.\n<b>{nickname} :</b> Attends... Ce n'est pas le cas ?\n<b>Paimon :</b> Eh bien, pour ma part, je préférerais être connue comme étant la fondatrice de quelque chose plutôt que d'avoir un nom qui me décrit comme étant la fille d'untel. C'est plutôt embarrassant, tu ne trouves pas ?\n<b>{nickname} :</b> Hum... Je dois admettre que je ne l'ai jamais vu sous cet angle...",
                     "pt": "#<b>Paimon:</b> Khedive e Anisa vivem falando sobre \"Purbiruni\" isso e \"Pursina\" aquilo...\n<b>Paimon:</b> Por que todas essas palavras começam com \"pur\"?\n<b>{nickname}:</b> Bem, \"pur\" significa \"descendente\" e também \"estudante\"... Então, nesse  caso, eles estão dizendo que são as crianças e estudantes do antigo grande sábio.\n<b>Paimon:</b> Ooh, então é isso que significa... Pela forma que eles ficavam falando, Paimon tinha certeza de que era algo de se orgulhar.\n<b>{nickname}:</b> Espera aí... Mas, isso não é?\n<b>Paimon:</b> Bem, Paimon por exemplo, gostaria muito mais de ser conhecida como fundadora do que algo que diz basicamente que é \"filha de fulano\". Meio vergonhoso, não acha?\n<b>{nickname}:</b> Hmm... Tenho que admitir, nunca pensei nisso dessa forma...",
                     "es": "#<b>Paimon: </b>Khedive y Anisa no dejaban de mencionar a unos tal Purbiruni y Pursina...\n<b>Paimon: </b>¿Por qué los dos nombres empiezan por “Pur”?\n<b>{nickname}: </b>“Pur” significa descendiente y estudiante... Supongo que se llaman así porque son estudiantes de los grandes sabios de la antigüedad.\n<b>Paimon: </b>Así que es eso... Por la forma en que no dejaban de repetirlo, Paimon pensaba que sería por algo increíble.\n<b>{nickname}: </b>¿No te parece increíble?\n<b>Paimon: </b>Bueno, si fuesen grandes sabios, sí sería motivo de orgullo, pero tener un nombre como “hijo de fulanito” es un poco vergonzoso, ¿no te parece?\n<b>{nickname}: </b>Humm, la verdad es que no me lo había planteado...",
@@ -8745,7 +8745,7 @@
                     "de": "#<b>Paimon:</b> Man sagt, Cyno mag das Kartenspiel „Geniale Beschwörung“, richtig?\n<b>Paimon:</b> Ist es nicht irgendwie komisch, dass der Mahamatra gerne Karten spielt ...\n<b>{nickname}:</b> Hmm ... nachdem ich seine Frisur gesehen hatte, fand ich es überhaupt nicht komisch.\n<b>Paimon:</b> Hä? Was hat seine Frisur damit zu tun?\n<b>{nickname}:</b> Je ausgefallener deine Frisur bei einem Kartenspiel ist, desto leichter lässt sich dein Gegner ablenken.\n<b>{nickname}:</b> „Was ist mit diesem Typen los? Wie hat er es geschafft, seine Haare so hinzubekommen?“\n<b>{nickname}:</b> Wenn der Kopf deines Gegners voll von solchen Gedanken ist, gewinnst du schnell die Oberhand.\n<b>Paimon:</b> Wirklich? Hmm, dann spielen wir lieber nicht mit ihm ...\n<b>{nickname}:</b> Ich glaube, ich könnte ihm gegenüber einen Vorteil haben.\n<b>Paimon:</b> Aber du hast keine ausgefallene Frisur. Und deine Kleidung sieht auch ganz normal aus ...\n<b>{nickname}:</b> Aber ich habe Paimon.\n<b>{nickname}:</b> „Was ist mit diesem Typen los? Was ist denn das fliegende Ding hinter ihm?“\n<b>{nickname}:</b> Solange Paimon neben mir schwebt, wird Cynos Kopf mit solchen Gedanken gefüllt sein.\n<b>{nickname}:</b> Ich hingegen interessiere mich überhaupt nicht für seine Frisur. So kann ich mich konzentrieren und die Oberhand gewinnen.\n<b>Paimon:</b> Hmpf! Wenn du Karten spielen willst, mach dir besser eine besondere Frisur!",
                     "fr": "#<b>Paimon :</b> Au fait, Cyno adore ce jeu qu'on appelle Invocation des Sept, pas vrai ?\n<b>Paimon :</b> Ce n'est pas un peu bizarre que le général mahamatra aime jouer aux cartes...?\n<b>{nickname} :</b> Après avoir vu sa coupe de cheveux, plus rien ne m'étonne.\n<b>Paimon :</b> Euh ? Quel est le rapport entre le fait qu'il joue aux cartes et sa coupe de cheveux ?\n<b>{nickname} :</b> Avoir une coupe extravagante lui permet de distraire ses adversaires lorsqu'il joue aux cartes.\n<b>{nickname} :</b> « Il est vraiment bizarre, ce type. Comment il fait pour se coiffer comme ça ? »\n<b>{nickname} :</b> Quand l'adversaire ne pense plus qu'à ça, il est possible de prendre le dessus.\n<b>Paimon :</b> Ah oui ? Alors il vaut mieux qu'on évite de jouer aux cartes contre Cyno...\n<b>{nickname} :</b> Au contraire, je pense que si on joue contre Cyno, on aura l'avantage.\n<b>Paimon :</b> Mais ta coupe de cheveux est tout à fait ordinaire, et tu ne portes pas de vêtements bizarres non plus...\n<b>{nickname} :</b> Oui, mais moi, j'ai Paimon.\n<b>{nickname} :</b> « {M#Il}{F#Elle} est vraiment bizarre, {M#celui-là}{F#celle-là}. C'est quoi cette petite chose qui vole derrière lui ? »\n<b>{nickname} :</b> Si tu voles à côté de moi, Cyno sera incapable de penser à autre chose.\n<b>{nickname} :</b> Tandis que moi, je ne serai pas {M#stupéfait}{F#stupéfaite} par sa coupe de cheveux. Je pourrai ainsi facilement prendre l'avantage.\n<b>Paimon :</b> Laisse tomber cette idée ! Si tu veux jouer aux cartes, tu ferais mieux de te faire une coupe de cheveux farfelue !",
                     "pt": "#<b>Paimon:</b> Cyno gosta muito daquele jogo de cartas \"Chamado Sagrado dos Sete,\" né?\n<b>Paimon:</b> Não parece meio estranho o General Mahamatra gostar de jogar cartinhas...?\n<b>{nickname}:</b> Bem... não se você considerar o corte de cabelo dele.\n<b>Paimon:</b> Hã? O que o corte de cabelo dele tem a ver com isso?\n<b>{nickname}:</b> Você sabe, quando você está jogando um jogo de cartas, quanto mais chique for seu corte de cabelo, mais você distrai seu oponente.\n<b>{nickname}:</b> \"O que tá acontecendo com esse cara? Como ele conseguiu deixar o cabelo dele assim?\"\n<b>{nickname}:</b> Quando a mente do oponente for consumido por pensamentos assim, você rapidamente vai ganhar a liderança.\n<b>Paimon:</b> Hmm, sério? Então é melhor a gente pensar duas vezes antes de jogar contra ele...\n<b>{nickname}:</b> Eu não sei... Eu acho que talvez eu tenha uma vantagem contra ele.\n<b>Paimon:</b> Mas você não tem um cabelo chique como aquele. E suas roupas parecem bem normais também...\n<b>{nickname}:</b> Mas eu tenho Paimon.\n<b>{nickname}:</b> \"O que há com el{F#a}{M#e}? E o que a companheira voadora irritante está aprontando?\"\n<b>{nickname}:</b> Contanto que Paimon esteja voando ao meu lado, a mente de Cyno será consumida com pensamentos como esses.\n<b>{nickname}:</b> Eu, por outro lado, ficaria completamente inabalad{M#o}{F#a} pelo corte de cabelo. Dessa forma, eu conseguiria focar, e a vitória seria minha.\n<b>Paimon:</b> Pode esquecer! Se quiser jogar cartas, vá arrumar um cabelo engraçado!",
-                    "es": "#<b>Paimon:</b> A Cyno le encanta el juego de cartas de Invocación de los Sabios, ¿eh?\n<b>Paimon:</b> ¿No es un poco extraño que al Gran Juez le guste jugar a las cartas?\n<b>{nickname}:</b> Hummm, no si tienes en cuenta su peinado.\n<b>Paimon:</b> ¿Eh? ¿Qué tiene que ver su peinado con esto?\n<b>{nickname}:</b> Cuando juegas a las cartas, cuanto más estilo tenga tu peinado, más distraerá al rival.\n<b>{nickname}:</b> “¿Qué le pasa a este? ¿Cómo puede tener el pelo así?”\n<b>{nickname}:</b> Cuando el oponente no pueda dejar de pensar en eso, será más fácil llevar la ventaja.\n<b>Paimon:</b> Humm, ¿en serio? Entonces será mejor que nos lo pensemos dos veces antes de jugar contra él.\n<b>{nickname}:</b> No sé... Creo que podría tener ventaja contra él.\n<b>Paimon:</b> Pero tu peinado no es estrafalario, y tu ropa es de lo más común...\n<b>{nickname}:</b> Pero te tengo a ti, Paimon.\n<b>{nickname}:</b> Seguro que dirá: “¿Qué le pasa a est{F#a}{M#e}? ¿Y quién es esa compañera flotante que está con {F#ella}{M#él}?”\n<b>{nickname}:</b> Mientras flotes junto a mí, Cyno no podrá dejar de pensar en eso.\n<b>{nickname}:</b> Yo, en cambio, no me inmutaré ante su peinado, así que podré concentrarme y la victoria será mía.\n<b>Paimon:</b> ¡De eso nada! Si quieres jugar a las cartas, ¡ve a hacerte un peinado peculiar!",
+                    "es": "#<b>Paimon:</b> A Cyno le encanta el juego de cartas de Invocación de los Sabios, ¿eh?\n<b>Paimon:</b> ¿No es un poco extraño que al Gran Juez le guste jugar a las cartas?\n<b>{nickname}:</b> Hummm, no si tienes en cuenta su peinado.\n<b>Paimon:</b> ¿Eh? ¿Qué tiene que ver su peinado con esto?\n<b>{nickname}:</b> Cuando juegas a las cartas, cuanto más estilo tenga tu peinado, más distraerá al rival.\n<b>{nickname}:</b> “¿Qué le pasa a este? ¿Cómo puede tener el pelo así?”.\n<b>{nickname}:</b> Cuando el oponente no pueda dejar de pensar en eso, será más fácil llevar la ventaja.\n<b>Paimon:</b> Humm, ¿en serio? Entonces será mejor que nos lo pensemos dos veces antes de jugar contra él.\n<b>{nickname}:</b> No sé... Creo que podría tener ventaja contra él.\n<b>Paimon:</b> Pero tu peinado no es estrafalario, y tu ropa es de lo más común...\n<b>{nickname}:</b> Pero te tengo a ti, Paimon.\n<b>{nickname}:</b> Seguro que dirá: “¿Qué le pasa a est{F#a}{M#e}? ¿Y quién es esa compañera flotante que está con {F#ella}{M#él}?”.\n<b>{nickname}:</b> Mientras flotes junto a mí, Cyno no podrá dejar de pensar en eso.\n<b>{nickname}:</b> Yo, en cambio, no me inmutaré ante su peinado, así que podré concentrarme y la victoria será mía.\n<b>Paimon:</b> ¡De eso nada! Si quieres jugar a las cartas, ¡ve a hacerte un peinado peculiar!",
                     "ru": "#<b>Паймон:</b> Говорят, Сайно обожает карточную игру под названием «Священный призыв семерых»?\n<b>Паймон:</b> Странно, он ведь «генерал махаматра», а дуется в карты...\n<b>{nickname}:</b> Нет ничего странного, вспомни его причёску.\n<b>Паймон:</b> А? Как причёска связана с картами?\n<b>{nickname}:</b> За игрой в карты странная причёска может отвлекать внимание соперника.\n<b>{nickname}:</b> «Интересно, что задумал этот парень, и как у него получилась такая странная причёска?»\n<b>{nickname}:</b> И пока соперник ломает голову над этими вопросами, Сайно уже его обыгрывает.\n<b>Паймон:</b> Да? Тогда нам лучше не садиться с ним за карточный стол...\n<b>{nickname}:</b> Мне кажется, я его обыграю.\n<b>Паймон:</b> Но у тебя причёска самая обыкновенная, да и костюм тоже...\n<b>{nickname}:</b> Зато у меня есть Паймон.\n<b>{nickname}:</b> «Что происходит! Почему у стола всё время крутится какая-то крылатая мелочь? Чего ей надо?»\n<b>{nickname}:</b> Если Паймон будет летать рядом, Сайно не сможет думать ни о чём другом.\n<b>{nickname}:</b> А его причёска меня уже не удивит, так что я смогу сосредоточиться и спокойно его обыграть.\n<b>Паймон:</b> Может, лучше соорудишь себе причёску поинтересней?"
                 },
                 "condition": {

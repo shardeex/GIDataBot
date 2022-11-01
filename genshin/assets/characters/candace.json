@@ -118,7 +118,7 @@
                 "id": "Style kartu nama.\nAngin masa lalu yang membakar mengibaskan bulu-bulu ekor bangau, namun hanya bintang pagi di awal fajarlah yang hendak sang burung pandang.",
                 "th": "ลวดลายนามบัตร\nในอดีตสายลมร้อนได้พัดโชยปีกของนกกระสา แต่นกน้อยตัวนั้นกลับแหงนมองเพียงดาวรุ่งในยามอรุณเท่านั้น",
                 "vi": "Hoa văn danh thiếp.\nNgọn gió thổi qua làm tung bay những chiếc lông đuôi của chim vạc, mà chú chim đó chỉ nhìn về phía bình minh.",
-                "de": "Namenskärtchen.\nDer feurige Wind von Gestern zerzaust die Schwanzfedern des Graureihers, nun aber schaut dieser Vogel nur noch auf das Licht des Morgensterns.",
+                "de": "Ein Motiv für Namenskärtchen.\nDer feurige Wind von Gestern zerzaust die Schwanzfedern des Graureihers, nun aber schaut dieser Vogel nur noch auf das Licht des Morgensterns.",
                 "fr": "Thème.\nLes vents brûlants du passé ébouriffent les plumes de la héronne cendrée, mais l'oiseau n'a d'yeux que pour l'étoile du matin aux premières lueurs de la journée.",
                 "pt": "Estilo de Cartão de Visita.\nOs ventos flamejantes do passado tremulam as penas da garça, mas o pássaro tem apenas olhos para a estrela da alvorada no seu primeiro raio matinal.",
                 "es": "Diseño de tarjeta de presentación.\nLos vientos abrasadores del pasado erizaron las plumas de la garza real. Pero el ave solo tiene ojos para la estrella del alba.",
@@ -129,7 +129,7 @@
     },
     "stats": {
         "base": {
-            "hp": 911.791,
+            "hp": 911.79102,
             "attack": 17.808,
             "defense": 57.225
         },
@@ -157,7 +157,7 @@
                 "required_adventure_rank": 25,
                 "unlock_max_level": 50,
                 "add_props": {
-                    "base_hp": 1165.1328,
+                    "base_hp": 1165.13281,
                     "base_defense": 73.125,
                     "base_attack": 22.7565,
                     "hp_percent": 0.06
@@ -170,7 +170,7 @@
                 "required_adventure_rank": 30,
                 "unlock_max_level": 60,
                 "add_props": {
-                    "base_hp": 1810.4371,
+                    "base_hp": 1810.43713,
                     "base_defense": 113.625,
                     "base_attack": 35.3601,
                     "hp_percent": 0.12
@@ -183,7 +183,7 @@
                 "required_adventure_rank": 35,
                 "unlock_max_level": 70,
                 "add_props": {
-                    "base_hp": 2294.4153,
+                    "base_hp": 2294.41528,
                     "base_defense": 144,
                     "base_attack": 44.8128,
                     "hp_percent": 0.12
@@ -196,7 +196,7 @@
                 "required_adventure_rank": 40,
                 "unlock_max_level": 80,
                 "add_props": {
-                    "base_hp": 2778.3936,
+                    "base_hp": 2778.39355,
                     "base_defense": 174.375,
                     "base_attack": 54.2655,
                     "hp_percent": 0.18
@@ -209,7 +209,7 @@
                 "required_adventure_rank": 50,
                 "unlock_max_level": 90,
                 "add_props": {
-                    "base_hp": 3262.3718,
+                    "base_hp": 3262.37183,
                     "base_defense": 204.75,
                     "base_attack": 63.7182,
                     "hp_percent": 0.24
@@ -243,8 +243,8 @@
                 "zh_Hant": "<b>普通攻擊</b>\n進行至多四段的連續槍擊。\n\n<b>重擊</b>\n消耗一定體力，向前方突進，對路徑上的敵人造成傷害。\n\n<b>下落攻擊</b>\n從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成範圍傷害。",
                 "ja": "<b>通常攻撃</b>\n槍による最大4段の連続攻撃を行う。\n\n<b>重撃</b>\n一定のスタミナを消費して前方に突進し、経路上の敵にダメージを与える。\n\n<b>落下攻撃</b>\n空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に範囲ダメージを与える。",
                 "ko": "<b>일반 공격</b>\n창으로 최대 4번 공격한다.\n\n<b>강공격</b>\n일정 스태미나를 소모해 전방으로 돌진하여 경로상의 적에게 피해를 준다.\n\n<b>낙하 공격</b>\n공중에서 땅을 내려찍어 경로상의 적을 공격하고 착지 시 범위 피해를 준다",
-                "id": "<b>Normal Attack</b>\nMelancarkan hingga 4 serangan tombak berturut-turut.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan dan mengakibatkan DMG pada musuh di jalur terjangan.\n\n<b>Plunging Attack</b>\nMenerjang dari udara untuk menghantam tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
-                "th": "<b>โจมตีปกติ</b>\nโจมตีด้วยหอกต่อเนื่องมากสุด 4 ครั้ง\n\n<b>ชาร์จโจมตี</b>\nใช้พลังกายปริมาณหนึ่งเพื่อพุ่งไปข้างหน้า และสร้างความเสียหายแก่ศัตรูที่อยู่ในเส้นทาง\n\n<b>โจมตีพุ่งลงจากอากาศ</b>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
+                "id": "<b>Normal Attack</b>\nMelancarkan hingga 4 serangan tombak berturut-turut.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina untuk menerjang ke depan, mengakibatkan DMG pada musuh di jalur terjangan.\n\n<b>Plunging Attack</b>\nMenerjang dari udara untuk menghantam tanah, menyerang musuh di jalur terjangan dan mengakibatkan DMG area saat mendarat.",
+                "th": "<b>โจมตีปกติ</b>\nโจมตีด้วยหอกต่อเนื่องมากสุด 4 ครั้ง\n\n<b>ชาร์จโจมตี</b>\nใช้พลังกายส่วนหนึ่งเพื่อพุ่งไปข้างหน้า และสร้างความเสียหายแก่ศัตรูที่อยู่ในเส้นทาง\n\n<b>โจมตีพุ่งลงจากอากาศ</b>\nกระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้างความเสียหายวงกว้างเมื่อลงถึงพื้น",
                 "vi": "<b>Tấn Công Thường</b>\nThực hiện tối đa 4 lần đánh liên tiếp.\n\n<b>Trọng Kích</b>\nTiêu hao thể lực nhất định, xông về phía trước, gây sát thương cho địch trên đường đi.\n\n<b>Tấn Công Khi Đáp</b>\nĐáp xuống đất từ trên không, tấn công kẻ địch trên đường và gây sát thương phạm vi khi chạm đất.",
                 "de": "<b>Standardangriff</b>\nFührt bis zu 4 Lanzenstiche hintereinander aus.\n\n<b>Heftiger Schlag</b>\nVerbraucht eine gewisse Menge Ausdauer, sticht geschwind nach vorn und fügt den Gegnern in der Bahn Schaden zu.\n\n<b>Angriff aus dem Fall</b>\nSchlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen Flächenschaden.",
                 "fr": "<b>Attaque normale</b>\nEnchaîne jusqu'à 4 coups de lance.\n\n<b>Attaque chargée</b>\nConsomme de l'endurance pour charger en ligne droite et infliger des DGT aux ennemis sur la route.\n\n<b>Attaque plongeante</b>\nPlonge depuis les airs pour frapper le sol, infligeant des DGT aux ennemis sur la route et des DGT de zone à l'impact.",
@@ -390,14 +390,14 @@
                         "parameters": [
                             0.60802,
                             0.61146,
-                            0.354879,
-                            0.433741,
+                            0.35488,
+                            0.43374,
                             0.94944,
                             1.24184,
                             25,
-                            0.639324,
-                            1.278377,
-                            1.596762,
+                            0.63932,
+                            1.27838,
+                            1.59676,
                             0,
                             0,
                             0,
@@ -416,14 +416,14 @@
                         "parameters": [
                             0.65751,
                             0.66123,
-                            0.383765,
-                            0.469046,
+                            0.38377,
+                            0.46905,
                             1.02672,
                             1.34292,
                             25,
-                            0.691362,
-                            1.382431,
-                            1.726731,
+                            0.69136,
+                            1.38243,
+                            1.72673,
                             0,
                             0,
                             0,
@@ -448,7 +448,7 @@
                             1.444,
                             25,
                             0.7434,
-                            1.486485,
+                            1.48649,
                             1.8567,
                             0,
                             0,
@@ -468,13 +468,13 @@
                         "parameters": [
                             0.7777,
                             0.7821,
-                            0.453915,
-                            0.554785,
+                            0.45391,
+                            0.55479,
                             1.2144,
                             1.5884,
                             25,
                             0.81774,
-                            1.635134,
+                            1.63513,
                             2.04237,
                             0,
                             0,
@@ -499,9 +499,9 @@
                             1.29168,
                             1.68948,
                             25,
-                            0.869778,
-                            1.739187,
-                            2.172339,
+                            0.86978,
+                            1.73919,
+                            2.17234,
                             0,
                             0,
                             0,
@@ -520,14 +520,14 @@
                         "parameters": [
                             0.88375,
                             0.88875,
-                            0.515813,
-                            0.630438,
+                            0.51581,
+                            0.63044,
                             1.38,
                             1.805,
                             25,
                             0.92925,
-                            1.858106,
-                            2.320875,
+                            1.85811,
+                            2.32087,
                             0,
                             0,
                             0,
@@ -546,14 +546,14 @@
                         "parameters": [
                             0.96152,
                             0.96696,
-                            0.561204,
-                            0.685916,
+                            0.5612,
+                            0.68592,
                             1.50144,
                             1.96384,
                             25,
-                            1.011024,
+                            1.01102,
                             2.02162,
-                            2.525112,
+                            2.52511,
                             0,
                             0,
                             0,
@@ -572,14 +572,14 @@
                         "parameters": [
                             1.03929,
                             1.04517,
-                            0.606596,
-                            0.741395,
+                            0.6066,
+                            0.74139,
                             1.62288,
                             2.12268,
                             25,
-                            1.092798,
-                            2.185133,
-                            2.729349,
+                            1.0928,
+                            2.18513,
+                            2.72935,
                             0,
                             0,
                             0,
@@ -598,14 +598,14 @@
                         "parameters": [
                             1.11706,
                             1.12338,
-                            0.651987,
-                            0.796873,
+                            0.65199,
+                            0.79687,
                             1.74432,
                             2.28152,
                             25,
-                            1.174572,
-                            2.348646,
-                            2.933586,
+                            1.17457,
+                            2.34865,
+                            2.93359,
                             0,
                             0,
                             0,
@@ -624,13 +624,13 @@
                         "parameters": [
                             1.2019,
                             1.2087,
-                            0.701505,
-                            0.857395,
+                            0.70151,
+                            0.85739,
                             1.8768,
                             2.4548,
                             25,
                             1.26378,
-                            2.527025,
+                            2.52702,
                             3.15639,
                             0,
                             0,
@@ -650,14 +650,14 @@
                         "parameters": [
                             1.28674,
                             1.29402,
-                            0.751023,
-                            0.917917,
+                            0.75102,
+                            0.91792,
                             2.00928,
                             2.62808,
                             25,
-                            1.352988,
-                            2.705403,
-                            3.379194,
+                            1.35299,
+                            2.7054,
+                            3.37919,
                             0,
                             0,
                             0,
@@ -676,14 +676,14 @@
                         "parameters": [
                             1.37158,
                             1.37934,
-                            0.800541,
-                            0.978439,
+                            0.80054,
+                            0.97844,
                             2.14176,
                             2.80136,
                             25,
-                            1.442196,
-                            2.883781,
-                            3.601998,
+                            1.4422,
+                            2.88378,
+                            3.602,
                             0,
                             0,
                             0,
@@ -702,14 +702,14 @@
                         "parameters": [
                             1.45642,
                             1.46466,
-                            0.850059,
-                            1.038961,
+                            0.85006,
+                            1.03896,
                             2.27424,
                             2.97464,
                             25,
-                            1.531404,
-                            3.062159,
-                            3.824802,
+                            1.5314,
+                            3.06216,
+                            3.8248,
                             0,
                             0,
                             0,
@@ -728,14 +728,14 @@
                         "parameters": [
                             1.54126,
                             1.54998,
-                            0.899577,
-                            1.099483,
+                            0.89958,
+                            1.09948,
                             2.40672,
                             3.14792,
                             25,
-                            1.620612,
-                            3.240537,
-                            4.047606,
+                            1.62061,
+                            3.24054,
+                            4.04761,
                             0,
                             0,
                             0,
@@ -754,13 +754,13 @@
                         "parameters": [
                             1.6261,
                             1.6353,
-                            0.949095,
-                            1.160005,
+                            0.9491,
+                            1.16,
                             2.5392,
                             3.3212,
                             25,
                             1.70982,
-                            3.418915,
+                            3.41892,
                             4.27041,
                             0,
                             0,
@@ -809,7 +809,7 @@
                 "fr": "Le style de combat de Candace est capable de repousser toute une marée d'ennemis.\n\n<b>Appui simple</b>\nSe précipite avec son bouclier, infligeant des <b>DGT Hydro</b>.\n\n<b>Appui long</b>\nBrandit son bouclier pour bloquer les attaques des ennemis proches, formant un bouclier qui absorbe les DGT selon ses PV max et est efficace à 250 % contre les <b>DGT Hydro</b>. Le bouclier dure jusqu'à ce qu'elle finisse de libérer sa compétence élémentaire.\nCandace se charge après avoir appuyé pendant un certain temps, puis effectue une frappe bondissante qui inflige des <b>DGT Hydro</b> aux ennemis devant elle lorsque vous relâchez la compétence, que la durée prend fin ou que le bouclier est détruit.\n\n<i>Le serment des protecteurs est encore plus solide que les boucliers dont ils héritent.</i>",
                 "pt": "O estilo de luta de Candace é capaz de resistir a uma onda de inimigos.\n\n<b>Pressionar</b>\nAtaca avançando com seu escudo, infligindo <b>Dano Hydro</b> contra os inimigos em sua frente.\n\n<b>Manter Pressionado</b>\nErgue seu escudo para bloquear o ataque dos inimigos, formando um Escudo que absorve Dano baseado na Vida Máxima de Candace e possui 250% de eficiência contra <b>Dano Hydro</b>. O Escudo dura até o fim da Habilidade Elemental.\nAo Manter Pressionado por um certo tempo, Candace completará o carregamento, e quando lançar a habilidade, a duração acabar ou o escudo for destruído, realizará um ataque de salto que infligirá <b>Dano Hydro</b> contra os inimigos em sua frente.\n\n<i>\"O juramento dos guardiões deve ser ainda mais firme que o escudo que herda de seus ancestrais.\"</i>",
                 "es": "Con su estilo de combate, Candace es capaz de resistir contra toda una marea de enemigos.\n\n<b>{LAYOUT_MOBILE#Un toque}{LAYOUT_PC#Pulsar una vez}{LAYOUT_PS#Pulsar una vez}</b>\nAtaca con su escudo para infligir <b>Daño Hydro</b> contra los enemigos frente a ella.\n\n<b>Mantener pulsado</b>\nUsa su escudo para resistir los ataques de los enemigos de alrededor, lo que crea un escudo que absorbe daño en función de la Vida Máx. de Candance. Dicho escudo tiene un 250% de efectividad de absorción de <b>Daño Hydro</b> y dura hasta que se libera la Habilidad Elemental.\nTras mantener pulsado durante cierto tiempo, el escudo se carga por completo y, al dejar de mantener pulsada la habilidad, cuando termine su duración o cuando el escudo se rompa, Candace ejecuta un salto ofensivo que inflige <b>Daño Hydro</b> contra los enemigos frente a ella.\n\n<i>El juramento que hereda un custodio debe ser aún más firme que el escudo que hereda de sus ancestros.</i>",
-                "ru": "Боевой стиль Кандакии позволяет ей противостоять целой волне врагов.\n\n<b>Быстрое нажатие</b>\nСовершает рывок со щитом вперёд, нанося <b>Гидро урон</b>.\n\n<b>Долгое нажатие</b>\nПоднимает щит, блокируя атаки врагов поблизости, и создаёт барьер. Поглощаемый им урон зависит от максимального HP Кандакии. Барьер поглощает <b>Гидро урон</b> с 250% эффективностью. С активацией элементального навыка действие барьера завершится.\nЕсли завершить зарядку, удерживая кнопку навыка некоторое время, то когда кнопка навыка будет отпущена, действие навыка истечёт или барьер будет разрушен, Кандакия выполнит удар в прыжке, который наносит <b>Гидро урон</b> противникам впереди.\n\n<i>Клятва стражей прочнее унаследованных ими щитов.</i>"
+                "ru": "Боевой стиль Кандакии позволяет ей противостоять целой волне врагов.\n\n<b>Быстрое нажатие</b>\nСовершает рывок со щитом вперёд, нанося <b>Гидро урон</b>.\n\n<b>Долгое нажатие</b>\nПоднимает щит, блокируя атаки врагов поблизости, и создаёт барьер. Поглощаемый им урон зависит от максимального HP Кандакии. Барьер поглощает <b>Гидро урон</b> с 250% эффективностью. С активацией элементального навыка действие барьера завершится.\nЕсли завершить зарядку, удерживая кнопку навыка некоторое время, то, когда кнопка навыка будет отпущена, действие навыка истечёт или барьер будет разрушен, Кандакия выполнит удар в прыжке, который наносит <b>Гидро урон</b> противникам впереди.\n\n<i>Клятва стражей прочнее унаследованных ими щитов.</i>"
             },
             "attributes": {
                 "description": {
@@ -909,7 +909,7 @@
                     {
                         "parameters": [
                             0.12,
-                            1155.5629,
+                            1155.56287,
                             0.12,
                             0.1904,
                             6,
@@ -935,7 +935,7 @@
                     {
                         "parameters": [
                             0.129,
-                            1271.1353,
+                            1271.13525,
                             0.129,
                             0.20468,
                             6,
@@ -961,7 +961,7 @@
                     {
                         "parameters": [
                             0.138,
-                            1396.3386,
+                            1396.33862,
                             0.138,
                             0.21896,
                             6,
@@ -987,7 +987,7 @@
                     {
                         "parameters": [
                             0.15,
-                            1531.173,
+                            1531.17297,
                             0.15,
                             0.238,
                             6,
@@ -1013,7 +1013,7 @@
                     {
                         "parameters": [
                             0.159,
-                            1675.6384,
+                            1675.63843,
                             0.159,
                             0.25228,
                             6,
@@ -1039,7 +1039,7 @@
                     {
                         "parameters": [
                             0.168,
-                            1829.7349,
+                            1829.73486,
                             0.168,
                             0.26656,
                             6,
@@ -1117,7 +1117,7 @@
                     {
                         "parameters": [
                             0.204,
-                            2349.8105,
+                            2349.81055,
                             0.204,
                             0.32368,
                             6,
@@ -1143,7 +1143,7 @@
                     {
                         "parameters": [
                             0.216,
-                            2542.4312,
+                            2542.43115,
                             0.216,
                             0.34272,
                             6,
@@ -1169,7 +1169,7 @@
                     {
                         "parameters": [
                             0.228,
-                            2744.6826,
+                            2744.68262,
                             0.228,
                             0.36176,
                             6,
@@ -1195,7 +1195,7 @@
                     {
                         "parameters": [
                             0.24,
-                            2956.5652,
+                            2956.56519,
                             0.24,
                             0.3808,
                             6,
@@ -1221,7 +1221,7 @@
                     {
                         "parameters": [
                             0.255,
-                            3178.0789,
+                            3178.07886,
                             0.255,
                             0.4046,
                             6,
@@ -1247,7 +1247,7 @@
                     {
                         "parameters": [
                             0.27,
-                            3409.2236,
+                            3409.22363,
                             0.27,
                             0.4284,
                             6,
@@ -1273,7 +1273,7 @@
                     {
                         "parameters": [
                             0.285,
-                            3649.9995,
+                            3649.99951,
                             0.285,
                             0.4522,
                             6,
@@ -1326,7 +1326,7 @@
                 "th": "ยกอาวุธขึ้นสูงเพื่อขอพรจากเทพเจ้า แล้วสร้าง<b>ความเสียหายน้ำวงกว้าง</b>ที่ขึ้นกับพลังชีวิตสูงสุดของตัวเธอเอง และมอบสถานะ \"Prayer of the Crimson Crown\" ให้แก่ตัวละครของตัวเองที่เข้าร่วมการต่อสู้ในขณะนั้นอย่างต่อเนื่อง\n\n<b>Prayer of the Crimson Crown</b>\nมีคุณลักษณะพิเศษดังนี้:\n·เมื่อการโจมตีปกติของตัวละครสร้างความเสียหายธาตุ ความเสียหายที่สร้างจะเพิ่มสูงขึ้น;\n·เมื่อตัวละครเข้าสู่การต่อสู้ จะปล่อยคลื่นน้ำออกมาโจมตี เพื่อสร้าง<b>ความเสียหายน้ำ</b>แก่ศัตรูที่อยู่โดยรอบ โดยที่เอฟเฟกต์นี้ จะเกิดขึ้นได้อย่างจำกัดในระหว่างช่วงเวลาต่อเนื่องของสกิล;\n·ตัวละครที่ใช้ดาบ, ดาบใหญ่ และหอกที่อยู่ในสภาวะดังกล่าว จะได้รับ<b>พลังแห่งน้ำ</b>\n\n<i>พิธีกรรมลับที่สืบทอดต่อกันมาจากรุ่นสู่รุ่นในตระกูลของ Candace ถึงแม้ว่าความเชื่อในสมัยโบราณจะมลายหายไปท่ามกลางกาลเวลานับพันปี แต่ทะเลทรายจะยังคงปกป้องเหล่าคนรุ่นหลังของดินแดนโบราณ</i>",
                 "vi": "Giơ cao vũ khí, triệu hồi lời cầu phúc thần thánh, gây <b>Sát Thương Phạm Vi Nguyên Tố Thủy</b> dựa vào giới hạn HP của Candace, đồng thời liên tục cung cấp trạng thái \"Lời Chúc Vương Miện Đỏ\" cho nhân vật của bản thân đang trong trận.\n\n<b>Lời Chúc Vương Miện Đỏ</b>\nCó đặc tính sau:\n·Đòn đánh thường của nhân vật khi gây sát thương nguyên tố cho kẻ địch sẽ gia tăng sát thương gây ra;\n·Khi nhân vật ra trận sẽ phát động Sóng Nước Xung Kích, gây <b>Sát Thương Nguyên Tố Thủy</b> cho kẻ địch xung quanh. Số lần kích hoạt trong thời gian duy trì hiệu quả này là có giới hạn;\n·Nhân vật sử dụng kiếm đơn, trọng kiếm, vũ khí cán dài khi ở trong trạng thái này sẽ nhận được <b>đính kèm Nguyên Tố Thủy</b>.\n\n<i>Nghi thức kế thừa nhiều đời của gia tộc Candace. Cho dù tín ngưỡng cổ đại đã chìm sâu theo năm tháng, nhưng biển cát mênh mông vẫn sẽ bảo vệ hậu duệ của vương quốc cổ.</i>",
                 "de": "Candace erhebt ihre Waffe und ruft den göttlichen Segen herbei. Verursacht <b>Hydro-Flächenschaden</b> basierend auf Candaces max. LP und verleiht fortlaufend der eigenen aktuellen Figur den Effekt „Gebet der roten Krone“.\n\n<b>Gebet der roten Krone</b>\nMerkmale:\n· Verursachen Figuren mit ihren Standardangriffen Elementar-Schaden, wird der Schaden erhöht.\n· Wird eine Figur eingewechselt, löst sie einen Wellenstoß aus, der den Gegnern in der Nähe <b>Hydro-Schaden</b> zufügt. Die Anzahl der auslösbaren Wellenstöße während der Effektdauer ist begrenzt.\n· Verleiht den Figuren mit Einhänder, Zweihänder und Stangenwaffe, die unter diesem Effekt stehen, das <b>Hydro-Attribut</b>.\n\n<i>Dieser geheime Ritus wurde in Candaces Klan von Generation zu Generation weitergegeben. Obwohl der alte Glaube im Laufe der Jahre verloren gegangen ist, schützt das Sandmeer noch immer die Nachkommen des alten Reiches.</i>",
-                "fr": "Brandissant son arme en l'air, Candace invoque une bénédiction divine qui inflige des <b>DGT Hydro de zone</b> selon ses PV max et confère l'état de Prière de couronne cramoisie à votre personnage déployé.\n\n<b>Prière de couronne cramoisie</b>\nLes caractéristiques suivantes s'appliquent :\n· Lorsque l'attaque normale d'un personnage inflige des DGT élémentaires à un ennemi, les DGT infligés augmentent.\n· Lorsqu'un personnage est déployé au combat, un impact hydrique est déclenché, infligeant des <b>DGT Hydro</b> aux ennemis proches. Le nombre d'impacts pouvant être déclenchés pendant la durée de cette compétence est limité.\n· Sous l'effet de cet état, les personnages maniant une épée à une ou deux mains ou une arme d'hast obtiennent un <b>enchantement Hydro</b>.\n\n<i>Ce rite secret a été transmis à travers le clan de Candace de génération en génération. Bien que les anciennes croyances se soient perdues au fil des ans, les sables protègent toujours les héritiers de l'ancien royaume.</i>",
+                "fr": "Brandissant son arme en l'air, Candace invoque une bénédiction divine qui inflige des <b>DGT Hydro de zone</b> selon ses PV max et confère l'état Prière de couronne cramoisie à votre personnage déployé.\n\n<b>Prière de couronne cramoisie</b>\nLes caractéristiques suivantes s'appliquent :\n· Lorsque l'attaque normale d'un personnage inflige des DGT élémentaires à un ennemi, les DGT infligés augmentent.\n· Lorsqu'un personnage est déployé au combat, un impact hydrique est déclenché, infligeant des <b>DGT Hydro</b> aux ennemis proches. Le nombre d'impacts pouvant être déclenchés pendant la durée de cette compétence est limité.\n· Sous l'effet de cet état, les personnages maniant une épée à une ou deux mains ou une arme d'hast obtiennent un <b>enchantement Hydro</b>.\n\n<i>Ce rite secret a été transmis à travers le clan de Candace de génération en génération. Bien que les anciennes croyances se soient perdues au fil des ans, les sables protègent toujours les héritiers de l'ancien royaume.</i>",
                 "pt": "Candace ergue sua arma e invoca uma bênção divina que inflige <b>Dano Hydro em AdE</b> baseado em sua Vida Máxima, e aplica continuamente o estado \"Súplica da Coroa Escarlate\" no seu personagem ativo no campo de batalha.\n\n<b>Súplica da Coroa Escarlate</b>\nPossui as seguintes características:\n· Quando o Ataque Normal do personagem inflige Dano Elemental contra os inimigos, aumenta o Dano infligido;\n· Quando um personagem se torna o ativo no campo de batalha, lança uma Onda do Dilúvio que inflige <b>Dano Hydro</b> contra os inimigos próximos. Esse efeito possui um limite de vezes que pode ser desencadeado dentro da duração dessa habilidade;\n· Personagens sob esse efeito que usem Espada, Espadão ou Lança obterão <b>Encantamento Hydro</b>.\n\n<i>Esse ritual secreto foi passado de geração em geração pelo clã de Candace. Apesar da antiga fé ter se perdido com o passar do tempo, as areias ainda protegem os herdeiros do antigo reino.</i>",
                 "es": "Candace alza su arma para implorar una bendición divina que inflige <b>Daño Hydro en el AdE</b> en función de su Vida Máx. y otorga continuamente el estado de “oración de la corona escarlata” al personaje en uso.\n\n<b>Oración de la corona escarlata</b>\nTiene las siguientes propiedades:\n·Aumenta el Daño Elemental que infligen los personajes con sus Ataques Normales.\n·Cuando un personaje entra en el campo de batalla, libera una onda de agua que inflige <b>Daño Hydro</b> contra los enemigos cercanos. Esto solo se puede activar un determinado número de veces mientras este efecto está activo.\n·<b>Imbuye del elemento Hydro</b> a los personajes que utilizan espada ligera, mandoble o lanza y que están bajo los efectos de este estado.\n\n<i>Este es el ritual secreto heredado por generaciones en el clan de Candace. Aunque estas viejas creencias ya se han perdido con el paso del tiempo, el desierto sigue protegiendo a los descendientes del antiguo reino.</i>",
                 "ru": "Подняв оружие над головой, Кандакия призывает благословение свыше, которое наносит <b>Гидро урон по площади</b> пропорционально её макс. HP и предоставляет вашему активному персонажу Молитву алой короны.\n\n<b>Молитва алой короны</b>\nОбладает следующими свойствами:\n· При нанесении элементального урона обычной атакой персонажи наносят повышенный урон.\n· Персонаж, становясь активным, выпускает водяной вал, который наносит <b>Гидро урон</b> врагам поблизости. Количество волн, которые можно вызвать во время действия навыка, ограничено.\n· Персонаж, владеющий одноручным, двуручным или древковым оружием, во время действия этого эффекта получает <b>инфузию Гидро</b>.\n\n<i>Тайный ритуал, передаваемый из поколения в поколение в клане Кандакии. Древние верования давно канули в забвение тысячелетий, но песчаное море всё так же оберегает потомков древнего государства.</i>"
@@ -1363,7 +1363,7 @@
                     "ja": [
                         "スキルダメージ|{0[0]:.1%}HP上限",
                         "継続時間|{0[1]}秒",
-                        "ダメージ上昇|{0[2]:.1%}",
+                        "ダメージアップ|{0[2]:.1%}",
                         "水波衝撃ダメージ|{0[3]:.1%}HP上限",
                         "水波衝撃発動可能回数|{0[4]}回",
                         "クールタイム|{0[5]}秒",
@@ -1445,7 +1445,7 @@
                         "Урон навыка|{0[0]:.1%} макс. HP",
                         "Длительность|{0[1]} сек.",
                         "Бонус урона|{0[2]:.1%}",
-                        "Урод водяного вала|{0[3]:.1%} макс. HP",
+                        "Урон водяного вала|{0[3]:.1%} макс. HP",
                         "Активации водяного вала|{0[4]} раза",
                         "Время отката|{0[5]} сек.",
                         "Потребление энергии|{0[6]}"
@@ -1454,10 +1454,10 @@
                 "levels": [
                     {
                         "parameters": [
-                            0.066104,
+                            0.0661,
                             9,
                             0.2,
-                            0.066104,
+                            0.0661,
                             3,
                             15,
                             60,
@@ -1480,10 +1480,10 @@
                     },
                     {
                         "parameters": [
-                            0.071062,
+                            0.07106,
                             9,
                             0.2,
-                            0.071062,
+                            0.07106,
                             3,
                             15,
                             60,
@@ -1558,10 +1558,10 @@
                     },
                     {
                         "parameters": [
-                            0.087588,
+                            0.08759,
                             9,
                             0.2,
-                            0.087588,
+                            0.08759,
                             3,
                             15,
                             60,
@@ -1584,10 +1584,10 @@
                     },
                     {
                         "parameters": [
-                            0.092546,
+                            0.09255,
                             9,
                             0.2,
-                            0.092546,
+                            0.09255,
                             3,
                             15,
                             60,
@@ -1610,10 +1610,10 @@
                     },
                     {
                         "parameters": [
-                            0.099156,
+                            0.09916,
                             9,
                             0.2,
-                            0.099156,
+                            0.09916,
                             3,
                             15,
                             60,
@@ -1636,10 +1636,10 @@
                     },
                     {
                         "parameters": [
-                            0.105766,
+                            0.10577,
                             9,
                             0.2,
-                            0.105766,
+                            0.10577,
                             3,
                             15,
                             60,
@@ -1662,10 +1662,10 @@
                     },
                     {
                         "parameters": [
-                            0.112377,
+                            0.11238,
                             9,
                             0.2,
-                            0.112377,
+                            0.11238,
                             3,
                             15,
                             60,
@@ -1688,10 +1688,10 @@
                     },
                     {
                         "parameters": [
-                            0.118987,
+                            0.11899,
                             9,
                             0.2,
-                            0.118987,
+                            0.11899,
                             3,
                             15,
                             60,
@@ -1714,10 +1714,10 @@
                     },
                     {
                         "parameters": [
-                            0.125598,
+                            0.1256,
                             9,
                             0.2,
-                            0.125598,
+                            0.1256,
                             3,
                             15,
                             60,
@@ -1740,10 +1740,10 @@
                     },
                     {
                         "parameters": [
-                            0.132208,
+                            0.13221,
                             9,
                             0.2,
-                            0.132208,
+                            0.13221,
                             3,
                             15,
                             60,
@@ -1766,10 +1766,10 @@
                     },
                     {
                         "parameters": [
-                            0.140471,
+                            0.14047,
                             9,
                             0.2,
-                            0.140471,
+                            0.14047,
                             3,
                             15,
                             60,
@@ -1792,10 +1792,10 @@
                     },
                     {
                         "parameters": [
-                            0.148734,
+                            0.14873,
                             9,
                             0.2,
-                            0.148734,
+                            0.14873,
                             3,
                             15,
                             60,
@@ -1818,10 +1818,10 @@
                     },
                     {
                         "parameters": [
-                            0.156997,
+                            0.157,
                             9,
                             0.2,
-                            0.156997,
+                            0.157,
                             3,
                             15,
                             60,
@@ -1905,7 +1905,7 @@
                 "th": "เมื่อตัวละครที่อยู่ภายใต้สภาวะ Prayer of the Crimson Crown ของ <b>Sacred Rite: Wagtail's Tide</b> สร้างความเสียหายธาตุแก่ศัตรูด้วยการโจมตีปกติ ความเสียหายในครั้งนี้จะเพิ่มขึ้น 0.5% ต่อทุก 1,000 หน่วย ของค่าพลังชีวิตสูงสุดของ Candace",
                 "vi": "Nhân vật trong trạng thái Lời Chúc Vương Miện Đỏ của kỹ năng <b>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</b>, đòn đánh thường gây Sát Thương Nguyên Tố cho kẻ địch sẽ tăng 0.5% sát thương dựa trên mỗi 1000 giới hạn HP của Candace.",
                 "de": "Erhöht den Schaden des Standardangriffes der Figuren unter dem Effekt „Gebet der roten Krone“ der Spezialfähigkeit <b>Heiliger Ritus: Bachstelzenflut</b> um 0,5 % für je 1.000 Punkte von Candaces max. LP, wenn dieser Standardangriff einem Gegner Elementar-Schaden zufügt.",
-                "fr": "Lorsqu'un personnage affecté par l'état de Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> inflige des DGT élémentaires à un ennemi avec une attaque normale, les DGT augmentent de 0,5 % pour chaque tranche de 1 000 PV max de Candace.",
+                "fr": "Lorsqu'un personnage affecté par l'état Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> inflige des DGT élémentaires à un ennemi avec une attaque normale, les DGT augmentent de 0,5 % pour chaque tranche de 1 000 PV max de Candace.",
                 "pt": "Personagens sob estado Súplica da Coroa Escarlate causado por <b>Ritual Sagrado: Maré dos Alvéolas</b> aumentam o Dano infligido contra os oponentes em 0,5% para cada 1.000 pontos de Vida Máxima de Candace quando causam Dano Elemental com seus Ataques Normais.",
                 "es": "Cuando un personaje en el estado de oración de la corona escarlata de <b>Rito sagrado: Marea de aguzanieves</b> inflige Daño Elemental contra un enemigo con un Ataque Normal, este daño aumenta en un 0.5% por cada 1000 pts. de Vida Máx. que tenga Candace.",
                 "ru": "Элементальный урон, наносимый обычной атакой персонажей под воздействием Молитвы алой короны <b>Священного обряда: Прилив трясогузки</b>, увеличивается на 0,5% за каждые 1000 ед. макс. HP Кандакии."
@@ -1973,7 +1973,7 @@
                 "th": "ช่วงเวลาต่อเนื่องของสภาวะ Prayer of the Crimson Crown ที่เกิดจาก <b>Sacred Rite: Wagtail's Tide</b> เพิ่มขึ้น 3 วินาที",
                 "vi": "Thời gian duy trì trạng thái Lời Chúc Vương Miện Đỏ của <b>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</b> kéo dài thêm 3s.",
                 "de": "Verlängert die Dauer des Effekts „Gebet der roten Krone“ der Fähigkeit <b>Heiliger Ritus – Bachstelzenflut</b> um 3 s.",
-                "fr": "La durée de l'état de Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> augmente de 3 s.",
+                "fr": "La durée de l'état Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> augmente de 3 s.",
                 "pt": "Estende a duração do estado Súplica da Coroa Escarlate de <b>Ritual Sagrado: Maré dos Alvéolas</b> em 3s.",
                 "es": "Aumenta en 3 s la duración del estado de oración de la corona escarlata de <b>Rito sagrado: Marea de aguzanieves</b>.",
                 "ru": "Длительность Молитвы алой короны <b>Священного обряда: Прилив трясогузки</b> увеличивается на 3 сек."
@@ -2138,7 +2138,7 @@
                 "th": "เมื่อตัวละครที่เข้าร่วมการต่อสู้ในขณะนั้น (ไม่รวมตัวของ Candace เอง) อยู่ภายใต้สภาวะ Prayer of the Crimson Crown ของ <b>Sacred Rite: Wagtail's Tide</b> สร้างความเสียหายธาตุแก่ศัตรูด้วยการโจมตีปกติ จะปล่อยคลื่นโจมตีออกมา ซึ่งจะทำให้เกิด<b>ความเสียหายน้ำวงกว้าง</b>เท่ากับ 15% ของพลังชีวิตสูงสุดของ Candace\nในทุก 2.3 วินาที เอฟเฟกต์นี้จะเกิดขึ้นได้มากสุดหนึ่งครั้ง และความเสียหายที่สร้าง จะถูกมองว่าเป็นความเสียหายท่าไม้ตาย",
                 "vi": "Nhân vật đang trong trận hiện tại khi trong trạng thái Lời Chúc Vương Miện Đỏ của <b>Nghi Thức Thần Thánh - Thủy Triều Chìa Vôi</b> (không bao gồm bản thân Candace), nếu tấn công thường trúng kẻ địch gây sát thương nguyên tố, sẽ thi triển Thủy Triều Xung Kích, gây <b>Sát Thương Phạm Vi Nguyên Tố Thủy</b> tương đương 15% giới hạn HP của Candace.\nHiệu quả này mỗi 2.3s tối đa kích hoạt một lần, sát thương gây ra được tính là sát thương kỹ năng nộ.",
                 "de": "Verursacht die aktuelle Figur (außer Candace) unter dem Effekt „Gebet der roten Krone“ der Fähigkeit <b>Heiliger Ritus – Bachstelzenflut</b> mit Standardangriffen Elementar-Schaden, wird ein Flutstoß ausgelöst, der <b>Hydro-Flächenschaden</b> in Höhe von 15 % der max. LP von Candace verursacht.\n2,3 s Abklingzeit. Der damit verursachte Schaden gilt als Schaden der Spezialfähigkeit.",
-                "fr": "Lorsqu'un personnage déployé (hormis Candace) affecté par l'état de Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> inflige des DGT élémentaires à un ennemi avec une attaque normale, il déclenche une marée d'impact, infligeant des <b>DGT Hydro de zone</b> d'une valeur équivalant à 15 % des PV max de Candace.\nCet effet peut être déclenché une fois toutes les 2,3 s. Les DGT infligés sont considérés comme des DGT de déchaînement élémentaire.",
+                "fr": "Lorsqu'un personnage déployé (hormis Candace) affecté par l'état Prière de couronne cramoisie de <b>Liturgie : Marée de la bergeronnette</b> inflige des DGT élémentaires à un ennemi avec une attaque normale, il déclenche une marée d'impact, infligeant des <b>DGT Hydro de zone</b> d'une valeur équivalant à 15 % des PV max de Candace.\nCet effet peut être déclenché une fois toutes les 2,3 s. Les DGT infligés sont considérés comme des DGT de déchaînement élémentaire.",
                 "pt": "Quando o personagem ativo no campo de batalha estiver sob o estado Súplica da Coroa Escarlate de <b>Ritual Sagrado: Maré dos Alvéolas</b> (exceto a própria Candace) e infligir Dano Elemental contra um inimigo com um Ataque Normal, lançará uma Onda Torrencial que infligirá <b>Dano Hydro em AdE</b> equivalente a 15% da Vida Máxima de Candace.\nEsse efeito só pode ser desencadeado uma vez a cada 2.3s, e o Dano infligido é considerado Dano de Supremo.",
                 "es": "Cuando un personaje en uso (a excepción de Candace) que está en el estado de oración de la corona escarlata de <b>Rito sagrado: Marea de aguzanieves</b> inflige Daño Elemental con un Ataque Normal contra un enemigo, se libera una onda de agua de Rito sagrado: Marea de aguzanieves que inflige <b>Daño Hydro en el AdE</b> en una cantidad equivalente al 15% de la Vida Máx. de Candace.\nEste efecto solo se puede activar una vez cada 2.3 s y su daño se considera daño de Habilidad Definitiva.",
                 "ru": "Обычные атаки персонажей под воздействием Молитвы алой короны <b>Священного обряда: Прилив трясогузки</b> (кроме самой Кандакии), наносящие элементальный урон, вызывают Водяной вал, который наносит <b>Гидро урон по площади</b>, равный 15% от макс. HP Кандакии.\nЭффект может возникнуть не чаще 1 раза в 2,3 сек. Урон водяных валов считается уроном взрыва стихии."
@@ -2168,7 +2168,7 @@
                     "zh_Hans": "你好呀，远道而来的旅行者，夜晚的沙漠可是很严酷的，不如就在敝处稍住一晚吧，由我来照看你的无梦之夜。",
                     "zh_Hant": "#{F#妳}{M#你}好呀，遠道而來的旅行者，夜晚的沙漠可是很嚴酷的，不如就在敝處稍住一晚吧，由我來照看{F#妳}{M#你}的無夢之夜。",
                     "ja": "こんばんは、旅人さん！遠路はるばるようこそ。夜の砂漠は過酷ですから、宜しければこちらで一晩お過ごしください。あなたの夢なき眠りは私がお守りします。",
-                    "ko": "멀리서 온 여행자여, 사막 밤길은 험난하니 이곳에서 하룻밤 머물고 가. 내가 그대의 꿈 없는 밤을 돌봐줄게",
+                    "ko": "멀리서 온 여행자여, 사막 밤길은 험난하니 이곳에서 하룻밤 머물고 가. 내가 너의 꿈 없는 밤을 돌봐줄게",
                     "id": "Salam, Pengembara yang datang dari jauh. Malam di padang pasir sangat kejam. Istirahatlah di sini dan tidurlah yang pulas, biarkan diriku yang menjagamu.",
                     "th": "สวัสดี นักเดินทางจากแดนไกล ค่ำคืนที่ทะเลทรายช่างโหดร้ายนัก ทำไมไม่นอนที่นี่สักคืนล่ะ ให้ฉันได้ดูแลคืนที่ไร้ฝันของคุณเอง",
                     "vi": "#Xin chào nhà lữ hành phương xa, sa mạc vào ban đêm rất khắc nghiệt, hay là cứ ở lại đây nghỉ ngơi một đêm nhé, và tôi sẽ canh chừng cho {F#cô}{M#cậu}.",
@@ -2671,7 +2671,7 @@
                     "fr": "Mon père était chercheur à l'Académie. Il est venu au Village d'Aaru dans le cadre de recherches, puis il a rencontré ma mère... Quant à elle, je ne sais malheureusement que ce que mon père m'a dit. Le jour de ma naissance, elle a commencé son voyage dans la nuit éternelle...",
                     "pt": "Meu pai era um estudioso da Academia. Inicialmente, ele veio para a Vila Aaru em uma viagem de pesquisa, então ele acabou conhecendo minha mãe... Quanto a ela, infelizmente, só sei das coisas que meu pai me contou. No dia que nasci, ela começou a sua jornada na noite eterna...",
                     "es": "Mi padre fue un erudito de la Academia. Vino a la Aldea Aaru por un viaje de investigación, y aquí conoció a mi madre. Desafortunadamente, lo único que sé de ella es por las anécdotas de mi padre. El día en que nací, ella emprendió su viaje a la noche eterna...",
-                    "ru": "Мой отец - учёный из Академии, в деревню Аару его привели исследования, и здесь он познакомился с моей матерью. О матери я знаю только со слов отца... Она подарил мне жизнь и в тот же день перешла в вечную ночь..."
+                    "ru": "Мой отец - учёный из Академии, в деревню Аару его привели исследования, и здесь он познакомился с моей матерью. О матери я знаю только со слов отца... Она подарила мне жизнь и в тот же день перешла в вечную ночь..."
                 },
                 "condition": {
                     "en": "Unlocks at Friendship Lv. 4",
@@ -2960,19 +2960,19 @@
                     "ru": "О Лайле..."
                 },
                 "text": {
-                    "en": "",
-                    "zh_Hans": "",
-                    "zh_Hant": "",
-                    "ja": "",
-                    "ko": "",
-                    "id": "",
-                    "th": "",
-                    "vi": "",
-                    "de": "",
-                    "fr": "",
-                    "pt": "",
-                    "es": "",
-                    "ru": ""
+                    "en": "An eccentric girl who always seems to be in a trance...? Yes, I believe I've seen her before — near the Wall of Samiel. I couldn't make sense of what she was saying, nor the calculations she wrote down, but she seemed to be in a much better mood after she'd finished. Perhaps this is her way of relieving stress.",
+                    "zh_Hans": "「状若梦游的古怪少女」么…我确实在防沙壁附近看到过，虽然完全听不懂她说的话和写在纸上的一堆算式…不过，她似乎说完那些心情变好了许多。或许这是她排解心中压力的方式吧。",
+                    "zh_Hant": "「狀若夢遊的古怪少女」嗎…我確實在防沙壁附近看到過，雖然完全聽不懂她說的話和寫在紙上的一堆算式…不過，她似乎說完那些心情變好了許多。或許這是她排解心中壓力的方式吧。",
+                    "ja": "「夢遊状態のような奇妙な少女」…？確かに防砂壁の近くでそのような子を見かけましたが、彼女の言葉や紙に書かれた算式はまったく理解できませんでした…でも、話し終えると気分が良くなったみたいでしたよ。彼女なりのストレス発散法なのかもしれませんね。",
+                    "ko": "「몽유병 걸린 이상한 소녀」라… 방사벽 근처에서 본 적이 있어. 이해할 수 없는 얘기를 하거나 서식을 작성하곤 했지…. 그러면 기분이 나아아보이던데, 어쩌면 그녀만의 스트레스 해소법일지도 모르겠네",
+                    "id": "\"Gadis aneh yang suka tidur berjalan\" ya ...? Aku memang pernah lihat dia di dekat Tembok Samiel. Meski aku tidak bisa mengerti apa yang dia katakan dan berbagai rumus yang tertulis di kertas ... Tapi dia sepertinya merasa lebih baik setelah dia mengucapkan kata-kata itu. Mungkin itu caranya untuk menghilangkan stres.",
+                    "th": "\"สาวน้อยแสนประหลาดที่เหมือนกำลังเดินละเมอ\" งั้นเหรอ...? ใช่ ฉันเชื่อว่าฉันเคยเห็นเธอแถวกำแพงป้องกันทรายมาก่อน แม้จะไม่สามารถเข้าใจสิ่งที่เธอพูดหรือการคำนวณที่เธอเขียนได้เลยสักนิด... แต่ดูเหมือนว่าเธอจะอารมณ์ดีขึ้นมากหลังจากที่พูดสิ่งพวกนั้นออกมา บางทีนี่อาจเป็นวิธีคลายเครียดของเธอล่ะมั้งนะ",
+                    "vi": "\"Một cô gái lập dị có vẻ như đang mộng du\" sao... Đúng là tôi từng nhìn thấy cô ấy ở gần Bức Tường Samiel, mặc dù không hiểu cô ấy nói gì, cũng như những phép tính mà cô ấy đã viết ra... Nhưng mà dường như tâm trạng của cô ấy tốt lên rất nhiều sau khi nói xong. Có lẽ đây là cách giải tỏa căng thẳng của ấy.",
+                    "de": "„Das exzentrische Mädchen, das zu schlafwandeln scheint“? Ich glaube, ich habe sie mal in der Nähe des Samiel-Walls gesehen. Ich konnte nicht verstehen, was sie sagte oder welche Formeln sie aufschrieb ... aber sie schien viel besser gelaunt zu sein, nachdem sie fertig war. Vielleicht ist das ihre Art, Stress abzubauen.",
+                    "fr": "Une jeune femme excentrique qui a l'air en transe ? Je crois l'avoir déjà vue près du Mur de Samiel. Je ne comprenais rien à ce qu'elle disait ni à ses calculs, mais son humeur s'est améliorée dès qu'elle les a terminés. Peut-être que c'est une façon de se débarrasser de son stress ?",
+                    "pt": "Uma garota excêntrica que sempre parece estar em transe...? Sim, acredito que já a vi antes — perto da Muralha de Samiel. Eu não entendia o que ela dizia, nem os cálculos que ela escreveu, mas ela parecia estar muito melhor humorada depois que terminou. Talvez essa seja a forma dela de aliviar o estresse.",
+                    "es": "¿Una chica muy rara que siempre parece estar en trance? Humm... Creo que sé a quién te refieres. La vi hace poco cerca del Muro de Samiel. No entendí una palabra de lo que estaba diciendo y no dejaba de hacer cálculos en una hoja... Pero parecía de buen humor. Tal vez sea su forma de lidiar con el estrés.",
+                    "ru": "Странная девушка, которая будто всегда в трансе? Да, я, кажется, её видел возле Стены Самиэль. Я не смог разобрать, что она говорила и что за расчёты писала, но похоже она была очень довольна, когда закончила. Может, она так со стрессом справляется."
                 },
                 "condition": {
                     "en": "Unlocks at Friendship Lv. 4",
@@ -3228,19 +3228,19 @@
                     "ru": "Узнать больше о Кандакии III"
                 },
                 "text": {
-                    "en": "Even now, there are those who hold on to a belief that the Scarlet King (King Deshret) will be resurrected. But it's not possible. The past is but grains of sand, scattered to the four winds. The best we can do is to let go, and leave the wind to carry them to their final resting place.",
+                    "en": "Even now, there are those who hold on to a belief that King Deshret will be resurrected. But it's not possible. The past is but grains of sand, scattered to the four winds. The best we can do is to let go, and leave the wind to carry them to their final resting place.",
                     "zh_Hans": "即使到现在，也有人相信赤王有朝一日能够复活，但那是不可能的。一切的过去都如同被吹拂的砂砾，对过往之事来说，随风而去才是最好的归宿。",
                     "zh_Hant": "即使到現在，也有人相信赤王有朝一日能夠復活，但那是不可能的。一切的過去都如同被吹拂的砂礫，對過往之事來說，隨風而去才是最好的歸宿。",
-                    "ja": "今になっても、いつかスカーレットキング（キングデシェレト）が復活すると信じている人たちがいますが、そんなことはあり得ません。過去は、吹かれた砂のようなもの。風と共に去ってこそ、ゆくべき場所へと辿り着けましょう。",
+                    "ja": "今になっても、いつかキングデシェレトが復活すると信じている人たちがいますが、そんなことはあり得ません。過去は、吹かれた砂のようなもの。風と共に去ってこそ、ゆくべき場所へと辿り着けましょう。",
                     "ko": "아직도 적왕이 부활할 것이라고 믿는 사람들이 있지만 그건 불가능해, 과거는 모래알과도 같아서 바람 따라 흩어지는 게 자연스럽지",
                     "id": "Bahkan hingga kini masih ada sebagian orang yang yakin sepenuh hati bahwa Raja Deshret akan bangkit kembali, suatu hari nanti. Itu mustahil, cuma angan-angan belaka. Masa lalu layaknya butiran debu yang terbawa angin ke empat penjuru, dan manusia hanya bisa merelakan, biarkan angin mengantarkan semua ke tempat peristirahatan terakhirnya.",
                     "th": "แม้กระทั่งตอนนี้ ยังมีบางคนที่เชื่อว่าราชา Deshret จะฟื้นคืนชีพในสักวันหนึ่ง แต่นั่นเป็นไปไม่ได้หรอก ทุกสิ่งในอดีตก็เหมือนเม็ดทรายที่กระจัดกระจาย สิ่งที่สามารถทำได้คือปล่อยให้สายลมพัดพาไปยังที่พำนักแห่งสุดท้าย",
                     "vi": "Đến tận bây giờ cũng còn có người tin rằng Vua Deshret có một ngày sẽ hồi sinh. Nhưng đó là chuyện không thể, quá khứ rồi sẽ như cát bụi bay đi, đối với chuyện cũ mà nói, thả mình theo gió mới là nơi yên nghỉ tốt nhất.",
                     "de": "Bis jetzt gibt es immer noch Leute, die glauben, dass König Deshret eines Tages auferstehen würde. Aber das ist nicht möglich. Die Vergangenheit ist nichts als vom Wind verstreute Sandkörner. Das Beste, was wir tun können, ist, sie vom Wind zu ihrer letzten Ruhestätte tragen zu lassen.",
-                    "fr": "Même aujourd'hui, certains persistent à croire que Deshret, le roi écarlate, va ressusciter. Mais ce n'est pas possible. Le passé n'est que des grains de sable dispersés par le vent. Le mieux que nous puissions faire est de les laisser partir, car se faire emporter par le vent est le meilleur dénouement qu'ils puissent connaître.",
-                    "pt": "Mesmo agora, ainda existem aqueles que acreditam que o Rei Escarlate (Rei Deshret) será revivido. Mas não é possível. O passado não é nada se não como um grão de areia, espalhado pelos quatro ventos. O melhor que podemos fazer é deixar ir, e deixar o vento carregá-lo até o local do seu descanso final.",
-                    "es": "Incluso hoy en día hay quienes se aferran a la creencia de que Deshret, el Rey Escarlata, volverá a la vida. Pero eso es imposible. El pasado no es más que un puñado de arena disperso en los cuatro vientos. Lo mejor que podemos hacer es dejar que el viento lleve esos granos a su último lecho.",
-                    "ru": "Даже сейчас некоторые люди верят, что Алый Король (царь Дешрет) однажды воскреснет, но это невозможно. Прошлое - россыпь песчинок, пусть они летят вслед за ветром, не стоит пытаться их удержать."
+                    "fr": "Même aujourd'hui, certains persistent à croire que le roi Deshret va ressusciter. Mais ce n'est pas possible. Le passé n'est que des grains de sable dispersés par le vent. Le mieux que nous puissions faire est de les laisser partir, car se faire emporter par le vent est le meilleur dénouement qu'ils puissent connaître.",
+                    "pt": "Mesmo agora, ainda existem aqueles que acreditam que o Rei Deshret será revivido. Mas não é possível. O passado não é nada se não como um grão de areia, espalhado pelos quatro ventos. O melhor que podemos fazer é deixar ir, e deixar o vento carregá-lo até o local do seu descanso final.",
+                    "es": "Incluso hoy en día hay quienes se aferran a la creencia de que el Rey Deshret volverá a la vida. Pero eso es imposible. El pasado no es más que un puñado de arena disperso en los cuatro vientos. Lo mejor que podemos hacer es dejar que el viento lleve esos granos a su último lecho.",
+                    "ru": "Даже сейчас некоторые люди верят, что царь Дешрет однажды воскреснет, но это невозможно. Прошлое - россыпь песчинок, пусть они летят вслед за ветром, не стоит пытаться их удержать."
                 },
                 "condition": {
                     "en": "Unlocks at Friendship Lv. 4",
@@ -3376,7 +3376,7 @@
                     "ko": "내 취미는 마을에서 산책하는 거야. 변함없는 마을을 보면 오늘이 항상 아름다웠던 과거처럼 느껴지거든",
                     "id": "Aku selalu suka jalan-jalan di desa. Melihat semuanya tenang membuatku merasa ... kalau hari ini masih sama seperti kemarin, dan kemarin masih sama seperti hari-hari sebelumnya ... Semuanya menyenangkan di sini, selalu begitu sejak zaman dahulu kala.",
                     "th": "การได้เดินเล่นในหมู่บ้านเป็นสิ่งที่ฉันชอบทำที่สุด ได้เห็นว่าทุกอย่างเรียบร้อยดี เป็นความรู้สึกว่าวันนี้เป็นเหมือนเมื่อวาน เมื่อวานก็เหมือนกับอดีต และอดีตก็มีแต่สิ่งดี ๆ อยู่เสมอ",
-                    "vi": "Sở thích của tôi là đi dạo trong làng. Thấy được mọi thứ vẫn ổn sẽ khiến tôi hôm nay sẽ có cảm giác giống hôm qua, hôm qua sẽ giống quá khứ, mà quá khứ thì sẽ luôn tốt đẹp.",
+                    "vi": "Sở thích của tôi là đi dạo trong làng. Thấy được mọi thứ vẫn ổn sẽ khiến tôi hôm nay có cảm giác giống hôm qua, hôm qua sẽ giống quá khứ, mà quá khứ thì sẽ luôn tốt đẹp.",
                     "de": "Ich liebe es am meisten, im Dorf spazierenzugehen. Zu sehen, dass alles gut ist, gibt mir das Gefühl, dass heute wie gestern ist, gestern wie die Vergangenheit ist und die Vergangenheit immer gut ist ...",
                     "fr": "Ce que je préfère, c'est me promener dans le village. Voir que tout va bien me donne l'impression que... si aujourd'hui est comme hier, et si hier est comme tous les jours précédents... Les choses ont toujours été agréables ici.",
                     "pt": "Sempre adoro caminhar pela vila. Ver que tudo está bem me dá uma sensação de que... como se hoje fosse como ontem, e ontem como todos os dias anteriores... as coisas sempre foram bem confortáveis por aqui, por toda a história.",
@@ -4038,7 +4038,7 @@
                     "zh_Hant": "聽取我的戰禱！",
                     "ja": "この祈りを聞きなさい！",
                     "ko": "결전의 기도!",
-                    "id": "Ini doa kami!",
+                    "id": "Dengar doaku!",
                     "th": "จงรับฟังถ้อยคำสดุดี!",
                     "vi": "Hãy lắng nghe lời chúc phúc của tôi!",
                     "de": "Erhöre mein Gebet!",
@@ -4515,7 +4515,7 @@
                 "title": {
                     "en": "Heavy Hit Taken: I",
                     "zh_Hans": "重受击·其一",
-                    "zh_Hant": "重受擊·其一",
+                    "zh_Hant": "受重擊·其一",
                     "ja": "重ダメージを受ける·1",
                     "ko": "강공격 피격·첫 번째",
                     "id": "Menerima Serangan Hebat: I",
@@ -4548,7 +4548,7 @@
                 "title": {
                     "en": "Heavy Hit Taken: II",
                     "zh_Hans": "重受击·其二",
-                    "zh_Hant": "重受擊·其二",
+                    "zh_Hant": "受重擊·其二",
                     "ja": "重ダメージを受ける·2",
                     "ko": "강공격 피격·두 번째",
                     "id": "Menerima Serangan Hebat: II",
@@ -4702,9 +4702,9 @@
                     "ko": "이색 눈동자를 가지고 있는 캔디스는 아루 마을의 「수호자」다.\n캔디스는 아루 마을을 방문한 여행자들을 향해 최대의 선의를 보여주곤 한다. 비록 그들 중에는 무례한 이도 적지 않았지만, 상대가 바로 실수를 인정하고 그 태도를 고친다면 더 이상 잘못을 추궁하지는 않았다.\n캔디스는 마을의 규칙을 가장 중요하게 생각한다. 그 규칙을 존중하고 또 지킨다면 누구나 아루 마을에서 잠시 쉬었다 갈 수 있었다.\n그러나 이 관용을 연약함의 증거로 여기고 아루 마을에서 범죄를 저지른다면, 그자는 대가를 치러야 했다.\n그들은 모두 캔디스의 창과 방패 앞에서 패배를 인정해야만 했다.\n아흐마르의 자손이자 사막의 주민인 동시에 수호자라는 무거운 책임을 짊어지고 있는 캔디스는 영원히 아루 마을을 지키리라 맹세했다.\n「우리 마을은 질서를 지키는 자만을 환영합니다.」",
                     "id": "Candace yang kedua bola matanya berbeda warna adalah pelindung Desa Aaru.\nCandace selalu berbaik hati kepada semua pengembara yang mengunjungi desa Aaru. Dia juga tidak pernah membesar-besarkan masalah kecil asalkan pelakunya mau mengkoreksi diri dan menebus kesalahan.\nBagi Candace, aturan desa adalah hal yang paling penting. Asalkan bisa menghormati batas-batas yang ada, siapa pun akan diizinkan untuk beristirahat di Desa Aaru.\nCelakalah mereka yang mengira bahwa toleransi tinggi yang diberikan Candace sebagai sebentuk kelemahan. Barang siapa berani macam-macam di Desa Aaru, dia akan membayar dengan harga yang sangat mahal.\nKetika itulah dia akan mengetahui bahwa tombak dan tameng Candace adalah senjata yang sangat menakutkan.\nKeturunan Al-Ahmar, penghuni padang pasir, pelindung ... Candace dan segala identitas yang mendefinisikan dirinya, memikul tanggung jawab abadi untuk melindungi Desa Aaru.\n\"Desa ini hanya menerima orang-orang yang menaati peraturan.\"",
                     "th": "Candace ผู้มีสีของดวงตาต่างกันนั้นรับหน้าที่เป็น \"ผู้คุ้มกัน\" ของหมู่บ้าน Aaru\nCandace มักจะแสดงความมีน้ำใจอย่างสุดซึ้งต่อนักเดินทางที่มาเยี่ยมเยียนหมู่บ้าน Aaru อยู่เสมอ สำหรับพฤติกรรมหยาบคายของคนบางคน ขอแค่อีกฝ่ายแก้ไขมันได้ทันเวลา Candace ก็จะไม่ถือสาเอาความอีก\nในสายตาของ Candace กฎของหมู่บ้านนั้นคือสิ่งที่สำคัญที่สุด ตราบใดที่เคารพขอบเขตเหล่านี้ ไม่ว่าใครก็สามารถเข้ามาพักผ่อนที่หมู่บ้าน Aaru ได้\nแต่หากความใจกว้างนี้ถูกมองว่าเป็นจุดอ่อน ผู้ที่หมายจะเข้ามาทำเรื่องไม่ดีในหมู่บ้าน Aaru คงต้องชดใช้ในสิ่งที่ทำอย่างสาสม\nเมื่อถึงตอนนั้นพวกเขาก็จะได้พบว่า หอกและโล่ของ Candace นั้นเป็นอาวุธที่น่ากลัวที่สุด\nทายาทแห่ง Al-Ahmar, ชาวทะเลทราย และผู้คุ้มกัน... Candace ผู้มีหลากหลายตัวตน ได้แบกรับหน้าที่ในการคุ้มกันหมู่บ้าน Aaru ชั่วนิรันดร์\n\"หมู่บ้านแห่งนี้ ต้อนรับเฉพาะผู้ที่เคารพกฎเกณฑ์เท่านั้น\"",
-                    "vi": "Candace - người có đôi mắt với màu sắc khác biệt, đảm nhiệm chức vụ người thủ hộ Làng Aaru.\nCandace luôn bày tỏ thiện ý tuyệt đối với tất cả những du khách đến thăm Làng Aaru, còn đối với những người vô tình có những hành động thất lễ, chỉ cần đối phương kịp thời sửa sai, cô cũng sẽ không truy cứu nữa.\nTrong mắt Candace, quy tắc của làng là quan trọng nhất. Miễn là những ranh giới này được tôn trọng, thì bất kỳ ai cũng có thể nghỉ ngơi ở Làng Aaru.\nNhưng nếu sự khoan dung này bị coi là nhu nhược, thì những kẻ cố gắng làm những điều phi pháp ở Làng Aaru sẽ phải trả cái giá rất đắt.\nĐến lúc đó, họ sẽ phát hiện ra thương và khiên của Candace là thứ vũ khí đáng sợ nhất.\nHậu duệ của Al-Ahmar, cư dân sa mạc, người thủ hộ... Candace - người mang rất nhiều thân phận đã gánh trên vai trách nhiệm mãi mãi bảo vệ Làng Aaru.\n\"Ngôi làng này chỉ chào đón những người tuân thủ trật tự.\"",
+                    "vi": "Candace - người có đôi mắt với màu sắc khác biệt, đảm nhiệm chức vụ người thủ hộ Làng Aaru.\nCandace luôn bày tỏ thiện ý tuyệt đối với tất cả những du khách đến thăm Làng Aaru, còn đối với những người vô tình có những hành động thất lễ, chỉ cần đối phương kịp thời sửa sai, cô cũng sẽ không truy cứu nữa.\nTrong mắt Candace, quy tắc của làng là quan trọng nhất. Miễn là những ranh giới này được tôn trọng, thì bất kỳ ai cũng có thể nghỉ ngơi ở Làng Aaru.\nNhưng nếu sự khoan dung này bị coi là nhu nhược, thì những kẻ cố gắng làm những điều phi pháp ở Làng Aaru sẽ phải trả cái giá rất đắt.\nĐến lúc đó, họ sẽ phát hiện ra thương và khiên của Candace là thứ vũ khí đáng sợ nhất.\nHậu duệ của Al-Ahmar, cư dân sa mạc, người thủ hộ... Candace - người mang rất nhiều thân phận gánh trên vai trách nhiệm mãi mãi bảo vệ Làng Aaru.\n\"Ngôi làng này chỉ chào đón những người tuân thủ trật tự.\"",
                     "de": "Candace, die heterochromatische Iris hat, ist die „Wächterin“ des Aaru-Dorfs.\nSie erweist allen Reisenden, die das Aaru-Dorf besuchen, immer die größte Freundlichkeit. Selbst wenn sich manche Leute unhöflich verhalten, wird Candace diese unbeabsichtigten Fehler nicht verfolgen, solange sie sich rechtzeitig korrigieren.\nIn Candaces Augen sind die Regeln des Dorfes das Wichtigste. Solange diese Regeln eingehalten werden, kann sich jeder in Aaru-Dorf ausruhen.\nAber wer diese Art von Toleranz als Schwäche ansieht und versucht, illegale Dinge in Aaru-Dorf zu tun, wird definitiv einen hohen Preis dafür zahlen.\nDann wird man feststellen, dass Candaces Speer und Schild die furchterregendsten Waffen sind.\nNachkommin von Al-Ahmar, Kind der Wüste, Wächterin ... Candace, die mehrere Identitäten hat, trägt die ewige Verantwortung, das Aaru-Dorf zu beschützen.\n„Dieses Dorf heißt nur diejenigen willkommen, die sich an die Regeln halten.“",
-                    "fr": "Candace aux yeux vairons est la protectrice du village d'Aaru.\nElle fait preuve de la plus grande gentillesse envers les visiteurs et également d'indulgence quand ils commettent sans le savoir certaines offenses, à condition qu'ils se rattrapent à temps. À ses yeux, les règles du village sont très importantes et n'importe qui est autorisé à s'y reposer du moment qu'elles sont respectées.\nCependant, gare à ceux qui abuseraient de cette tolérance pour mener des activités illégales : Candace s'assurera qu'ils en paient le prix.\nIls découvriront alors que sa lance et son bouclier sont les armes les plus redoutables de toutes.\nDescendante d'Al-Ahmar, membre du peuple du désert, protectrice... Femme aux multiples identités, c'est aussi à Candace que revient également le devoir éternel de protéger le village...\n« Ce village n'accueille que ceux qui respectent les règles. »",
+                    "fr": "Candace aux yeux vairons est la protectrice du village d'Aaru.\nElle fait preuve de la plus grande gentillesse envers les visiteurs et également d'indulgence quand ils commettent sans le savoir certaines offenses, à condition qu'ils se rattrapent à temps. À ses yeux, les règles du village sont très importantes et n'importe qui est autorisé à s'y reposer du moment qu'elles sont respectées.\nCependant, gare à ceux qui abuseraient de cette tolérance pour mener des activités illégales : Candace s'assurera qu'ils en paient le prix.\nIls découvriront alors que sa lance et son bouclier sont les armes les plus redoutables de toutes.\nDescendante d'Al-Ahmar, membre du peuple du désert, protectrice... Femme aux multiples identités, c'est aussi à Candace que revient le devoir éternel de protéger le village...\n« Ce village n'accueille que ceux qui respectent les règles. »",
                     "pt": "Candace, que tem pupilas heterocromáticas, trabalha como a Guardiã da Vila Aaru.\nEla é sempre gentil com os viajantes que chegam à vila e não se preocupa muito com a grosseria das pessoas, desde que elas a corrijam a tempo. Aos olhos de Candace, as regras da vila são as mais importantes. Contanto que essas regras sejam respeitadas, qualquer um pode descansar na Vila Aaru.\nMas não confunda essa tolerância com fraqueza, pois aqueles que tentarem fazer algo ilegal na Vila Aaru definitivamente pagarão o preço.\nEles descobrirão que a lança e o escudo de Candace são realmente aterrorizantes.\nHerdeira de Al-Ahmar, habitante do deserto, guardiã... Candace, que cumpre tantos papéis, carrega a eterna responsabilidade de proteger a Vila Aaru.\n\"Esta vila acolhe apenas aqueles que respeitam as regras.\"",
                     "es": "Candace, uno de cuyos rasgos más característicos es la heterocromía, es la custodia de la Aldea Aaru.\nSiempre es amable con los viajeros que llegan a la aldea y no insiste demasiado en la falta de cortesía de las personas, siempre y cuando la corrijan a tiempo.\nPara Candace, las tradiciones de la Aldea Aaru son lo más importante y, mientras las respeten, todas las personas son bienvenidas para descansar en la aldea.\nAhora bien, si alguien se toma eso como una debilidad e intenta hacer algo ilegal, pagará el mayor de los precios.\nAhí es cuando se dan cuenta de que la lanza y el escudo de Candace son de lo más temibles.\nDescendiente de al-Ahmar, habitante del desierto, custodia... Ella es todo eso, pero también tiene la eterna labor de proteger la Aldea Aaru.\n“En esta aldea solo damos la bienvenida a quienes respetan el orden”.",
                     "ru": "Кандакия - девушка с разноцветными глазами, Защитница деревни Аару. Она рада всем путникам, что приходят в деревню Аару, и даже случись гостю допустить оплошность, Кандакия простит его, если он вовремя загладит свою вину. Для Кандакии правила деревни превыше всего. Если путник уважает эти правила, он всегда найдёт приют в деревне Аару. Но те, кто принимают её доброту за слабость и нарушают правила деревни, дорого платят за своё безрассудство. Очень скоро они понимают, что нет оружия опасней, чем копьё и щит в руках Кандакии. Наследница аль-Ахмара, дочь пустынного народа, Защитница... Кандакия всегда помнит о том, кто она такая, и несёт на своих плечах вечный долг защиты деревни Аару.\n«Мы в деревне рады только тем, кто уважает порядок»."
@@ -4740,7 +4740,7 @@
                     "fr": "« Le Village d'Aaru est l'ultime refuge des partisans du roi Deshret.\nLa mission du protecteur de ce village est de le protéger jusqu'à ce que le dernier membre du peuple du roi Deshret disparaisse. »\nÀ l'âge de huit ans, Candace a été désignée comme la nouvelle protectrice. La personne qui lui a remis cette responsabilité l'avait mise en garde.\nAvec la mort du roi Deshret, ses descendants devaient s'estimer heureux d'avoir un refuge en marge du monde.\nDes générations de protecteurs se sont succédé en silence et ont défendu de nombreux villageois jusqu'à ce qu'ils obtiennent la paix éternelle après leur mort en tant que « descendants du roi Deshret ».\nIl fut un temps où les habitants du Village d'Aaru souhaitaient y rendre paisiblement leur dernier souffle.\nCependant, les choses qu'ils ont toujours connues seront amenées à changer avec l'émergence d'une nouvelle vie dans ce village antique...",
                     "pt": "\"A Vila Aaru é o último local de refúgio para os descendentes do Rei Deshret.\"\n\"A missão da guardiã da Vila Aaru é proteger a vila até que o último descendente do Rei Deshret desapareça.\"\nAos oito anos, Candace foi oficialmente nomeada como a nova \"Guardiã\", e quem passou a posição a ela explicou isso.\nApós a morte do Rei Deshret, seus descendentes poderem ter um refúgio no mundo é realmente uma bênção.\nGeração após geração, os guardiões desempenharam seus deveres em silêncio, protegendo inúmeros habitantes até eles morrerem como \"descendentes do Rei Deshret\" e receberem o abraço do descanso eterno.\nDesaparecer em paz já foi o grande desejo compartilhado pelos residentes da Vila Aaru.\nEntretanto, quando uma nova vida surge nesta antiga vila... tudo que eles acreditam pode precisar mudar um pouco.",
                     "es": "“La Aldea Aaru es el último refugio que les queda a los descendientes del Rey Deshret, y la misión de los custodios de la aldea es defenderla hasta el día en que desaparezca el último de esos descendientes”.\nA los ocho años, Candace ya había sido nombrada la nueva custodia, y esa frase es lo que le dijo la persona que le pasó la responsabilidad.\nTras la muerte del Rey Deshret, era una bendición que sus descendientes pudieran tener un refugio como este en el mundo.\nGeneración tras generación, los custodios cumplían su labor silenciosamente para proteger a innumerables aldeanos hasta que fallecieran como “descendientes del Rey Deshret” y obtuvieran el descanso eterno.\nPoder desaparecer en paz era un deseo largamente anhelado por la gente de la Aldea Aaru.\nSin embargo, cuando en la aldea aparece nueva vida, es probable que todo lo que conocen tenga que cambiar un poco.",
-                    "ru": "«Деревня Ару - последнее пристанище потомков царя Дешрета».\n«Миссия Защитника - охранять деревню, пока не умрёт последний подданный царя Дешрета».\nТак, сдавая свой пост, говорил Кандакии её предшественник. Когда Кандакии исполнилось восемь лет, она была выбрана новой Защитницей деревни Аару. Царь Дешрет мёртв, и надо радоваться хотя бы тому, что его потомки смогли найти убежище от мира в этой деревне. Поколение за поколением Защитники молча исполняют свой долг, охраняя жителей деревни, пока последний «потомок царя Дешрета» не отойдёт в иной мир и не обретёт вечный покой. Когда-то люди из деревни Аару мечтали об одном: скрыться от мира в этом уголке и тихо доживать свою жизнь. Но однажды в эту старую деревню вдохнули новую жизнь... И людям пришлось пересмотреть то, что они знали до этого."
+                    "ru": "«Деревня Аару - последнее пристанище потомков царя Дешрета».\n«Миссия Защитника - охранять деревню, пока не умрёт последний подданный царя Дешрета».\nТак, сдавая свой пост, говорил Кандакии её предшественник. Когда Кандакии исполнилось восемь лет, она была выбрана новой Защитницей деревни Аару. Царь Дешрет мёртв, и надо радоваться хотя бы тому, что его потомки смогли найти убежище от мира в этой деревне. Поколение за поколением Защитники молча исполняют свой долг, охраняя жителей деревни, пока последний «потомок царя Дешрета» не отойдёт в иной мир и не обретёт вечный покой. Когда-то люди из деревни Аару мечтали об одном: скрыться от мира в этом уголке и тихо доживать свою жизнь. Но однажды в эту старую деревню вдохнули новую жизнь... И людям пришлось пересмотреть то, что они знали до этого."
                 },
                 "condition": {
                     "en": "Unlocks at Friendship Lv. 2",
@@ -4869,7 +4869,7 @@
                     "ru": "История персонажа 4"
                 },
                 "text": {
-                    "en": "Those who do not respect the rules shall be the \"enemies\" of Aaru Village.\nWhether they be Eremites hiding in the sands, bandits disguised as adventurers, or Treasure Hoarders attempting to steal goods...Anyone who dares to invade the village, no matter how they may try to hide and escape, will eventually receive the punishment they deserve.\nThose who sincerely confess their guilt will be forgiven and given enough supplies to cross the sands, but never again will they be permitted to show their faces around Aaru Village.\nAs for the more recalcitrant sort...Their despicable souls shall find company only with the desert sands.\nA former member of The Eremites once warned his companions that Candace, the terrifying Guardian of the village, is a true descendant of King Deshret.\nThe shield in her hand possesses the blessing of Al-Ahmar, such that as long as its wielder holds it tightly, every grain in the great desert will heed her call. So if Candace so wishes, she could even send forth a huge sandstorm to engulf all her foes.\nNot only that, her amber left eye can also perceive the future and read the fates of others. Indeed, such is her terrible might that none can ever escape her pursuit.\nSuch are people's beliefs concerning Candance, that she has swept all of Aaru Village's enemies away by virtue of these divine powers.",
+                    "en": "Those who do not respect the rules shall be the \"enemies\" of Aaru Village.\nWhether they be Eremites hiding in the sands, bandits disguised as adventurers, or Treasure Hoarders attempting to steal goods... Anyone who dares to invade the village, no matter how they may try to hide and escape, will eventually receive the punishment they deserve.\nThose who sincerely confess their guilt will be forgiven and given enough supplies to cross the sands, but never again will they be permitted to show their faces around Aaru Village.\nAs for the more recalcitrant sort... Their despicable souls shall find company only with the desert sands.\nA former member of The Eremites once warned his companions that Candace, the terrifying Guardian of the village, is a true descendant of King Deshret.\nThe shield in her hand possesses the blessing of Al-Ahmar, such that as long as its wielder holds it tightly, every grain in the great desert will heed her call. So if Candace so wishes, she could even send forth a huge sandstorm to engulf all her foes.\nNot only that, her amber left eye can also perceive the future and read the fates of others. Indeed, such is her terrible might that none can ever escape her pursuit.\nSuch are people's beliefs concerning Candance, that she has swept all of Aaru Village's enemies away by virtue of these divine powers.",
                     "zh_Hans": "不遵纪者，将是阿如村的「敌人」。\n躲藏在沙海里的镀金旅团，伪装成冒险家试图蒙混过关的盗贼，妄图劫掠货物的盗宝团…任何敢于侵扰这座村庄的人，无论用何种方法试图躲藏逃避，最后都会领受他们应受的惩罚。\n诚心俯首认罪者将获得宽恕，获得一份足够他们跨越沙海的补给，但作为代价，他们从此不能在阿如村周围出现。\n至于负隅顽抗者…其卑劣灵魂，从此只可与沙砾为伴。\n一位离开沙漠的镀金旅团成员曾警告他的同伴：阿如村里那个恐怖的「守护者」坎蒂丝，是真正的赤王后裔。\n她手中那面盾牌上有着阿赫玛尔的祝福。只要紧握盾牌，大赤沙海中每一颗沙砾都会听从她的召唤。只要她想，甚至能掀起滔天沙暴吞没所有敌人。\n不仅如此，她那颗琥珀色的左眼还可以看穿未来，分辨人的命运。她是如此骇人，没有谁能逃过她的追猎。\n人们相信，坎蒂丝正是凭借这种神力扫清了所有阿如村的「敌人」。",
                     "zh_Hant": "不遵紀者，將是阿如村的「敵人」。\n躲藏在沙海裡的鍍金旅團、偽裝成冒險家試圖蒙混過關的盜賊、妄圖劫掠貨物的盜寶團…任何敢於侵擾這座村莊的人，無論用何種方法試圖躲藏逃避，最後都會領受他們應受的懲罰。\n誠心俯首認罪者將獲得寬恕，獲得一份足夠他們跨越沙海的補給，但作為代價，他們從此不得在阿如村周圍現身。\n至於負隅頑抗者…其卑劣的靈魂，從此只能與沙礫為伴。\n一位離開沙漠的鍍金旅團成員曾警告他的同伴：阿如村裡那個恐怖的「守護者」坎蒂絲，是真正的赤王後裔。\n她手中那面盾牌上有著阿赫瑪爾的祝福。只要緊握盾牌，大赤沙海中每一顆沙礫都會聽從她的召喚。只要她想，甚至能掀起滔天沙暴吞沒所有敵人。\n不僅如此，她那顆琥珀色的左眼還可以看穿未來，分辨人的命運。她是如此駭人，沒有誰能逃過她的追獵。\n人們相信，坎蒂絲正是憑藉這種神力掃清了所有阿如村的「敵人」。",
                     "ja": "掟を守らぬ者はアアル村の「敵」である。\n砂漠に身を潜めるエルマイト旅団、冒険者になりすましてやり過ごそうとする盗賊、荷物を奪うため現れる宝盗団……この村を脅かそうとする者は、どんな手段で逃げ隠れしようとも最終的には相応の罰を受けることになる。\n心から罪を認めて反省した者は赦され、砂漠を越えるのに十分な補給も与えられるが、その代償として彼らは二度とアアル村の周囲に姿を見せてはならない。\n頑なに抵抗を続ける者の場合…その卑劣な魂は、その場で砂礫と運命を共にするだろう。\n砂漠を離れたあるエルマイト旅団のメンバーはかつて仲間に対し、アアル村の恐ろしい「ガーディアン」キャンディスこそ真のキングデシェレトの末裔だと警告した。\n彼女の盾にはアフマルの祝福が宿っている。盾を手にすれば、大赤砂海のすべての砂礫が彼女の呼びかけに従う。彼女が願えば、巨大な砂嵐を引き起こしてすべての敵を呑み込むことすら可能なのだ。\nそれだけに留まらず、彼女の琥珀色をした左目には未来を見通し、相手の運命を見抜く力があるという。これほどまでに恐ろしい存在の彼女だ、その追跡から逃れられる者は誰一人としていない。\n人々は、キャンディスがこれら神通力でアアル村にとっての「敵」をすべて一掃したと信じている。",
@@ -4963,7 +4963,7 @@
                     "ru": "Украшения Кандакии"
                 },
                 "text": {
-                    "en": "Candace often buys all kinds of trinkets from merchants who visit Aaru Village.\nHairpins adorned with aquamarine beads, headbands made of silk and satin, gilded necklaces, metal bracelets engraved with Kalpalata Lotus patterns, pendants with the emblems of the Akademiya's colleges drawn upon them...\nWhile Dehya has encouraged her to dress up more often and use the Mora she spends on herself, Candace feels that some things are too fragile to survive her daily work environment, and so she puts them deep in her wardrobe.\nSo it seems that these trinkets will come in handy only when Candace temporarily puts her duties aside and changes into other clothes to have a rest in the shade — or perhaps she might just give it to a friend as a gift.",
+                    "en": "Candace often buys all kinds of trinkets from merchants who visit Aaru Village.\nHairpins adorned with aquamarine beads, headbands made of silk and satin, gilded necklaces, metal bracelets engraved with Kalpalata Lotus patterns, pendants with the emblems of the Akademiya's Darshans drawn upon them...\nWhile Dehya has encouraged her to dress up more often and use the Mora she spends on herself, Candace feels that some things are too fragile to survive her daily work environment, and so she puts them deep in her wardrobe.\nSo it seems that these trinkets will come in handy only when Candace temporarily puts her duties aside and changes into other clothes to have a rest in the shade — or perhaps she might just give it to a friend as a gift.",
                     "zh_Hans": "坎蒂丝经常从来访阿如村的客商手里收购各类小饰品。\n缀有水蓝色珠石的发卡，绸缎制发带，鎏金的颈饰，刻有劫波莲花纹的金属手环，绘有教令院各大学院纹章的挂坠…\n虽然迪希雅鼓励她平日多打扮，把花了的钱都用在身上，但坎蒂丝回想自己的日常工作环境，觉得有些东西还是太脆弱了，便只能将它们收入衣柜深处。\n看来，只能等坎蒂丝暂时卸下「守护者」职责，换上其他衣服到荫凉地稍作休憩，这些小饰品才能派上用场吧。或者，干脆拿来当礼物送给朋友好了。",
                     "zh_Hant": "坎蒂絲經常從來訪阿如村的客商手裡收購各類小飾品。\n綴有水藍色珠石的髮簪、綢緞製髮帶、鎏金頸飾、刻有劫波蓮花紋的金屬手環、繪有教令院各大學院紋章的掛墜…\n雖然迪希雅鼓勵她平日多打扮，把花了的錢都用在身上，但坎蒂絲回想自己的日常工作環境，覺得有些東西還是太脆弱了，便只能將它們收入衣櫃深處。\n看來，只能等坎蒂絲暫時卸下「守護者」職責，換上其他衣服到蔭涼地稍作休憩，這些小飾品才能派上用場吧。或者，乾脆拿來當禮物送給朋友好了。",
                     "ja": "キャンディスはよく、アアル村を訪れた客商から様々な装飾品を購入する。\n水色の石がはめ込まれたヘアピン、シルクでできたヘアバンド、金メッキが施された首飾り、カルパラタ蓮の模様が刻まれた金属の腕輪、教令院の各大学院の紋章が描かれたペンダントなど…\nディシアからは、普段からもっとおしゃれをしてお金を自分のために使ったらどうだと勧められるが、装飾品の中にはあまりに脆いものもある。普段の仕事環境のことを考えると、せっかく買った品を壊してしまうのではないかとキャンディスは心配し、結局それらを衣装棚の奥にしまっていた。\nどうやら、これらの装飾品はキャンディスが一時的に「ガーディアン」の職務から解放され、他の服に着替えて日陰で休む時になって初めて役立ちそうだ。もしくは、いっそのことプレゼントとして友人にあげてしまう手もある。",
@@ -4973,7 +4973,7 @@
                     "vi": "Candace thường mua các loại trang sức nhỏ từ những thương nhân đến thăm Làng Aaru.\nKẹp tóc đính ngọc trai xanh nước biển, băng đô vải lụa, vòng cổ mạ vàng, vòng tay kim loại khắc họa tiết hoa sen Kalpalata, mặt dây chuyền vẽ huy hiệu của các học viện lớn thuộc Giáo Viện...\nMặc dù Dehya hay khuyến khích cô ấy thường ngày nên ăn diện nhiều hơn và đeo lên người những thứ mà cô đã tốn tiền mua, nhưng Candace nghĩ đến công việc thường ngày của mình, cảm thấy một số thứ quá mỏng manh, nên lại đành cất vào trong tủ.\nXem ra, đành phải đợi đến khi Candace tạm thời gác lại trách nhiệm của \"người thủ hộ\", khoác lên mình bộ trang phục khác và đến một nơi mát mẻ để nghỉ ngơi, thì những trang sức này mới phát huy được công dụng. Hoặc là, dứt khoát tặng nó cho bạn bè như một món quà luôn cho rồi.",
                     "de": "Candace kauft oft verschiedene Schmuckstücke von Geschäftsreisenden, die das Aaru-Dorf besuchen.\nHaarspangen mit Aquamarin, Stirnbänder aus Seidensatin, vergoldete Halsketten, mit Kalpalata-Lotos gravierte Metallarmbänder, Anhänger mit den Abzeichen der verschiedenen Schulen der Akademie ...\nObwohl Dehya Candace ermutigte, das verdiente Geld dazu zu verwenden, um sich schick zu machen, fand Candace, dass einige Schmuckstücke angesichts ihrer täglichen Arbeitsumgebung zu zerbrechlich waren. Daher kann sie diese Schmuckstücke nur im Schrank einschließen.\nSie scheinen nur dann nützlich zu sein, wenn Candace vorübergehend von der Rolle der „Wächterin“ befreit ist und andere Kleidung tragen kann. Alternativ können sie auch an Freunde verschenkt werden.",
                     "fr": "Candace se procure régulièrement des bibelots auprès des marchands qui visitent le Village d'Aaru.\nÉpingles à cheveux ornées de perles aquamarine, bandeaux en satin, colliers dorés, bracelets en métal gravés de kalpalotus, pendentifs avec les blasons des darshans de l'Académie...\nBien que Dehya l'ait encouragée à se faire belle plus régulièrement et à dépenser son argent pour elle-même, Candace estime que ces objets sont trop fragiles pour les porter lors de son travail et les garde dans son armoire.\nCes ornements ne trouveront leur utilité qu'une fois que Candace mettra son devoir de protectrice de côté pour changer de tenue et se reposer à l'ombre. Elle pourrait également les offrir à une amie ?",
-                    "pt": "Candace frequentemente compra todos os tipos de bugigangas dos comerciantes que visitam a Vila Aaru.\nGrampos adornado com contas de água-marinha, faixas de cabelo de seda, colares dourados, braceletes de metal gravados com padrões de Lótus Kalpalata, pingentes pintados com emblemas de diferentes escolas da Academia...\nApesar de Dehya a encorajar a se arrumar mais frequentemente e gastar sua Mora com coisas para si mesma, Candace sente que alguns itens são frágeis demais para sobreviver ao seu dia-a-dia de trabalho. Por isso, ela os guarda no fundo de seu gaurda-roupa.\nParece que estas bugigangas só terão utilidade quando Candace resolver tirar férias para descansar sem ser requisitada — ou talvez ela só possa usá-las como presentes.",
+                    "pt": "Candace frequentemente compra todos os tipos de bugigangas dos comerciantes que visitam a Vila Aaru.\nGrampos adornados com contas de água-marinha, faixas de cabelo de seda, colares dourados, braceletes de metal gravados com padrões de Lótus Kalpalata, pingentes pintados com emblemas de diferentes escolas da Academia...\nApesar de Dehya a encorajar a se arrumar mais frequentemente e gastar sua Mora com coisas para si mesma, Candace sente que alguns itens são frágeis demais para sobreviver ao seu trabalho diário. Por isso, ela os guarda no fundo de seu guarda-roupa.\nParece que estas bugigangas só terão utilidade quando Candace resolver tirar férias para descansar sem ser requisitada — ou talvez ela só possa usá-las como presentes.",
                     "es": "Candace tiene por costumbre comprar accesorios a los comerciantes de la Aldea Aaru.\nUna horquilla adornada con perlas aguamarinas, una diadema de satén y seda, colgantes bañados en oro, pulseras de metal grabados con el patrón del loto kalpa, colgantes grabados con los escudos de las distintas escuelas de la Academia...\nAunque Dehya continúa animándola a que se arregle más de vez en cuando, Candace es de la opinión de que la fragilidad de ese tipo de objetos no terminan de encajar con su puesto, por lo que la mayoría de sus accesorios permanecen ocultos en lo más profundo de su armario.\nAl parecer, Candace solo desempolva estas baratijas cuando decide descansar temporalmente de su extenuante trabajo como custodia de la Aldea Aaru y se viste con otros ropajes para descansar por fin a la sombra. O, tal vez, decida utilizarlas a modo de regalo para alguno de sus amigos.",
                     "ru": "Кандакия любит покупать разные безделушки у торговцев, что заходят в деревню Аару. Шпильки, украшенные голубыми бусинами, шёлковые и атласные ленты, позолоченные ожерелья, металлические браслеты с резьбой в виде лотосов кальпалата, подвески, украшенные эмблемами разных даршанов Академии... Дэхья говорит, что Кандакии стоит почаще наряжаться, не зря ведь она тратит мору на все эти безделушки. Но Кандакия понимает, что для её службы все эти украшения слишком хрупки, и потому держит их в шкафу. Похоже, звёздный час этих украшений придёт, когда Кандакия на время снимет с себя обязанности Защитницы, переоденется и усядется в теньке отдохнуть. Или подарит их кому-нибудь из подруг."
                 },
@@ -5013,7 +5013,7 @@
                     "en": "With outsiders pouring in, Aaru village was faced with a variety of unprecedented circumstances.\nThey now had Treasure Hoarders pretending to be businessmen within the village, mercenary groups hijacking trade caravans, unscrupulous vendors engaged in charlatanry...\nMoreover, after seeing people who came from abroad, the residents of Aaru Village gradually began to yearn for life outside. Gradually, people tried to go out to make a living, and fewer and fewer young people were willing to stay in the village.\nThe former Guardians had long been dissatisfied with Candace, who, as they saw it, had \"abandoned\" their traditions. Seeing that the village was in such a situation, they again held a meeting and prepared to challenge her.\n\"What we Guardians must do is maintain order in the village!\"\n\"Candace! What you have done will only cost this village its peace!\"\n\"Candace! Go and fulfill your duties now!\"\nAs the war of words swayed back and forth, the lance-wielding female warrior suddenly shot up to her full height.\n\"That's enough!\"\n\"If you only wish to protect the 'past' of this village, then do it yourself! Whether you wish to just remain in your homes or leave Aaru Village, that is up to you!\"\n\"I will not let the people of Aaru Village be bound by the past forever.\"\n\"If you can't move forward, then it's up to me to protect our future!\"\nThe old Guardians were intimidated by her, her young, fiery eyes making it impossible for them to come forward and question her further.\nBurning with rare anger, Candace hefted her long spear and stormed out of the dispute-ridden hut.\nAnd, as if in response to her convictions, a shining \"jewel\" had appeared at the tip of that lance, though she knew not when it had done so.\nThe eyes of the gods had found her, and they had given her their approval.\nA \"Vision\" is also a resolute heart — and no finer ornament than it may be found anywhere.",
                     "zh_Hans": "外人纷至沓来，阿如村因而面临各种前所未有的状况。\n假扮商人潜入村内的盗宝团，劫持商队的佣兵团体，偷奸耍滑的不良商贩…\n并且，在见过外面的人之后，阿如村居民逐渐开始向往外部生活。逐渐有人试着外出谋生，愿意留在村里的青年人越来越少。\n前任「守护者」们早就对「背弃」传统的坎蒂丝心怀不满。看到阿如村陷入这般境地，他们再次召开会议，对坎蒂丝发难。\n「守护者要做的，是维护村子的秩序！」\n「坎蒂丝！你所做的一切，只会让这座村子失去安宁！」\n「坎蒂丝！现在就去履行你的职责！」\n唇枪舌战之中，手持长枪的女战士猛然站起。\n「够了！\n「如果你们只想守护这座村子的『过去』，那就自己去守护吧！不管是枯坐在屋子里，还是离开阿如村，都随你们！\n「我不会让阿如村的人们永远被『过去』束缚。\n「假如你们无法前进，那就由我一个人守护大家的『未来』！」\n苍老的守护者们被女战士震慑住了。年轻的、如火焰一般炽热的眼神，令他们无论如何也没法上前继续诘问。\n带着罕见的愤怒，坎蒂丝提起长枪走出充斥着纷争的小屋。\n像是回应她的信念，那杆枪的枪尖上不知何时多了一枚闪耀的「珠宝」。\n神明的目光察觉到了她，为她送去认可。\n「神之眼」，即为坚定的心。它会是最好的首饰。",
                     "zh_Hant": "外人紛至沓來，阿如村因而面臨各種前所未有的狀況。\n假扮商人潛入村內的盜寶團、劫持商隊的傭兵團體、偷奸耍滑的不良商販…\n並且，在見過外面的人之後，阿如村居民逐漸開始嚮往外部生活。逐漸有人試著外出謀生，願意留在村裡的青年人越來越少。\n前任「守護者」們早就對「背棄」傳統的坎蒂絲心懷不滿。看到阿如村陷入這般境地，他們再次召開會議，對坎蒂絲發難。\n「守護者要做的，是維護村子的秩序！」\n「坎蒂絲！妳所做的一切，只會讓這座村子失去安寧！」\n「坎蒂絲！現在就去履行你的職責！」\n唇槍舌戰之中，手持長槍的女戰士猛然站起。\n「夠了！」\n「如果你們只想守護這座村子的『過去』，那就自己去守護吧！不管是枯坐在屋子裡，還是離開阿如村，都隨你們！」\n「我不會讓阿如村的人們永遠被『過去』束縛。」\n「假如你們無法前進，那就由我一個人守護大家的『未來』！」\n蒼老的守護者們被女戰士震懾住了。年輕的、如火焰一般熾熱的眼神，令他們無論如何也無法上前繼續詰問。\n帶著罕見的憤怒，坎蒂絲提起長槍走出充斥著紛爭的小屋。\n像是回應她的信念，那杆槍的槍尖上不知何時多了一枚閃耀的「珠寶」。\n神明的目光察覺到了她，為她送去認可。\n「神之眼」，即為堅定之心。它會是最好的首飾。",
-                    "ja": "部外者がひっきりなしに訪れ、アアル村は未だかつてない状況に置かれていた。\n商人を装って村に潜入した宝盗団、キャラバンを脅かす傭兵集団、悪巧みをする悪徳行商人…\nそれに、外の人々と関わったことでアアル村の住民たちは次第に外での生活に憧れを抱くようになった。そうして次第に外で生計を立てようとする人が増え、村に残りたいという若者が減ってきた。\n前任の「ガーディアン」たちは伝統に「背いた」キャンディスに早くから不満を抱いていた。アアル村がそんな状況に置かれているのを見て、彼らは再び会合を開きキャンディスを非難した。\n「ガーディアンがすべきことは、村の秩序を守ることではないのか！」\n「キャンディス！お前のやっていることはすべて、この村から平穏を奪うことにしかなってないではないか！」\n「キャンディス！今すぐ自分の職務を全うしろ！」\n激しい論争の最中、長槍を持った女戦士が猛然と立ち上がった。\n「もう十分です！」\n「あなたたちがこの村の『過去』をそんなに守りたいと言うのなら、自分で守ってください！家の中に閉じこもろうが、アアル村を離れようが、あなたたちの勝手です！」\n「私はアアル村の人々を永遠に『過去』に縛り付けておくことはしません。」\n「あなたたちが前に進もうとしないなら、私が一人でみんなの『未来』を守ります！」\n古参のガーディアンたちは女戦士の激昂する様子に驚いた。若く、炎のように燃え上がる瞳を前に、彼らはそれ以上問い詰めることなどできなかった。\nめったに見せない怒りと共に、キャンディスは長槍を持って争いにまみれた小屋をあとにした。\nまるで彼女の信念に応えるかのように、槍の先端にはいつの間にか輝く「宝石」があった。\n神の眼光が彼女に気づき、彼女を認めたのだ。\n「神の目」、それは揺るぎなき心。それは最良の装飾品となる。",
+                    "ja": "部外者がひっきりなしに訪れ、アアル村は未だかつてない状況に置かれていた。\n商人を装って村に潜入した宝盗団、キャラバンを脅かす傭兵集団、悪巧みをする悪徳行商人…\nそれに、外の人々と関わったことでアアル村の住民たちは次第に外での生活に憧れを抱くようになった。そうして次第に外で生計を立てようとする人が増え、村に残りたいという若者が減ってきた。\n前任の「ガーディアン」たちは伝統に「背いた」キャンディスに早くから不満を抱いていた。アアル村がそんな状況に置かれているのを見て、彼らは再び会合を開きキャンディスを非難した。\n「ガーディアンがすべきことは、村の秩序を守ることではないのか！」\n「キャンディス！お前のやっていることはすべて、この村から平穏を奪うことにしかなってないではないか！」\n「キャンディス！今すぐ自分の職務を全うしろ！」\n激しい論争の最中、長槍を持った女戦士が猛然と立ち上がった。\n「もう十分です！」\n「あなたたちがこの村の『過去』をそんなに守りたいと言うのなら、自分で守ってください！家の中に閉じこもろうが、アアル村を離れようが、あなたたちの勝手です！」\n「私はアアル村の人々を永遠に『過去』に縛り付けておくことはしません。」\n「あなたたちが前に進もうとしないなら、私が一人でみんなの『未来』を守ります！」\n古参のガーディアンたちは女戦士の激昂する様子に驚いた。若く、炎のように燃え上がる瞳を前に、彼らはそれ以上問い詰めることなどできなかった。\nめったに見せない怒りと共に、キャンディスは長槍を持って争いにまみれた小屋をあとにした。\nまるで彼女の信念に応えるかのように、槍の先端にはいつの間にか輝く「宝石」があった。\n神の眼差しが彼女に気づき、彼女を認めたのだ。\n「神の目」、それは揺るぎなき心。それは最良の装飾品となる。",
                     "ko": "외부인들이 유입되면서 아루 마을은 이전까지는 없었던 문제들과 마주하기 시작했다.\n상인으로 위장해 마을에 잠입하는 보물 사냥단과 캐러밴을 상대로 강도질을 저지르는 용병단, 그리고 교활하기 짝이 없는 불법 상인들까지…\n게다가 외부인들과 만난 아루 마을 사람들은 점차 바깥세상의 삶에 대해 동경하기 시작했고, 하나둘씩 생계를 위해 마을을 떠나기 시작했다. 이 때문에 마을에 남기를 원하는 청년들의 수는 눈에 띄게 줄어들었다.\n전통을 「버린」 캔디스에게 불만을 품고 있었던 전임 「수호자」들은 아루 마을에 이같은 상황이 벌어지자 다시 회의를 소집해 캔디스를 난처하게 만들었다.\n「수호자는 마을의 질서를 지켜야 해!」\n「캔디스! 네가 하고 있는 일은 결국 마을 사람들을 더 불안하게 만들 거야!」\n「캔디스! 지금 즉시 네 의무를 이행해라!」\n날카로운 논쟁이 계속해서 이어지자 장창을 든 여전사는 자리에서 벌떡 일어서며 말했다.\n「그만하세요!」\n「이 마을의 『과거』를 지키고 싶으시다면 저도 막지 않겠습니다. 방안에 가만히 앉아계시든지, 아니면 아루 마을을 떠나시든지 마음대로 하세요!」\n「하지만 전 아루 마을 주민들이 영원히 『과거』에만 묶여있는 걸 용납할 수 없어요.」\n「여러분들이 앞으로 나아가는 걸 거부한다면, 저 혼자서라도 모두의 『미래』를 지킬 겁니다!」\n이미 나이가 지긋한 늙은 수호자들은 여전사의 기세에 깜짝 놀라고 말았다. 불꽃처럼 뜨거운 젊은이의 눈빛에 그들 중 누구도 더 이상 불만을 내뱉지 못했다.\n항상 온화한 모습만을 보여주던 캔디스였지만, 그 순간만큼은 잔뜩 화가 난 표정이었다. 결국 그녀는 장창을 들고 분쟁으로 가득한 그곳을 벗어났다.\n그리고 그 순간, 캔디스의 신념에 응답하듯 그녀의 창촉에 반짝이는 「보석」이 나타났다.\n신이 그녀를 발견하고 그녀의 신념을 인정해 준 것이었다.\n캔디스의 「신의 눈」은 단호한 신념의 상징이었다. 그리고 그것은 그녀에게 어울리는 최고의 장신구였다",
                     "id": "Desa Aaru menghadapi tantangan yang belum pernah dihadapi sebelumnya dengan kedatangan banyak orang luar ke sana.\nTreasure Hoarder yang berpura-pura menjadi pengusaha dan menyelinap ke dalam desa, tentara bayaran yang merampok rombongan dagang, penipu dan pedagang yang tidak jujur, semua bermunculan ....\nPenduduk desa yang melihat orang luar ini, perlahan-lahan mulai berharap untuk hidup di luar pula. Semakin banyak orang yang pergi mencari nafkah di luar, dan semakin sedikit anak muda yang tersisa di desa.\nPara mantan pelindung desa sudah lama tidak suka para Candace yang dianggap tidak mengindahkan tradisi mereka. Melihat kondisi desa yang seperti itu mendorong mereka untuk sekali lagi berkomplot menentang Candace.\n\"Pelindung desa wajib menjaga ketertiban dan tatanan sosial di desa!\"\n\"Candace! Semua yang kamu lakukan ini dibayar dengan kedamaian desa!\"\n\"Candace! Laksanakan tanggung jawabmu sekarang juga!\"\nDi tengah perdebatan yang sengit, sang gadis pelindung tiba-tiba berdiri.\n\"CUKUP!\"\n\"Kalau kalian cuma mau melindungi masa lalu desa, silakan lakukan sendiri! Mau duduk saja di rumah atau pergi dari desa, semuanya terserah!\"\n\"Aku tidak akan membiarkan penduduk Desa Aaru selamanya terkekang oleh masa lalu\".\n\"Kalau kalian tidak mau maju, maka biar aku sendiri saja yang melindungi masa depan semua orang!!!\"\nPara mantan pelindung yang sudah tua renta itu dalam sekejap terkejut dan gentar. Mata gadis muda yang membara itu membuat mereka takut. Mereka tidak berani membuka mulut.\nDikuasai amarah, Candace mengambil tombaknya dan beranjak dari ruangan yang penuh perselisihan itu.\nDan seakan-akan setuju dengan keyakinan dan pilihannya, sebuah permata tiba-tiba muncul di ujung tombak tersebut, entah sejak kapan.\nPara dewa melihatnya dan mengakui dirinya.\n\"Vision\", bukti keteguhan hati seseorang ... Betapa indahnya.",
                     "th": "ผู้คนภายนอกพากันหลั่งไหลเข้ามา หมู่บ้าน Aaru จึงต้องเผชิญหน้ากับสถานการณ์ที่ไม่เคยพบเจอมาก่อน\nกองโจรล่าสมบัติที่ปลอมเป็นคนค้าขายแทรกซึมเข้าไปในหมู่บ้าน, กลุ่มทหารรับจ้างที่ปล้นจี้กองคาราวาน, คนค้าขายเจ้าเล่ห์จอมโกง...\nยิ่งไปกว่านั้น หลังจากที่ได้พบเจอผู้คนจากภายนอกแล้ว ชาวหมู่บ้าน Aaru ก็ค่อย ๆ โหยหาการออกไปใช้ชีวิตที่โลกภายนอก ผู้คนเริ่มโยกย้ายออกไปทำมาหากินที่โลกภายนอก คนหนุ่มสาวที่ยินยอมอยู่ที่หมู่บ้านต่อไปก็เริ่มน้อยลงเรื่อย ๆ\nเหล่าอดีต \"ผู้คุ้มกัน\" ไม่พอใจ Candace ผู้ \"ละทิ้ง\" ในประเพณีมานานแล้ว เมื่อเห็นว่าหมู่บ้าน Aaru ตกอยู่ในสถานการณ์เช่นนี้ พวกเขาจึงได้จัดประชุมขึ้นมาเพื่อสร้างความลำบากให้ Candace\n\"สิ่งที่ผู้คุ้มกันต้องทำคือรักษาระบบระเบียบของหมู่บ้าน!\"\n\"Candace! ทุกสิ่งที่เจ้าทำได้นำพาแต่ความไม่สงบสุขมาสู่หมู่บ้านนี้เท่านั้น!\"\n\"Candace จงไปทำหน้าที่ของเจ้าเดี๋ยวนี้!\"\nในระหว่างสงครามที่ใช้วาจาเชือดเฉือน นักรบหญิงที่ถือหอกก็ลุกขึ้นยืน\n\"พอได้แล้ว!\"\n\"ถ้าเพียงต้องการปกป้อง 'อดีต' ของหมู่บ้านนี้ ก็ไปปกป้องมันด้วยตัวเอง! จะนั่งอยู่ในบ้านหรือออกจากหมู่บ้าน Aaru ก็แล้วแต่พวกคุณ!\"\n\"ฉันจะไม่ปล่อยให้คนในหมู่บ้าน Aaru จมปลักอยู่กับ 'อดีต' ตลอดไปหรอกนะ\"\n\"ถ้าพวกคุณก้าวไปข้างหน้าไม่ได้ ฉันก็จะขอปกป้อง 'อนาคต' ของทุกคนเพียงลำพัง!\"\nเหล่าผู้คุ้มกันเฒ่าต่างตกตะลึงที่โดนนักรบหญิงโต้กลับ ความเยาว์วัย และแววตาที่เร่าร้อนราวกับมีเพลิงลุกไหม้อยู่ภายใน ทำให้พวกเขาไม่กล้าแม้แต่จะตั้งคำถามต่อไป\nCandace หยิบหอกขึ้นด้วยความโกรธที่พบเห็นได้ยากแล้วเดินออกจากห้องที่เต็มไปด้วยข้อพิพาท\n\"อัญมณี\" ที่มีประกายแวววาวราวกับตอบสนองต่อความเชื่อของเธอ ได้ส่องประกายอยู่ที่ปลายหอก\nดวงตาแห่งเทพสัมผัสได้ถึงเจตจำนงของเธอ และได้ทำการตอบรับเธอ\n\"วิชั่น\" หมายถึงใจที่แน่วแน่ มันเป็นเครื่องประดับที่ดีที่สุด",

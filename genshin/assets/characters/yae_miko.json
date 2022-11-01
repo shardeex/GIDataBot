@@ -144,9 +144,9 @@
                 "required_adventure_rank": 15,
                 "unlock_max_level": 40,
                 "add_props": {
-                    "base_hp": 692.3257,
+                    "base_hp": 692.32568,
                     "base_defense": 37.962,
-                    "base_attack": 22.668596,
+                    "base_attack": 22.6686,
                     "crit_rate": 0
                 },
                 "materials": [],
@@ -157,7 +157,7 @@
                 "required_adventure_rank": 25,
                 "unlock_max_level": 50,
                 "add_props": {
-                    "base_hp": 1184.2413,
+                    "base_hp": 1184.24133,
                     "base_defense": 64.935,
                     "base_attack": 38.77523,
                     "crit_rate": 0.048
@@ -170,9 +170,9 @@
                 "required_adventure_rank": 30,
                 "unlock_max_level": 60,
                 "add_props": {
-                    "base_hp": 1840.1288,
+                    "base_hp": 1840.12878,
                     "base_defense": 100.899,
-                    "base_attack": 60.250744,
+                    "base_attack": 60.25074,
                     "crit_rate": 0.096
                 },
                 "materials": [],
@@ -183,9 +183,9 @@
                 "required_adventure_rank": 35,
                 "unlock_max_level": 70,
                 "add_props": {
-                    "base_hp": 2332.0444,
+                    "base_hp": 2332.04443,
                     "base_defense": 127.872,
-                    "base_attack": 76.357376,
+                    "base_attack": 76.35738,
                     "crit_rate": 0.096
                 },
                 "materials": [],
@@ -196,7 +196,7 @@
                 "required_adventure_rank": 40,
                 "unlock_max_level": 80,
                 "add_props": {
-                    "base_hp": 2823.96,
+                    "base_hp": 2823.95996,
                     "base_defense": 154.845,
                     "base_attack": 92.46401,
                     "crit_rate": 0.144
@@ -209,8 +209,8 @@
                 "required_adventure_rank": 50,
                 "unlock_max_level": 90,
                 "add_props": {
-                    "base_hp": 3315.8757,
-                    "base_defense": 181.818,
+                    "base_hp": 3315.87573,
+                    "base_defense": 181.81799,
                     "base_attack": 108.57064,
                     "crit_rate": 0.192
                 },
@@ -243,13 +243,13 @@
                 "zh_Hant": "<b>普通攻擊</b>\n驅役狐靈，進行至多三段的攻擊，造成<b>雷元素傷害</b>。\n\n<b>重擊</b>\n消耗一定體力，短暫詠唱後，造成<b>雷元素範圍傷害</b>。\n\n<b>下落攻擊</b>\n凝聚雷霆的力量，從空中下墜衝擊地面，攻擊下落路徑上的敵人，並在落地時造成<b>雷元素範圍傷害</b>。",
                 "ja": "<b>通常攻撃</b>\n狐霊を駆役し、最大3段の連続攻撃を行い、<b>雷元素ダメージ</b>を与える。\n\n<b>重撃</b>\n一定のスタミナを消費し、短い詠唱をした後、敵に<b>雷元素範囲ダメージ</b>を与える。\n\n<b>落下攻撃</b>\n雷霆の力を凝集し、空中から落下し地面に衝撃を与える。経路上の敵を攻撃し、落下時に<b>雷元素範囲ダメージ</b>を与える。",
                 "ko": "<b>일반 공격</b>\n여우령으로 최대 3번 공격하여 <b>번개 원소 피해</b>를 준다.\n\n<b>강공격</b>\n일정 스태미나를 소모해 짧은 영창 후 <b>번개 원소 범위 피해</b>를 준다.\n\n<b>낙하 공격</b>\n뇌정의 힘을 모아 공중에서 땅을 내려찍어 경로상의 적을 공격하고, 착지 시 <b>번개 원소 범위 피해</b>를 준다",
-                "id": "<b>Normal Attack</b>\nMemanggil roh kitsune untuk melancarkan hingga 3 serangan yang mengakibatkan <b>Electro DMG</b>.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina dan mengakibatkan <b>Electro DMG Area</b> setelah jeda singkat.\n\n<b>Plunging Attack</b>\nMengumpulkan kekuatan petir dan menerjang tanah, mengakibatkan DMG pada musuh di jalur terjangan dan mengakibatkan <b>Electro DMG Area</b> saat mendarat.",
+                "id": "<b>Normal Attack</b>\nMemanggil roh kitsune untuk melancarkan hingga 3 serangan yang mengakibatkan <b>Electro DMG</b>.\n\n<b>Charged Attack</b>\nMengonsumsi sejumlah Stamina dan mengakibatkan <b>Electro DMG Area</b> setelah jeda singkat.\n\n<b>Plunging Attack</b>\nMengumpulkan kekuatan petir dan menerjang tanah, menyerang musuh di jalur terjangan dan mengakibatkan <b>Electro DMG Area</b> saat mendarat.",
                 "th": "<b>โจมตีปกติ</b>\nเรียกวิญญาณจิ้งจอกออกมา ทำการโจมตีต่อเนื่องมากสุด 3 ครั้ง เพื่อสร้าง<b>ความเสียหายไฟฟ้า</b>\n\n<b>ชาร์จโจมตี</b>\nใช้พลังกายบางส่วน โดยหลังจากร่ายเสร็จจะสร้าง<b>ความเสียหายไฟฟ้าวงกว้าง</b>\n\n<b>โจมตีพุ่งลงจากอากาศ</b>\nรวบรวมพลังแห่งสายฟ้า กระโจนจากกลางอากาศลงมายังพื้นดิน เพื่อโจมตีศัตรูที่อยู่ในเส้นทางการโจมตี โดยจะสร้าง<b>ความเสียหายไฟฟ้าวงกว้าง</b>เมื่อลงถึงพื้น",
                 "vi": "<b>Tấn Công Thường</b>\nTriệu hồi linh hồn hồ ly, thực hiện tối đa 3 lần tấn công, gây <b>Sát Thương Nguyên Tố Lôi</b>.\n\n<b>Trọng Kích</b>\nTiêu hao thể lực nhất định, tụ lực và gây <b>Sát Thương Phạm Vi Nguyên Tố Lôi</b>.\n\n<b>Tấn Công Khi Đáp</b>\nNgưng tụ sức mạnh lôi đình, từ trên không lao xuống mặt đất, tấn công kẻ địch trên đường, gây <b>Sát Thương Phạm Vi Nguyên Tố Lôi</b> khi chạm đất.",
                 "de": "<b>Standardangriff</b>\nBeschwört Kitsune-Geister hervor, führt bis zu 3 Angriffe aus und verursacht <b>Elektro-Schaden</b>.\n\n<b>Heftiger Schlag</b>\nVerbraucht eine gewisse Menge Ausdauer und verursacht nach kurzer Aufladezeit <b>Elektro-Flächenschaden</b>.\n\n<b>Angriff aus dem Fall</b>\nKonzentriert die Kraft des Donners, schlägt beim Fallen aus der Luft auf den Boden, greift alle Gegner in der Bahn an und verursacht beim Aufkommen <b>Elektro-Flächenschaden</b>.",
                 "fr": "<b>Attaque normale</b>\nInvoque des esprits Kitsunes, enchaînant jusqu'à 3 attaques qui infligent des <b>DGT Électro</b>.\n\n<b>Attaque chargée</b>\nConsomme de l'endurance pour infliger des <b>DGT Électro de zone</b> après un court délai.\n\n<b>Attaque plongeante</b>\nPlonge depuis les airs en concentrant la puissance du tonnerre, infligeant des DGT aux ennemis en chemin et des <b>DGT Électro de zone</b> à l'impact.",
                 "pt": "<b>Ataque Normal</b>\nEvoca espíritos kitsune que realizam até 3 ataques que infligem <b>Dano Electro</b>.\n\n<b>Ataque Carregado</b>\nConsome uma certa quantidade de Stamina que inflige <b>Dano Electro em uma AdE</b> após um curto período de canalização.\n\n<b>Ataque Imersivo</b>\nReunindo o poder do relâmpago, Yae Miko mergulha ao chão em pleno ar, infligindo dano a todos os inimigos em seu caminho. Inflige <b>Dano Electro em uma AdE</b> durante o impacto com o chão.",
-                "es": "<b>Ataque Normal</b>\nInvoca espíritus kitsune para realizar hasta 3 ataques que infligen <b>Daño Electro</b>.\n\n<b>Ataque Cargado</b>\nConsume una cierta cantidad de Aguante para infligir <b>Daño Electro en el AdE</b> después de un corto tiempo de invocación.\n\n<b>Ataque Descendente</b>\nConcentra el poder del trueno y desciende hacia el suelo, dañando a todos los enemigos cercanos e infligiendo <b>Daño Electro en el AdE</b> en el momento del impacto.",
+                "es": "<b>Ataque Normal</b>\nInvoca espíritus kitsune para realizar hasta 3 ataques que infligen <b>Daño Electro</b>.\n\n<b>Ataque Cargado</b>\nConsume una cierta cantidad de Aguante para infligir <b>Daño Electro en el AdE</b> después de un corto tiempo de invocación.\n\n<b>Ataque Descendente</b>\nConcentra el poder del rayo y se lanza desde el aire para golpear el suelo y dañar a los enemigos a su paso e infligir <b>Daño Electro en el AdE</b> en el momento del impacto.",
                 "ru": "<b>Обычная атака:</b>\nСовершает до трёх ударов, призывая духов кицунэ, наносящих <b>Электро урон</b>.\n\n<b>Заряженная атака:</b>\nКороткое заклинание, наносящее <b>Электро урон по площади</b>, на которое тратится определённое количество выносливости.\n\n<b>Атака в падении:</b>\nНакопив энергию молнии, стремительно падает на землю, атакуя всех врагов на пути. Приземлившись, наносит <b>Электро урон по площади</b>."
             },
             "attributes": {
@@ -375,14 +375,14 @@
                 "levels": [
                     {
                         "parameters": [
-                            0.396584,
-                            0.385192,
-                            0.568888,
-                            1.428948,
+                            0.39658,
+                            0.38519,
+                            0.56889,
+                            1.42895,
                             50,
-                            0.568288,
-                            1.136335,
-                            1.419344,
+                            0.56829,
+                            1.13634,
+                            1.41934,
                             0,
                             0,
                             0,
@@ -401,14 +401,14 @@
                     },
                     {
                         "parameters": [
-                            0.426328,
-                            0.414081,
-                            0.611555,
+                            0.42633,
+                            0.41408,
+                            0.61155,
                             1.53612,
                             50,
-                            0.614544,
-                            1.228828,
-                            1.534872,
+                            0.61454,
+                            1.22883,
+                            1.53487,
                             0,
                             0,
                             0,
@@ -427,10 +427,10 @@
                     },
                     {
                         "parameters": [
-                            0.456072,
-                            0.442971,
-                            0.654221,
-                            1.643291,
+                            0.45607,
+                            0.44297,
+                            0.65422,
+                            1.64329,
                             50,
                             0.6608,
                             1.32132,
@@ -456,10 +456,10 @@
                             0.49573,
                             0.48149,
                             0.71111,
-                            1.786185,
+                            1.78619,
                             50,
                             0.72688,
-                            1.453452,
+                            1.45345,
                             1.81544,
                             0,
                             0,
@@ -479,14 +479,14 @@
                     },
                     {
                         "parameters": [
-                            0.525474,
-                            0.510379,
-                            0.753777,
-                            1.893357,
+                            0.52547,
+                            0.51038,
+                            0.75378,
+                            1.89336,
                             50,
-                            0.773136,
-                            1.545944,
-                            1.930968,
+                            0.77314,
+                            1.54594,
+                            1.93097,
                             0,
                             0,
                             0,
@@ -505,10 +505,10 @@
                     },
                     {
                         "parameters": [
-                            0.555218,
-                            0.539269,
-                            0.796443,
-                            2.000528,
+                            0.55522,
+                            0.53927,
+                            0.79644,
+                            2.00053,
                             50,
                             0.826,
                             1.65165,
@@ -531,14 +531,14 @@
                     },
                     {
                         "parameters": [
-                            0.594876,
-                            0.577788,
-                            0.853332,
-                            2.143423,
+                            0.59488,
+                            0.57779,
+                            0.85333,
+                            2.14342,
                             50,
-                            0.898688,
-                            1.796995,
-                            2.244544,
+                            0.89869,
+                            1.797,
+                            2.24454,
                             0,
                             0,
                             0,
@@ -557,14 +557,14 @@
                     },
                     {
                         "parameters": [
-                            0.634534,
-                            0.616307,
-                            0.910221,
-                            2.286317,
+                            0.63453,
+                            0.61631,
+                            0.91022,
+                            2.28632,
                             50,
-                            0.971376,
+                            0.97138,
                             1.94234,
-                            2.426088,
+                            2.42609,
                             0,
                             0,
                             0,
@@ -583,14 +583,14 @@
                     },
                     {
                         "parameters": [
-                            0.674193,
-                            0.654826,
+                            0.67419,
+                            0.65483,
                             0.96711,
-                            2.429212,
+                            2.42921,
                             50,
-                            1.044064,
-                            2.087686,
-                            2.607632,
+                            1.04406,
+                            2.08769,
+                            2.60763,
                             0,
                             0,
                             0,
@@ -609,13 +609,13 @@
                     },
                     {
                         "parameters": [
-                            0.713851,
-                            0.693346,
-                            1.023998,
-                            2.572107,
+                            0.71385,
+                            0.69335,
+                            1.024,
+                            2.57211,
                             50,
                             1.12336,
-                            2.246244,
+                            2.24624,
                             2.80568,
                             0,
                             0,
@@ -636,13 +636,13 @@
                     {
                         "parameters": [
                             0.75351,
-                            0.731865,
-                            1.080887,
-                            2.715002,
+                            0.73186,
+                            1.08089,
+                            2.715,
                             50,
-                            1.202656,
-                            2.404802,
-                            3.003728,
+                            1.20266,
+                            2.4048,
+                            3.00373,
                             0,
                             0,
                             0,
@@ -661,14 +661,14 @@
                     },
                     {
                         "parameters": [
-                            0.793168,
-                            0.770384,
-                            1.137776,
-                            2.857897,
+                            0.79317,
+                            0.77038,
+                            1.13778,
+                            2.8579,
                             50,
-                            1.281952,
-                            2.563361,
-                            3.201776,
+                            1.28195,
+                            2.56336,
+                            3.20178,
                             0,
                             0,
                             0,
@@ -687,14 +687,14 @@
                     },
                     {
                         "parameters": [
-                            0.842741,
-                            0.818533,
-                            1.208887,
-                            3.036515,
+                            0.84274,
+                            0.81853,
+                            1.20889,
+                            3.03651,
                             50,
-                            1.361248,
-                            2.721919,
-                            3.399824,
+                            1.36125,
+                            2.72192,
+                            3.39982,
                             0,
                             0,
                             0,
@@ -713,14 +713,14 @@
                     },
                     {
                         "parameters": [
-                            0.892314,
-                            0.866682,
-                            1.279998,
-                            3.215134,
+                            0.89231,
+                            0.86668,
+                            1.28,
+                            3.21513,
                             50,
-                            1.440544,
-                            2.880478,
-                            3.597872,
+                            1.44054,
+                            2.88048,
+                            3.59787,
                             0,
                             0,
                             0,
@@ -739,13 +739,13 @@
                     },
                     {
                         "parameters": [
-                            0.941887,
-                            0.914831,
-                            1.351109,
-                            3.393752,
+                            0.94189,
+                            0.91483,
+                            1.35111,
+                            3.39375,
                             50,
                             1.51984,
-                            3.039036,
+                            3.03904,
                             3.79592,
                             0,
                             0,
@@ -934,10 +934,10 @@
                     },
                     {
                         "parameters": [
-                            0.652224,
+                            0.65222,
                             0.81528,
                             1.0191,
-                            1.273875,
+                            1.27387,
                             14,
                             4,
                             0,
@@ -960,7 +960,7 @@
                     },
                     {
                         "parameters": [
-                            0.697728,
+                            0.69773,
                             0.87216,
                             1.0902,
                             1.36275,
@@ -1012,10 +1012,10 @@
                     },
                     {
                         "parameters": [
-                            0.803904,
+                            0.8039,
                             1.00488,
                             1.2561,
-                            1.570125,
+                            1.57012,
                             14,
                             4,
                             0,
@@ -1038,7 +1038,7 @@
                     },
                     {
                         "parameters": [
-                            0.849408,
+                            0.84941,
                             1.06176,
                             1.3272,
                             1.659,
@@ -1090,7 +1090,7 @@
                     },
                     {
                         "parameters": [
-                            0.970752,
+                            0.97075,
                             1.21344,
                             1.5168,
                             1.896,
@@ -1116,7 +1116,7 @@
                     },
                     {
                         "parameters": [
-                            1.031424,
+                            1.03142,
                             1.28928,
                             1.6116,
                             2.0145,
@@ -1142,7 +1142,7 @@
                     },
                     {
                         "parameters": [
-                            1.092096,
+                            1.0921,
                             1.36512,
                             1.7064,
                             2.133,
@@ -1168,7 +1168,7 @@
                     },
                     {
                         "parameters": [
-                            1.152768,
+                            1.15277,
                             1.44096,
                             1.8012,
                             2.2515,
@@ -1223,7 +1223,7 @@
                             1.28928,
                             1.6116,
                             2.0145,
-                            2.518125,
+                            2.51813,
                             14,
                             4,
                             0,
@@ -1275,7 +1275,7 @@
                             1.44096,
                             1.8012,
                             2.2515,
-                            2.814375,
+                            2.81437,
                             14,
                             4,
                             0,
@@ -1442,7 +1442,7 @@
                     {
                         "parameters": [
                             2.795,
-                            3.588522,
+                            3.58852,
                             22,
                             90,
                             0,
@@ -1468,7 +1468,7 @@
                     {
                         "parameters": [
                             2.99,
-                            3.838884,
+                            3.83888,
                             22,
                             90,
                             0,
@@ -1520,7 +1520,7 @@
                     {
                         "parameters": [
                             3.445,
-                            4.423062,
+                            4.42306,
                             22,
                             90,
                             0,
@@ -1546,7 +1546,7 @@
                     {
                         "parameters": [
                             3.64,
-                            4.673424,
+                            4.67342,
                             22,
                             90,
                             0,
@@ -1598,7 +1598,7 @@
                     {
                         "parameters": [
                             4.16,
-                            5.341056,
+                            5.34106,
                             22,
                             90,
                             0,
@@ -1624,7 +1624,7 @@
                     {
                         "parameters": [
                             4.42,
-                            5.674872,
+                            5.67487,
                             22,
                             90,
                             0,
@@ -1650,7 +1650,7 @@
                     {
                         "parameters": [
                             4.68,
-                            6.008688,
+                            6.00869,
                             22,
                             90,
                             0,
@@ -1676,7 +1676,7 @@
                     {
                         "parameters": [
                             4.94,
-                            6.342504,
+                            6.3425,
                             22,
                             90,
                             0,
@@ -1945,7 +1945,7 @@
             "name": {
                 "en": "Fox's Mooncall",
                 "zh_Hans": "望月吼哕声",
-                "zh_Hant": "歲月吼噦聲",
+                "zh_Hant": "望月吼噦聲",
                 "ja": "望月之吼噦",
                 "ko": "달을 향한 포효",
                 "id": "Fox's Mooncall",
@@ -3273,7 +3273,7 @@
                     "vi": "Về Kuki Shinobu...",
                     "de": "Über Kuki Shinobu ...",
                     "fr": "À propos de Kuki Shinobu...",
-                    "pt": "Sobre Kuki Shinobu...",
+                    "pt": "Sobre a Kuki Shinobu...",
                     "es": "Sobre Kuki Shinobu...",
                     "ru": "О Куки Синобу..."
                 },
@@ -3457,7 +3457,7 @@
                     "zh_Hant": "無論如何，魔神皆有消亡之時。若是他們的那些故事隨時間一起散佚於天地，再無人憶起，那就太可惜了。然而，有資格寫他們故事的人，必須得有上乘的文思與筆法…如果世上沒有這樣的人，那就培養出…培養出足以書寫那些故事的作家吧。",
                     "ja": "いずれにせよ、魔神もいつかは消滅する時が来る。かの者らの物語が時と共にこの世界から消え、二度と人々の記憶に残らないとしたら、それはとても残念なことじゃ。その者たちの物語を書く資格のある者は、優れた思考と執筆力を兼ね備えている必要がある…この世にそのような者がおらぬのならば、育てれば良い…それら物語を書くことのできる作家をな。",
                     "ko": "마신도 언젠가는 사라져. 시간이 흘러 그들의 이야기도 함께 사라져서 아무도 기억을 못 하면 너무 안타깝잖아. 뛰어난 구상과 필력을 가진 자만이 그들의 이야기를 쓸 자격이 있어…. 세상에 그런 사람이 없다면… 그 이야기들을 쓸 수 있는 작가를 키워내야지",
-                    "id": "Bahkan makhluk supranatural pun pada akhirnya akan musnah, termasuk para dewa. Sayang sekali kalau kisah mereka hilang seiring dengan kepergiannya, dan tidak pernah dikenang lagi. Masalahnya, hanya orang-orang dengan keterampilan menulis dan mengarang yang sangat hebat saja yang mampu merangkum semua kisah itu ke dalam tulisan. Kalau di dunia ini tidak ada penulis bisa seperti itu, maka kita sendirilah yang yang harus membina mereka ... Ya, penulis yang kita didik sendirilah yang mampu merangkum semuanya itu sesuai dengan kemauan kita.",
+                    "id": "Bahkan makhluk supranatural pun pada akhirnya akan musnah, termasuk para dewa. Sayang sekali kalau kisah mereka hilang seiring dengan kepergiannya, dan tidak pernah dikenang lagi. Masalahnya, hanya orang-orang dengan keterampilan menulis dan mengarang yang sangat hebat saja yang mampu merangkum semua kisah itu ke dalam tulisan. Kalau di dunia ini tidak ada penulis bisa seperti itu, maka kita sendirilah yang harus membina mereka ... Ya, penulis yang kita didik sendirilah yang mampu merangkum semuanya itu sesuai dengan kemauan kita.",
                     "th": "ไม่ว่าอย่างไร เทพอสูรนั้นต่างก็มีช่วงเวลาของการดับสูญ ถ้าหากเรื่องราวของพวกเขาสูญหายไปตามกาลเวลาและไม่มีใครจดจำได้อีก เช่นนั้นคงจะน่าเสียดายมาก และผู้ที่มีคุณสมบัติที่จะเขียนเรื่องราวของพวกเขาได้ จะต้องมีทักษะการเขียนและสำนวนที่ยอดเยี่ยม... หากโลกนี้ไม่มีคนแบบนี้ งั้นเราก็ต้องฝึกออกมา... ฝึกฝนนักเขียนที่สามารถเขียนเรื่องราวแบบนั้นได้ออกมา",
                     "vi": "Dù thế nào thì ma thần cũng sẽ có ngày chết đi, nếu như câu chuyện của họ cũng sẽ tan biến theo thời gian thì thật đáng tiếc. Hơn nữa, người có tư cách viết câu chuyện của họ cũng phải có tài nghệ văn chương thượng thừa... Nếu như trên thế gian này không có người như vậy thì cứ đào tạo... phải đào tạo ra một tác giả có thể viết những câu chuyện này mới thôi.",
                     "de": "Auch Archonten vergehen irgendwann. Es ist eine große Schande, wenn ihre Geschichten zusammen mit ihnen in der Zeit verloren gehen und man sich nie wieder an sie erinnert. Das Problem ist, dass nur diejenigen mit erstklassigen Denk- und Kompositionsfähigkeiten qualifiziert sind, diese Geschichten zu Papier zu bringen ... Wenn es auf der Welt keinen qualifizierten Schriftsteller gibt, müssen wir ... müssen wir dann die richtigen Leute ausbilden ...",
@@ -4673,7 +4673,7 @@
                 "title": {
                     "en": "Heavy Hit Taken: I",
                     "zh_Hans": "重受击·其一",
-                    "zh_Hant": "重受擊·其一",
+                    "zh_Hant": "受重擊·其一",
                     "ja": "重ダメージを受ける·1",
                     "ko": "강공격 피격·첫 번째",
                     "id": "Menerima Serangan Hebat: I",
@@ -4862,7 +4862,7 @@
                     "th": "กองบรรณาธิการของสำนักพิมพ์ Yae เคยแนะนำต้นฉบับชิ้นหนึ่งให้กับท่านหัวหน้าบรรณาธิการ\nงานเขียนชิ้นนั้นมีความวิจิตรบรรจง และละเอียดงดงาม นอกจากนี้ หัวข้อเรื่องยังเป็นแนวเลิฟคอมเมดี้ที่กำลังเป็นที่นิยมอีกด้วย\nหินหยกเช่นนี้ ขอเพียงแค่ขัดเกลาสักหน่อย แล้วเสริมด้วยภาพประกอบสุดวิจิตร... จะต้องขายดีเป็นเทน้ำเทท่าอย่างแน่นอน!\nแต่สิ่งที่เหล่ากองบรรณาธิการคาดไม่ถึงก็คือ หลังจากที่ Yae Miko ได้อ่านแล้วกลับไม่ได้มีสีหน้าดีใจแต่อย่างใด แต่กลับถอนหายใจเฮือกใหญ่ แล้วเรียกตัวบรรณาธิการที่รับผิดชอบมารวมตัวกันทันที\nบรรณาธิการที่รับผิดชอบเอ่ยถามด้วยความลังเลว่า: \"ท่าน Yae... ถึงแม้ว่าผมจะเป็นคนแนะนำให้เขาเขียนพล็อตเรื่องแนวนี้... แต่มันก็เป็นพล็อตที่กำลังเป็นที่นิยมอยู่ในตอนนี้ไม่ใช่หรือ?\"\nเมื่อเผชิญกับสายตาที่งุนงงของบรรณาธิการที่รับผิดชอบ Miko ก็พูดสิ่งที่เป็นความเห็นส่วนตัวออกมาโดยตรง: ไลท์โนเวลที่ควรจะมีความแปลกใหม่แต่กลับถูกผูกมัดด้วยพล็อตเรื่องไปเสียทุกครั้ง บอกได้คำเดียวเลยว่า \"มันไม่อิสระพอ\"\nพล็อตเรื่องขายดีที่ว่า หรือพวกผลงานที่จำแนกตามประเภท... ล้วนเป็นเพียงกระแสที่หมุนเวียนผลัดเปลี่ยนในทุก ๆ สิบปีเท่านั้นเอง\nการใช้ประโยชน์จากยุคสมัยนั้นคือทางลัดที่ง่ายดายอย่างหนึ่ง แต่หากผลงานชิ้นนั้นมีคุณภาพที่ไม่มีวันจมหายไปกับกาลเวลา แล้วทำไมยังต้องทำตามกระแสอยู่อีกล่ะ?\n\"ฝากนำคำพูดของฉันไปบอกนักเขียนหน้าใหม่ท่านนี้ด้วย ว่าไม่จำเป็นต้องใส่ใจประเภทของพล็อตเรื่อง ให้จดจ่อกับ 'เรื่องราว' ที่อยู่ตรงปลายปากกาก็พอ\"\nเมื่อผู้เขียนต้นฉบับได้ฟังเรื่องนี้แล้ว ก็เริ่มตระหนักถึงบางอย่าง และหยุดเขียนเพื่อครุ่นคิดอย่างจริงจัง หลายเดือนผ่านไป ต้นฉบับชิ้นใหม่ก็ถูกส่งมาตรงหน้า Miko และบรรณาธิการที่รับผิดชอบ\nบรรณาธิการที่รับผิดชอบถึงกับใบ้กินไปในทันที กระทั่งผู้ที่ไร้ซึ่งกฎเกณฑ์อย่าง Yae Miko ก็ยังต้องขมวดคิ้ว:\n\"อืม... เอาไงดีล่ะ... ท่าทางจะไม่ค่อยเข้าท่านะ\"\n\"นั่นสิครับ! ถึงจะบอกว่าไม่ต้องกังวลเกี่ยวกับพล็อตเรื่องยังไง แต่ 'เกิดใหม่ทั้งทีก็เป็นโชกุนไปซะแล้ว' นี่มันก็เกินไปนะ!\"\n\"พล็อตเรื่อง? พล็อตเรื่องไม่ได้มีปัญหาอะไรหรอก แต่ว่า... นามปากกาของเขามันธรรมดาเกินไปหน่อย ไม่ว่าจะมองยังไงก็ไม่เข้ากับหนังสือเล่มนี้เลยสักนิด\"\n\"ที่แท้ก็สนใจจุดนี้หรอกเหรอ... ตะ...แต่ถ้าท่านชอบมันก็โอเค\"\nหลังจากนั้นไม่นาน ผู้เขียนหนังสือเล่มนี้ก็ได้เปิดตัวอย่างสง่างามภายใต้นามปากกาสุดยาวอย่าง \"Kadenokouji Kenzaburou\" ซึ่งถูกเสนอโดยหัวหน้าบรรณาธิการ\nส่วนเรื่องที่ท่านหัวหน้าบรรณาธิการเกิดไอเดียเปิดตัวกิจกรรมประกวดส่งต้นฉบับ \"เกิดใหม่ทั้งทีก็เป็น Guuji Yae ไปซะแล้ว\" นั้น มันก็เป็นเรื่องราวหลังจากนั้นแล้ว",
                     "vi": "Các biên tập viên của Nhà Xuất Bản Yae đã từng đề cử một bản thảo cho tổng biên tập đại nhân.\nTác phẩm này văn phong tươi sáng, tư duy sắc xảo, chủ đề cũng theo xu hướng hài hước lãng mạn đang khá thịnh hành hiện nay.\nMột viên ngọc thô như vậy, chỉ cần gia công thêm chút, kết hợp với hình ảnh minh họa tinh tế... nhất định sẽ bán đắt như tôm tươi!\nNhưng các biên tập viên đã không ngờ rằng, Yae Miko sau khi xem xong không hề tỏ ra thích thú, mà lại thở dài, rồi gọi hết các biên tập viên lại.\nCác biên tập viên đã do dự hỏi thăm: \"Đại nhân Yae... tuy rằng chính tôi đã gợi ý cho anh ấy viết đề tài này... nhưng đây không phải là chủ đề đang rất nổi hiện nay sao?\"\nĐối diện với ánh mắt nghi hoặc của biên tập, Miko nói thẳng ý kiến của mình: Một quyển tiểu thuyết vốn dĩ rất mới lạ, nhưng lại bị chủ đề ràng buộc đủ thứ, có thể khái quát bằng một câu \"không đủ tự do\".\nThứ gọi là đề tài bán chạy... chẳng qua chỉ là một trào lưu cứ mười năm lại luân chuyển một lần mà thôi.\nĐi theo sở thích của thời đại là một lối đi tắt, nhưng nếu như một tác phẩm vốn dĩ đã có tố chất để không bị trào lưu nhấn chìm, thì tại sao lại phải trôi dạt theo trào lưu chứ?\n\"Hãy chuyển lời của ta đến vị tác giả mới này, cứ nói rằng không cần quan tâm đến thể loại đề tài, chỉ cần chuyên tâm cho \"câu chuyện\" đang viết là được.\"\nNgười nộp bản thảo nghe xong, như đã giác ngộ được gì đó, bèn ngừng bút đóng cửa suy ngẫm. Mấy tháng sau, một bản thảo hoàn toàn mới đã xuất hiện trước mặt Miko và biên tập viên.\nBiên tập đã ngẩng người trong nhất thời, ngay cả Yae Miko xưa nay không kiêng kị điều gì cả cũng phải nhíu mày:\n\"Chà... làm sao đây... đúng là không ổn cho lắm.\"\n\"Phải đó! Cho dù không cần phải quan tâm đến đề tài, nhưng \"Chuyển Sinh Thành Raiden Shogun\" cũng quá ư là hoang đường mà!\"\n\"Đề tài sao? Đề tài này có vấn đề gì đâu. Nhưng mà bút danh của anh ta bình thường quá, nhìn kiểu gì cũng không xứng với quyển tiểu thuyết này.\"\n\"Hóa ra đây mới là điểm đáng chú ý sao... Nhưng mà, đại nhân thấy vui là được.\"\nKhông lâu sau, tác giả của quyển sách này đã đường đường chính chính ra mắt với bút danh siêu dài do tổng biên tập đề xuất - \"Kadenokouji Kenzaburou\".\nCòn về sự kiện vận động sáng tác với chủ đề \"Chuyển Sinh Thành Guuji Yae\" do tổng biên tập đại nhân lanh trí triển khai, thì là chuyện sau này rồi.",
                     "de": "Mehrere Redakteure des Verlagshauses Yae haben der Chefredakteurin ein Originalmanuskript empfohlen.\nDie mit einer ausgeklügelten Schreibweise und Ideen geschriebene romantische Komödie war genau ein damals sehr beliebtes Genre.\nWas für ein Rohdiamant, der nur noch wenig verbessert werden und mit schönen Illustrationen versehen werden musste ... Es würde bestimmt ein Hit werden!\nWas die Redakteure nicht erwartet haben, war, dass Yae Miko nach dem Lesen ihre Freude nicht zeigte, sondern tief seufzte und alle wichtigen Redakteure zu sich rief.\nEiner der Redakteure fragte zögerlich: „Aber Yae ... Obwohl ich es war, der ihm vorgeschlagen hat, über dieses Thema zu schreiben ... ist das nicht das heißeste Genre im Moment?“\nMit einem verwirrten Blick ihres Redakteurs konfrontiert, äußerte Miko ihre Meinung direkt: eine kurze Erzählung, die neuartig sein sollte, aber in jeder Hinsicht an ihr Thema gebunden ist, kurz gefasst, „nicht frei genug“.\nDie sogenannten Bestseller und Genre-Werke ... sind nur Trends, die sich alle zehn Jahre wiederholen.\nEs ist bestimmt eine Abkürzung, über populäre Themen zu schreiben, aber wenn ein Werk bereits die Qualität hat, nicht vom aktuellen Trend überwältigt zu werden, warum macht man sich die Mühe?\n„Sag dem neuen Autor, dass er sich keine Sorgen um das Genre machen muss, sondern nur ‚die Geschichte‘ ernst nehmen soll.“\nAls der Autor davon erfuhr, bekam er eine Erleuchtung und hörte auf zu schreiben und dachte intensiv nach. Ein paar Monate später kam eine brandneue Kopie des Romans bei Miko und den Redakteuren an.\nDie Redakteure waren einen Moment lang sprachlos und selbst Miko, die schon immer kein Tabu hatte, runzelte seltsam die Stirn:\n„Hmm ... was soll ich tun ... Das ist wirklich nicht gut.“\n„Ja! Auch wenn er sich über das Thema keine Sorgen machen muss, ist der Titel ‚Wiedergeboren als Shougun Raiden‘ zu überraschend!“\n„Thema? Natürlich ist an dem Thema nichts auszusetzen. Aber sein Pseudonym ist zu gewöhnlich, um irgendwie zu diesem Buch zu passen, denke ich.“\n„Da liegt also der Schwerpunkt ... Nein, solange du glücklich bist, habe ich nichts dagegen.“\nKurz danach debütierte der Autor dieses Buches unter dem von der Chefredakteurin vorgeschlagenen sehr langen Pseudonym „Kadenokouji Kenzaburou“.\nWas die Idee der Chefredakteurin angeht, einen Schreibwettbewerb zum Thema „Wiedergeboren als Guuji Yae“ zu starten, ist das eine andere Geschichte.",
-                    "fr": "Les éditeurs de la Chambre Yae proposèrent un jour un manuscrit à leur responsable éditoriale.\nRédigée d'une plume élégante et avec un enchaînement des événements des plus cohérents, l'œuvre avait pour thème la comédie romantique dans l'air du temps.\nUne pépite telle que celle-ci n'avait besoin que d'un peu de polissage et quelques belles illustrations pour se vendre comme des petits pains !\nHélas, contre toute attente, Yae Miko ne sembla guère l'apprécier et poussa un soupir avant de rappeler ses éditeurs.\nL'un d'entre eux lui demanda d'une voix hésitante : « Dame Yae... Certes, j'ai demandé à l'auteur d'écrire sur ce thème, mais n'est-il pas en vogue de nos jours ? »\nConfrontée au regard suspicieux de son éditeur, Yae Miko lui fit part de son opinion sans aucun détour et qualifia cette œuvre qui avait tout le potentiel d'être intéressante comme « manquant cruellement de liberté » car enchaînée par son thème.\nLes tendances sont vouées à changer toutes les décennies.\nLes suivre était un raccourci pour la réussite d'une œuvre. Cependant, si une œuvre arrivait à passer outre tout cela, pourquoi aurait-elle besoin de s'aligner dessus ?\n« Dites à votre nouvel auteur qu'il n'a pas besoin de respecter de thème particulier. Il doit se contenter d'écrire son histoire, et de bien le faire. »\nEn entendant ces paroles, l'auteur arrêta d'écrire pendant quelque temps pour réfléchir, comme s'il avait eu une illumination. Yae Miko et son équipe reçurent un nouveau manuscrit de sa part plusieurs mois ensuite.\nLes éditeurs étaient stupéfaits, et même Yae Miko, pour qui rien n'était vraiment tabou d'habitude ne put s'empêcher de froncer légèrement des sourcils.\n« Euh, qu'est-ce qu'on fait ? C'est assez embêtant... »\n« On lui a dit de ne pas trop se préoccuper du thème, mais de là à nous proposer cette histoire de « Shogun toute-puissante — Comment j'ai été réincarnée en Raiden aux pouvoirs illimités »... Il y a des limites à ne pas dépasser ! »\n« Le thème ? Non, ce n'est pas grave. Je me disais juste que le nom de plume de cet auteur était trop banal pour un livre comme celui-ci. »\n« Oh, c'était ce qui vous inquiétait... D—Du moment que ça vous plaît... »\nPeu de temps après, l'auteur fit ses débuts sur la scène littéraire avec le long nom de plume « Kadenokouji Kenzaburou » approuvé par Yae Miko. Elle fut également inspirée pour lancer un concours d'écriture sur le thème « Réincarnation en Yae Miko », mais cette histoire sera pour une autre fois...",
+                    "fr": "Les éditeurs de la Chambre Yae proposèrent un jour un manuscrit à leur responsable éditoriale.\nRédigée d'une plume élégante et avec un enchaînement des événements des plus cohérents, l'œuvre avait pour thème la comédie romantique dans l'air du temps.\nUne pépite telle que celle-ci n'avait besoin que d'un peu de polissage et quelques belles illustrations pour se vendre comme des petits pains !\nHélas, contre toute attente, Yae Miko ne sembla guère l'apprécier et poussa un soupir avant de rappeler ses éditeurs.\nL'un d'entre eux lui demanda d'une voix hésitante : « Dame Yae... Certes, j'ai demandé à l'auteur d'écrire sur ce thème, mais n'est-il pas en vogue de nos jours ? »\nConfrontée au regard suspicieux de son éditeur, Yae Miko lui fit part de son opinion sans aucun détour et qualifia cette œuvre qui avait tout le potentiel d'être intéressante comme « manquant cruellement de liberté » car enchaînée par son thème.\nLes tendances sont vouées à changer toutes les décennies.\nLes suivre était un raccourci pour la réussite d'une œuvre. Cependant, si une œuvre arrivait à passer outre tout cela, pourquoi aurait-elle besoin de s'aligner dessus ?\n« Dites à votre nouvel auteur qu'il n'a pas besoin de respecter de thème particulier. Il doit se contenter d'écrire son histoire, et de bien le faire. »\nEn entendant ces paroles, l'auteur arrêta d'écrire pendant quelque temps pour réfléchir, comme s'il avait eu une illumination. Yae Miko et son équipe reçurent un nouveau manuscrit de sa part plusieurs mois ensuite.\nLes éditeurs étaient stupéfaits, et même Yae Miko, pour qui rien n'était vraiment tabou d'habitude ne put s'empêcher de froncer légèrement des sourcils.\n« Euh, qu'est-ce qu'on fait ? C'est assez embêtant... »\n« On lui a dit de ne pas trop se préoccuper du thème, mais de là à nous proposer cette histoire de « Shogun toute-puissante — Comment j'ai été réincarnée en Raiden aux pouvoirs illimités »... Il y a des limites à ne pas dépasser ! »\n« Le thème ? Non, ce n'est pas grave. Je me disais juste que le nom de plume de cet auteur était trop banal pour un livre comme celui-ci. »\n« Oh, c'était ce qui vous inquiétait... D—Du moment que ça vous plaît... »\nPeu de temps après, l'auteur fit ses débuts sur la scène littéraire avec le long nom de plume « Kadenokouji Kenzaburou » approuvé par Yae Miko. Elle fut également inspirée pour lancer un concours d'écriture sur le thème « Réincarnation en Guuji Yae », mais cette histoire sera pour une autre fois...",
                     "pt": "Os editores da Editora Yae em certa ocasião submeteram um manuscrito para a Editora-Chefe.\nEsse manuscrito estava bem redigido, bem pensado e os temas eram romances misturados com comédia.\nTal obra precisaria de um pequeno requinte e algumas belas ilustrações para ter ótimas vendas!\nMas, inesperadamente, Yae Miko não ficou satisfeita com isso, soltando um longo suspiro antes de chamar os editores.\nUm deles perguntou hesitantemente: \"Srta. Yae, eu pedi que ele escrevesse nesse gênero, mas esse gênero não é o que está popular agora?\"\nEnfrentando o olhar duvidoso dos outros editores, Miko disse sua opinião franca: um livro que deveria ter sido interessante, mas ao invés disso era acorrentado o tempo inteiro pelo seu gênero não era \"livre o suficiente\".\nCoisas como \"melhores vendas\", \"ficção\" eram apenas modas que viriam e iriam a cada década.\nSeguir a moda era um atalho, mas se um manuscrito tivesse a qualidade que pudesse ultrapassar tal onda, por que seguir com ela?\n\"Digam isso para esse novo autor nosso: digam que não precisa se preocupar com o gênero. Ele só precisa escrever sua história, e escrevê-la bem\".\nAo ouvir isso, o autor parou de escrever por um período, como se tivesse tido uma epifania. Muitos meses depois, um novo manuscrito foi enviado para Yae Miko e seus editores.\nOs editores ficaram chocados, e até Yae Miko, que pouco se importava com tabus, franziu suas sobrancelhas, algo realmente raro.\n\"Hã... O que faremos? Isso não é bom...\"\n\"Exatamente! Uma coisa é ser despreocupado com o gênero, outra é algo como 'Toda-Poderosa Shogun: Reencarnada como Raiden'... Isso é demais da conta!\"\n\"Hmm? Gênero? Não, não há problema com isso. O problema é seu pseudônimo. É muito normal para um livro como esse\".\n\"Então o que você estava preocupada era... Não, deixe para lá. Se você estiver satisfeita, Srta. Yae, ótimo\".\nPouco depois, o autor desse livro ficou famoso com o pseudônimo (excessivamente longo) aprovado por Yae Miko: \"Kadenokouji Kenzaburou\".\nMas a história de como a Editora-Chefe teve a ideia de começar a competição \"Reencarnada como Guuji Yae\" deve ficar para outro dia.",
                     "es": "Una vez, unos editores de la Editorial Yae le recomendaron a la editora en jefe que leyera un manuscrito.\nSe trataba de una comedia romántica, un género muy de moda en ese momento, con una elegante prosa y unas ideas bien desarrolladas.\nAlgo tan bueno solo tendría que pulirse un poco y agregar ilustraciones. ¡Sería todo un éxito de ventas!\nLo que los editores no anticiparon fue que, tras echarle un vistazo, Yae Miko no mostró ni un ápice de complacencia, sino que exhaló un gran suspiro y llamó al editor al cargo de la novela, que preguntó dubitativo: “Srta. Yae... Es cierto que yo le dije al autor que escribiera sobre este tema, pero ¿acaso no es el más popular ahora mismo?”.\nAnte la vacilante mirada del editor, Yae Miko hizo clara su opinión: “Una novela ligera que debería haber sido novedosa, pero que está encadenada a un tema... Te diré mi opinión: no es lo suficientemente libre”.\nTramas que más venden y obras clasificadas en géneros... eran modas que solo tendrían éxito una vez cada diez años.\nAprovecharse del momento era tomar el camino fácil, pero si una novela tenía lo necesario para no caer en las modas, nunca pasaría desapercibida.\n“Dile a este nuevo autor que no piense en géneros, que solo trate adecuadamente la historia que escribe”.\nEl autor tuvo una epifanía cuando este mensaje llegó a sus oídos. Así pues, paró de escribir para reflexionar seriamente y, unos meses después, un nuevo manuscrito llegó a manos de Yae Miko y del editor.\nEste último enmudeció, y la Srta. Yae, siempre sin filtros al hablar, abrió los ojos de sorpresa.\n“Humm... ¿Qué hacemos? Esto no servirá...”.\n“¡Exacto! Una cosa es que no se aferre a un tema, ¡y otra que un personaje renazca como la todopoderosa Shogun Raiden!”.\n“No creo que haya ningún problema con el tema. En cambio, su nombre de pluma es demasiado normal, no casa en absoluto con este libro”.\n“Oh, así que se estaba fijando en eso... B-bueno, mientras a usted le guste, todo bien”.\nPoco después, y a sugerencia de la editora en jefe, el autor dio comienzo a su carrera novelística con el largo nombre de pluma “Kadenokouji Kenzaburou”.\nAsí fue como Yae Miko tuvo la brillante idea de abrir un plazo de entrega de novelas en torno al tema “Renacido como la Suma Sacerdotisa Yae”, pero eso ya es otra historia.",
                     "ru": "Как-то раз редакторы издательского дома Яэ отправили главному редактору одну рукопись. Произведение было отлично продумано и великолепно написано в популярном жанре романтической комедии. Такой самородок требовалось лишь немного отшлифовать да добавить иллюстраций, и его продажи обязательно стали бы успешными. Чего редакторы не ожидали, так это того, что Яэ Мико никак не обрадуется, а вместо этого вздохнёт и созовёт всех редакторов. Одна из них нерешительно спросила: «Госпожа Яэ, я... Я действительно попросила его написать на эту тему, да, но разве это не самый популярный сейчас жанр?» Столкнувшись с озадаченным взглядом редактора, Мико прямо высказала свое мнение: интересная книга, которая скована рамками популярности, недостаточно свободна. Бестселлеры и популярные жанры меняются каждые десять лет. Да, это кратчайший путь к успеху, но если работа обладает качествами, которые позволят ей быть успешной вне этих рамок, зачем же плыть по течению? «Передайте этому новому писателю, что не нужно думать о жанре, нужно просто написать свою историю и написать её хорошо». Услышав это, писатель на некоторое время отложил работу, как будто на него внезапно снизошло озарение. Несколько месяцев спустя Мико и её редакторам была отправлена новая рукопись. Все были ошеломлены, и даже никогда не придававшая значения условностям Яэ Мико слегка нахмурила брови - вот уж редкое зрелище. «Хм, что же делать? Это и правда не очень хорошо...» - «Вот именно! Даже если не обращать внимание на жанр, \"Реинкарнация в непобедимого сёгуна Райдэн\" - это уже слишком!» - «Хм? Жанр? Нет-нет, с этим всё в порядке. Меня беспокоит его творческий псевдоним - он слишком обыденный для такого произведения». - «Так вот о чём вы беспокоитесь... Неважно, лишь бы вам нравилось, госпожа Яэ». Вскоре после этого автор книги вышел на литературную сцену с одобренным Яэ Мико (и чрезмерно длинным) псевдонимом «Кандзи Юкодзи Кэндзабуро». Что касается того, как главному редактору пришла в голову идея начать писательский конкурс на тему «Реинкарнация в Гудзи Яэ», то это уже совсем другая история."
