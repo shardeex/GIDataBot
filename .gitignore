@@ -152,3 +152,7 @@ cython_debug/
 #.idea/
 
 .deta/
+
+# pyvenv files — am I using them wrong?
+Scripts/
+pyvenv.cfg
